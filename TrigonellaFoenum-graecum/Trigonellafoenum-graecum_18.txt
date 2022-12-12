@@ -1,0 +1,13 @@
+A methanolic extract of Trigonella foenum-graecum (fenugreek) seeds regulates markers of macrophage polarization.
+
+Background: Macrophages are key cellular mediators in diabetes-related inflammation. Molecular cues such as cytokines found in the tissue microenvironment regulates the polarization of macrophages into an M1 (pro-inflammatory) or M2 (immunoregulatory) phenotype. Recent evidence suggests that M1 macrophages in diabetic patients may contribute to the complications associated with the disease such as atherosclerosis. Trigonella foenum- graecum (Tfg: fenugreek) seeds have been used in traditional medicine in Asia, Africa and the Middle-East for their alleged anti-diabetic properties.
+
+Objective: To identify the molecular mechanism(s) through which Tfg seeds exert their effects, we investigated the role of a crude methanolic extract of Tfg (FME) seeds on macrophage polarization in vitro.
+
+Method: THP-1 macrophages (Mϕ) were treated with gBSA in the presence/absence of FME and the release and expression of M1 and M2 markers/cytokines were analysed. The role of FME on NF-κB activity was also explored using transfected HEK-293T cells.
+
+Results: This study found that the FME significantly (P<0.05) decreased gBSA-induced secretion of M1 cytokines (TNF-α, IL-1β, IL-6 and IL-8) in THP-1 Mϕ cells. In the presence of gBSA, FME also significantly increased the gene expression of the M2 marker Dectin-1, but had no effect on IL-10, IL-1Ra.  FME also significantly decreased TNF-α induced NF-kB reporter activity.
+
+Conclusion: These results suggest that FME can regulate the expression of M1 and M2 markers in THP-1 Mϕ cells. This may be potentially through the modulation of NF-kB activity. Further work should be carried out to identify precise mechanism(s) involved in the effects of FME and Tfg seeds.
+
+Keywords: chronic inflammation, macrophage polarization, diabetes, glycated BSA, THP-1 cells, Trigonella foenum graecum, fenugreek seeds, NF-κB, 
