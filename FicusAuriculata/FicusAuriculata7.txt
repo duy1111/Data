@@ -1,0 +1,66 @@
+Ficus species good sources of natural antioxidant drugs 
+
+ABSTRACT
+Objectives: Ficus species are a major crop, and are utilised worldwide. The objectives
+of this study was to examine the antioxidant activity, total phenolic content and yield
+of extract of different parts of twelve Ficus species and to compare these activities by
+different extraction processes.
+Materials and Methods: DPPH, ABTS free radical scavenging assay and total
+phenolic contents (TPC) were performed to assess the antioxidant activity. The cluster
+and correlation analysis were also performed.
+Results: The highest percentages of inhibition were 94.58±0.88 % of DPPH and
+99.66±0.55 % of ABTS inhibition. In addition, Trolox equivalent antioxidant capacity
+(mg TE/g dry parts) were 39.23±0.34 for DPPH and 29.18±0.16 for the ABTS assay.
+The highest total phenolic contents were between the ranges of 22.29±0.69 and
+27.03±0.53 mg GAE/g, respectively and extraction yields were 8.63±0.19 and
+11.77±0.21 %, respectively, for maceration and ultrasonication extraction.
+Conclusion: Most of the extracts from Ficus sp. obtained by UAE process showed
+the highest activity and yields in comparison to the maceration process. In a
+comparison amongst all the parts, fruits of ‘Ficus grossularioides Burm. f’ showed the
+highest antioxidant activity, and fruits of ‘F. fistulosa Reinw. ex Blume’ exhibited the
+highest phenolic content and yield of extract in both the extraction process. These
+uncorrected proof
+2
+results show that Ficus species are by-products with strong radical scavengers and
+can be considered as good sources of natural antioxidants for food applications,
+amongst other purposes.
+Keywords: Ficus species, Moraceae, Antioxidant activity, Phenolic compounds; Yield
+percentages
+INTRODUCTION
+The genus Ficus belongs to the Moraceae family, containing about 800 species and
+2000 varieties, constituting the largest genera of angiosperms in the world. These
+species include woody trees, shrubs, vines, hemiepiphytes, climbers, and creepers,
+which are present in most tropical and subtropical forests.1 Different parts of these
+species have been used in folk medicine for a variety of purposes, due to their
+antimicrobial, antidiabetic, anticarcinogenic, anti-inflammatory, anthelmintic, mild
+laxative, hypotensive, antirheumatic, digestive and anti-dysentery drugs and
+antioxidant activities.2,3 Furthermore, these species provide a rich source of chemicals,
+such as alkaloid, coumarin, flavonoid, polyphenols, sterol, triterpenes, anthocyanin
+and other metabolites.1,3 Among natural antioxidants, polyphenolic compounds are
+one of the most abundant and are extensively distributed in the plants, acting as free
+radical scavengers and antioxidants. Therefore, the discovery of polyphenolic
+compounds from natural sources have received increased attention for their potential
+role in the prevention of human diseases,4 where these antioxidants can be included
+as part of the diet in the form of a food supplement or as a drug. 
+MATERIAL AND METHODS
+Chemicals and reagents
+1,1-Diphenyl-2-picrylhydrazyl(DPPH),2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic
+acid) (ABTS) and 6-hydroxy-2, 5, 7, 8-tetramethylchroman-2-carboxylic acid (Trolox)
+were purchased from Sigma-Aldrich, USA. Folin-Ciocalteu reagent was purchased
+from Merck, Germany. Potassium persulfate, 99.9 % pure ethanol, monohydrate gallic
+acid and anhydrous sodium carbonate were purchased from Friendemann Schmidt
+(FS) Chemicals, Australia. All the chemicals used were analytical grade. 18 mΩ
+deionised water was used to prepare the standard materials and extraction.
+Sample preparations
+Different parts of twelve Ficus species were collected from the Universiti Kebangsaan
+Malaysia (UKM) main campus from different locations, with the exception of F. carica
+uncorrected proof
+4
+L , which was collected from the Fig garden, Living lab energy and Future crops
+laboratories at Kuala Pilah under the Faculty of Engineering and Built Environment
+(FKAB), UKM in May 2016. Every part of Ficus species was washed with deionized
+water, given an airing at room temperature, and then dried at 35-40 º
+C with the help of
+Septree Food Dehydrator, China. All the parts of the Ficus species were powdered
+using a special grinder (XY-2200B, Shenzhen Yason General Machinery Co., Ltd,
+Guangdong, China) and stored in an airtight container. 

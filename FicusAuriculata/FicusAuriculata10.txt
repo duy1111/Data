@@ -1,0 +1,114 @@
+Pharmacology of Ficus: A review
+
+ABSTRACT
+Ficus is a medicinal plant that is commonly used in Malaysia, China, India, Thailand,
+South Africa, and other countries due to its pharmacological properties such as
+antimicrobial, anticancer, anti-inflammatory, antioxidant, anagelsic, and
+antihypertensive activities. Based on the ethnological reports, this genus has been
+used to treat fever, skin diseases, hypertension, diabetes, cardiovascular diseases, and
+diarrhea. Women also have used the decoction of the whole plant as an herbal drink
+to recover after childbirth. It also improves blood circulation and regains body
+strength, as well as treats disorders related to the menstrual cycle. Recently, there
+were a lot of researches about the isolation of the chemical constituents in the Ficus
+genus to understand the functions and the mechanisms of these constituents that
+attributed to the pharmacological properties of the plant. These chemical constituents,
+such as flavonoids, triterpenoids, steroids, and furocoumarins, have shown diverse
+applications in the pharmacotherapeutic field. Therefore, this comprehensive review
+summarises the background and pharmacological properties of the Ficus genus.
+INTRODUCTION
+The genus Ficus of the Moraceae family includes a large number of species, which is
+more than 800 species (Berg, 2003), mostly found in tropical areas of East Asia. The
+leaves are usually simple and waxy, and most exude white or yellow latex when broken. Many species have aerial roots, and a number are epiphytic. The unusual fruit
+structure, known as a syconium, is hollow, enclosing an inflorescence with tiny male
+and female flowers lining the inside. The growth forms of Ficus are varied, including
+shrubs, woody lianas, hemiepiphytes, epiphytes, and trees. Some indoor varieties of
+Ficus, such as fiddle-leaf fig and Audrey fig can be grown as outdoor ornamental
+plants as well (Al-Boudi and Afifi, 2011). Ficus species are rich in nutritional
+components and used as a source of food in Egypt, India, south China, Turkey, and
+Malaysia. Not all fruits from this genus can be eaten. For example, mistletoe fig or F.
+deltoidea, a tropical shrub that has rounded leaves and readily bears small fruits,
+unfortunately inedible. Only a handful with fruits considered edible such as Ficus
+carica L. or common fig, which is the only Ficus species that is cultivated for its fruit
+(Figure 1). This species is native to southwest Asia and the Mediterranean region.
+Other species like F. erecta often cultivated as pot plants in Taiwan, Indonesia and
+Japan (Aghel et al., 2009). ECOLOGY
+Ficus trees are ecologically significant keystone species because they provide food
+and shelter to many seed-dispersing animals in tropical forest ecosystems. A large
+number of vertebrates feed on their fruits more than other plants. Shanahan et al.
+(2001) stated that figs are the most widely eaten fruit because approximately >10% of 
+3
+the world’s birds and >6% of the world’s mammals consume figs. The fruits are an
+important food resource to some frugivores, including fruit bats, capuchin monkeys,
+gibbons, and orangutans. Other than that, bird species like hornbill, Asian barbets,
+pigeons, and fig-parrot rely on fig fruits as their source of food. High levels of
+carbohydrate and calcium in figs make them attractive to frugivorous birds and
+mammals (Kinnaird and O’Brien, 2005). Fig wasp plays an important role in the
+pollination system in tropical forest ecology. The fruit ripens quickly after the pollenbearing wasp leaves a Ficus plant, providing a rich feast that attracts a host of
+mammals and birds. If the plants were to be cut out of a forest or the fig wasps were
+removed, there would certainly be a dramatic change in the animal population, as
+reported by the reduction of population densities of fruit-eating mammals on small
+islands that lack Ficus species (Shanahan et al., 2001). The taxonomy of Ficus is
+described in Table 1.
+Phytochemical constituents
+Ficus genus is reported to be responsible for the treatment of various disease
+conditions because it contains a number of biologically active compounds, which are
+also known as phytochemicals. These bioactive compounds are naturally expressed
+by the plant in response to biotic and abiotic stresses (Chawla et al., 2012). The major
+phytochemicals such as flavonoids and phenolic compounds are reported to be
+concentrated in the leaves, fruit pulp, roots, stem bark or wood, peel and seeds of
+different species of Ficus plant along with polyphenol, polysterols and triterpenoids
+(Mandal et al., 1999). Fig fruit, especially the skin or exocarp and seeds, consist of
+monosaccharide sugars and a mix of phytochemicals such as gallic acid, flavonoids,
+rutin, chlorogenic acid and epicatechin. Various pigments like polyphenols,
+flavonoids, and anthocyanins are responsible for the various colors shown in different
+species of Ficus (Ahmed and Urooj, 2010).
+Anticancer activity
+Some species of the Ficus genus show the anticancer property in cell lines of several
+cancer types. Hexane, dichloromethane and acetone extract of F. crocata have been
+evaluated for antiproliferative activity in cell line of breast cancer. Dichloromethane
+extract showed the strongest effect in reducing the proliferation of MDA-MB-231
+cells (Sánchez-Valdeolívar et al., 2020). F. carica also showed anticancer activity
+when the methanolic extract of leaf and fruit were evaluated against Huh7it liver
+cancer cells using MTT assay (Purnamasari et al., 2019). The result showed that the
+extracts had IC50 values >653 μg/mL for the leaf extract and >2000 μg/mL for the
+fruit extract. A higher percentage of Huh7it apoptosis and necrosis in the leaf
+compared with fruit extracts was also observed.
+In another work by Bunawan et al. (2014), the anticancer activity of ethanolic
+and aqueous extracts of F. deltoidea was tested against human ovarian carcinoma cell
+line A2780 using MTT assay. The ethanolic and aqueous extracts gave IC50 values of
+143.03±20.21 µg/ml and 224.39+6.24 µg/ml, respectively. Both extracts also showed
+an apoptosis at 1000 μg/mL. It can be found that the ethanolic extract reduced cell
+proliferation, while aqueous extract induced cell detachment. Various phytochemical
+contents in the extracts could be attributed to this finding.
+Antidiarrheal activity
+Mandal and Kumar (2002) investigated the antidiarrheal activity in leaves
+extract of F. hispida. Diarrhea in rats was induced with castor oil and PEG2. The
+result showed that the methanol leaves extract could be used as an antidiarrheal
+agent as it inhibited the activities of diarrhoea and enteropooling in rats. It was
+assumed that tannins might be responsible for the antidiarrheal activity as it
+denatures the protein and forms protein tannate, which minimizes the intestinal
+mucosa permeability. Meanwhile, the leaf extract of F. microcarpa has been used
+in investigating the effect of antidiarrheal activity in rats. Castor oil was used to
+induce diarrhea in rats. The oral administration of the extract at doses of 300
+and 600 mg/kg produced a significant antidiarrheal effect in rats. At 300 mg/kg,
+the percentage of inhibition based on the number and weight of faeces was 79%
+and 66%. While, at 600 mg/kg, the values for both number and weight were
+32%. Based on the volume and weight of intestinal content, there was also a
+reduction in anti-enteropooling activity (Bairagi et al., 2014).
+Cardioprotective effect
+Leaf extract of F. hispida was prepared to investigate the cardioprotective effect on
+cyclophosphamide mediated myocardial injury due to oxidative stress in rat heart
+(Shanmugarajan et al., 2008). This finding revealed that lipid peroxidation was
+inhibited significantly. There was also an increased concentration of glutathione
+reductase, superoxide dismutase, glutathione peroxidase, catalase, and glutathione-Stransferase. Glutathione activity in heart tissue also decreased caused by
+cyclophosphamide. Its cardioprotective activity could be due to antioxidant
+constituents, which could be responsible for this finding such as hispidin, β-sitosterol,
+β-amyrin, and bergaptin.
+The extract of F. religiosa showed an improvement in oxidative stress, diabetic
+markers, and inflammatory and cardiac markers in streptozotocin-induced diabetic
+cardiomyopathy rats. The control of cytokine, diabetes and modulation of oxidative
+marker could be attributed to the cardioprotective role of F. religiosa (Singh et al.,
+2011). The extract of F. thonningii was prepared to investigate the myocardial
+contractile performance on rat isolated atrial muscle strips. The result showed that
+there were negative inotropic and chronotropic effects on both spontaneously beating
+and electronically driven atrial muscle strips (Musabayane et al., 2007). According to 

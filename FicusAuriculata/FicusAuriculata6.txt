@@ -1,0 +1,694 @@
+Phytochemical Composition, Antioxidant Potential, and Medicinal Significance of Ficus
+
+Abstract
+Ficus, a genus of plant family Moraceae, includes about 850 species. Most of the species of Ficus are used as a source of nutrition for humans. The roots, aerial roots, stem, bark, leaves, latex, fruit, and pulp of the Ficus plants are medicinally important due to the presence of a variety of bioactive phytochemical compounds, such as polyphenols, phenolic acids, triterpenoids, flavonoids, flavonols, anthocyanins, carotenoids, glycosides, polysaccharides, reducing compounds, and vitamins K, E, and C. Most of these phytochemical compounds possess strong antioxidant potential in terms of metal chelating, metal reducing, lipid reducing, and free radical scavenging capacities, which may be helpful in reducing the oxidative stress in the biological systems. On account of their high phytochemical content and strong antioxidant potential, these plants show several biological activities including antimicrobial, antidiabetic, anti-obesity, hepatoprotective, cardioprotective, and renal-protective, and anticancer activities. These plants have been found to be effective in the treatment of diabetes, stomachache, piles, skin diseases, inflammation, and cancer.
+1. Introduction
+Ficus is a genus of family Moraceae and consists of about 850 species. About 200 different varieties of Ficus are present as woody trees, shrubs and vines in the forests of tropical and subtropical regions [1]. About 500 species of Ficus are found in the region of Asia and Australia [2]. Some species of Ficus are also grown as indoor as well as outdoor ornamental plants. Ficus species are rich in nutritional components and used as a source food in Egypt, India, south China, Turkey and Malaysia. The plants of Ficus species are well known in the field of traditional medicine. Ficus species have been found to be rich source of phenolic acid and flavonoids which make them able to protect against disorders of oxidative stress [3]. Extract of these plants have been reported to be effective in the treatment of diabetes, stomachache, piles, ulcer, dysentery, inflammation, oxidative stress and cancer [4]. Ethno-medicinal uses of Ficus plants have been also supported by their anti-cancer, anti-inflammatory and anti-diabetic activities [5].
+
+Ficus plants are among the earliest cultivated fruit and ornamental tree which attract birds and mammals. Ficus species, such as, Ficus carica, Ficus religiosa, Ficus benghalensis and Ficus racemosa are the most important species of this genus as a spiritual, religious and historical plants to be used as folk medicine to treat various ailments, infectious diseases and cancer [6, 7]. Various parts of Ficus religiosa, have been reported to be used to treat high fever, chronic asthma and cancer and regulate menstrual cycle [8, 9, 10, 11]. Ficus carica also known as edible fig, its fruit had been used from ancient times due to its activity against cancer, hepatomegaly, ulcer, platelets and inflammatory disorders. Leaves of Ficus carica used to treat dermatitis. It can activate potassium ATP channels and, hence, is used effectively in gut motility [12]. Ficus racemosa traditionally named as sacred fig is popular as its latex is used in treatment of ulcer, tumor, gout and aphrodisiac and fruits are used as laxative and digestive due to antitumor and antibacterial activity [13]. Ficus benghalensis commonly called Indian banyan has been reported to possess anti-insulinase, anthelmintic, and antitumor activity [14, 15]. Different species of Ficus shows different colors due to the presence of various pigments like polyphenols, flavonoids and anthocyanins. The skin of Ficus fruits contains comparatively higher content of phytochemicals and antioxidants than fruit pulp [16]. The wood of the Ficus plants contains latex like material within their vasculatures that provide protection and wound healing from physical assaults [17].
+
+2. Biochemical and nutritional composition
+Since ancient times, Ficus species has been used as a source of food to improve the health of mankind [17]. Most of the species of Ficus are used in industrial products as nourishing foods. These are composed mainly of water, lipids, essential amino acids, minerals and vitamins [18]. Ficus genus worked as food additives that use frequently as health-promoting Mediterranean diet. It has great importance as nutraceutical and in biopharmaceutical industries [19]. They are known as rich sources of amino acids that are totally free from cholesterol and fat contents. Ficus carica is an excellent source of minerals containing copper, manganese, magnesium, potassium and calcium according to human needs [15, 20, 21, 22].
+
+3. Phytochemicals of Ficus species
+Phytochemicals are the bioactive components of plants having great importance in pharmaceutical and medicinal field. The genus Ficus consist of a variety of phytochemicals including phenolics, polyphenols, flavonoids, tannins, anthocyanins, coumarins, volatile components, glycosides, saponins, carotenoids, alkaloids, triterpenoids and vitamins. Most of these phytochemical compounds show health promoting effects in human due to their strong antioxidant potential. Higher concentrations of phytochemicals are responsible for the strong antioxidant potential of plants of genus Ficus and are helpful in the prevention of certain cardiovascular, neurodegenerative, and hepatic diseases caused by oxidative stress [23]. The phytochemical quality of various parts of some of the species of Ficus is presented in Table 1. It is reported that the roots, stem bark or wood, branches, fruit pulp, peel, leaves, and seeds of different species of Ficus plant contain the flavonoids and phenolic compounds as major phytochemical components along with polyphenol, polysterols and triterpenoids. The phytochemical content of various parts of some of the species of Ficus in terms of total phenolic, flavonoids, flavonols, ascorbic acid, alkaloids, saponins and anthocyanins contents in different solvents is presented in Table 2. The leaves and fruit pulp of various species of Ficus have been found to show relatively higher concentration of phenolic components due to which these parts comparatively have greater pharmacological as well as medicinal usage.
+
+
+Abstract
+Ficus, a genus of plant family Moraceae, includes about 850 species. Most of the species of Ficus are used as a source of nutrition for humans. The roots, aerial roots, stem, bark, leaves, latex, fruit, and pulp of the Ficus plants are medicinally important due to the presence of a variety of bioactive phytochemical compounds, such as polyphenols, phenolic acids, triterpenoids, flavonoids, flavonols, anthocyanins, carotenoids, glycosides, polysaccharides, reducing compounds, and vitamins K, E, and C. Most of these phytochemical compounds possess strong antioxidant potential in terms of metal chelating, metal reducing, lipid reducing, and free radical scavenging capacities, which may be helpful in reducing the oxidative stress in the biological systems. On account of their high phytochemical content and strong antioxidant potential, these plants show several biological activities including antimicrobial, antidiabetic, anti-obesity, hepatoprotective, cardioprotective, and renal-protective, and anticancer activities. These plants have been found to be effective in the treatment of diabetes, stomachache, piles, skin diseases, inflammation, and cancer.
+
+Keywords
+MoraceaeFicusPhytochemical compositionAntioxidant potentialMedicinal significance
+Author Information
+Show +
+1. Introduction
+Ficus is a genus of family Moraceae and consists of about 850 species. About 200 different varieties of Ficus are present as woody trees, shrubs and vines in the forests of tropical and subtropical regions [1]. About 500 species of Ficus are found in the region of Asia and Australia [2]. Some species of Ficus are also grown as indoor as well as outdoor ornamental plants. Ficus species are rich in nutritional components and used as a source food in Egypt, India, south China, Turkey and Malaysia. The plants of Ficus species are well known in the field of traditional medicine. Ficus species have been found to be rich source of phenolic acid and flavonoids which make them able to protect against disorders of oxidative stress [3]. Extract of these plants have been reported to be effective in the treatment of diabetes, stomachache, piles, ulcer, dysentery, inflammation, oxidative stress and cancer [4]. Ethno-medicinal uses of Ficus plants have been also supported by their anti-cancer, anti-inflammatory and anti-diabetic activities [5].
+
+Ficus plants are among the earliest cultivated fruit and ornamental tree which attract birds and mammals. Ficus species, such as, Ficus carica, Ficus religiosa, Ficus benghalensis and Ficus racemosa are the most important species of this genus as a spiritual, religious and historical plants to be used as folk medicine to treat various ailments, infectious diseases and cancer [6, 7]. Various parts of Ficus religiosa, have been reported to be used to treat high fever, chronic asthma and cancer and regulate menstrual cycle [8, 9, 10, 11]. Ficus carica also known as edible fig, its fruit had been used from ancient times due to its activity against cancer, hepatomegaly, ulcer, platelets and inflammatory disorders. Leaves of Ficus carica used to treat dermatitis. It can activate potassium ATP channels and, hence, is used effectively in gut motility [12]. Ficus racemosa traditionally named as sacred fig is popular as its latex is used in treatment of ulcer, tumor, gout and aphrodisiac and fruits are used as laxative and digestive due to antitumor and antibacterial activity [13]. Ficus benghalensis commonly called Indian banyan has been reported to possess anti-insulinase, anthelmintic, and antitumor activity [14, 15]. Different species of Ficus shows different colors due to the presence of various pigments like polyphenols, flavonoids and anthocyanins. The skin of Ficus fruits contains comparatively higher content of phytochemicals and antioxidants than fruit pulp [16]. The wood of the Ficus plants contains latex like material within their vasculatures that provide protection and wound healing from physical assaults [17].
+
+The genus Ficus is classified as:
+
+Domain	Eukaryota
+Kingdom	Plantae
+Subkingdom	Viridaeplantae
+Phylum	Tracheophyta
+Subphylum	Euphyllopsidia
+Infra phylum	Radiatopses
+Division	Magnoliophyte
+Class	Magnoliopsida
+Subclass	Dilleniidae
+Superorder	Urticaneae
+Order	Urticales
+Family	Moraceae
+Genus	Ficus
+2. Biochemical and nutritional composition
+Since ancient times, Ficus species has been used as a source of food to improve the health of mankind [17]. Most of the species of Ficus are used in industrial products as nourishing foods. These are composed mainly of water, lipids, essential amino acids, minerals and vitamins [18]. Ficus genus worked as food additives that use frequently as health-promoting Mediterranean diet. It has great importance as nutraceutical and in biopharmaceutical industries [19]. They are known as rich sources of amino acids that are totally free from cholesterol and fat contents. Ficus carica is an excellent source of minerals containing copper, manganese, magnesium, potassium and calcium according to human needs [15, 20, 21, 22].
+
+3. Phytochemicals of Ficus species
+Phytochemicals are the bioactive components of plants having great importance in pharmaceutical and medicinal field. The genus Ficus consist of a variety of phytochemicals including phenolics, polyphenols, flavonoids, tannins, anthocyanins, coumarins, volatile components, glycosides, saponins, carotenoids, alkaloids, triterpenoids and vitamins. Most of these phytochemical compounds show health promoting effects in human due to their strong antioxidant potential. Higher concentrations of phytochemicals are responsible for the strong antioxidant potential of plants of genus Ficus and are helpful in the prevention of certain cardiovascular, neurodegenerative, and hepatic diseases caused by oxidative stress [23]. The phytochemical quality of various parts of some of the species of Ficus is presented in Table 1. It is reported that the roots, stem bark or wood, branches, fruit pulp, peel, leaves, and seeds of different species of Ficus plant contain the flavonoids and phenolic compounds as major phytochemical components along with polyphenol, polysterols and triterpenoids. The phytochemical content of various parts of some of the species of Ficus in terms of total phenolic, flavonoids, flavonols, ascorbic acid, alkaloids, saponins and anthocyanins contents in different solvents is presented in Table 2. The leaves and fruit pulp of various species of Ficus have been found to show relatively higher concentration of phenolic components due to which these parts comparatively have greater pharmacological as well as medicinal usage.
+
+Ficus species	Plant parts	Extracting solvent	Class	Phytochemical components	References
+Ficus religiosa	Barks	Water, methanol, organic solvents, helium	Polysterols	Bergapten, bergaptol, lanosterol, β-sitosterol, stigmasterol, β-sitosterol-d-glucoside (Phytosterolin)	[24, 25]
+Flavonoids	Leucocyanidin-3-O-β-glucopyranosid, leucopelargonidin-3-O-β-d-glucopyranoside, leucopelargonidin-3-O-α-l-rhamnopyranoside, lupeol, cetyl behenate, acetate and α-amyrin acetate
+Polyphenols	Tannin, wax, saponin, leucoanthocyanidin, leucoanthocyanin
+Fruit	Water	Flavonols	Kaempferol, quercetin, and myricetin	[26, 27]
+Miscellaneous compounds	Undecane, tridecane, tetradecane, (e)-β-ocimene β-bourbonene, β-caryophyllene, α-trans bergamotene, α-thujene, α-pinene, β-pinene, α-terpinene, limonene, dendrolasine, dendrolasine α-ylangene, α-copaene, aromadendrene, α-humulene, alloaromadendrene, germacrene, bicycle-germacrene, γ-cadinene and δ-cadinene
+Leaves	Ethanol	Polyphenols	Eugenol, 2-phenylethyl alcohol, and benzyl alcohol, hexenol, n-hexanol, phytol, benzyl alcohol	[28]
+Miscellaneous compounds	Phenol, salicylaldehyde, phenylacetaldehyde, allyl caproate, linalool, n-nonanal, adipoin, methylcyclopentane, 2-dione, itaconic anhydride, 2-phenylethyl alcohol, benzeneacetonitrile, nonadienal, nonen-1-ol, nonadienol, linalool oxide, catechol, coumaran, cinnamyl alcohol, vinylguaiacol, hexenyl tiglate, eugenol, hexenyl hexenoate, β-ionone, dihydroactinidiolide, α-copaene, hexenyl benzoate, eudesmol, eudesmol, epi-α-cadinol, β-eudesmol, α-eudesmol, α-cadinol, pentadecanal, palmitic acid and itaconic anhydride, 3-methylcyclopentane-1, 2-dione
+Ficus auriculata	Leaves and fruits	Ether, chloroform and ethanol	Flavonols	Kaempferol, quercetin, myricetin	[29]
+Phenolic acids	Betulinic acid, lupeol
+Sterols	Stigmasterol, bergapten, scopoletin, β-sitosterol-3-O-β-d-glucopyranoside
+Ficus sycomorus	Whole plant	N-butanol, ethanol and methanol	Flavonoids	Quercetin, quercetin 3-O-l-rhamnopyranosyl (1-6)-β-d-glucopyranoside, quercetin 3-O-β-d-glucopyranoside (isoquercitrin), quercetin 3,7-O-α-l-dirhamnoside, quercetin, 3-O-β-d-galactopyranosyl(1-6)-glucopyranoside	[30]
+Sterol	β-Sitosterol-3-β-d-glucopyranoside
+Phenolic acids	Gallic acid
+Ficus carica	Dried fruit	Water	Flavonoids	Alkaloids, flavonoids, coumarins, saponins, rennin, caoutchouc, resin, albumin, cerin, sugar and terpenes	[31]
+Latex	Water	Enzymes	Proteolytic enzymes, diastase, esterase, lipase, catalase, and peroxidase	[32]
+Phenolic acids	Malic acid
+Leaves	Water	Coumarins	Psoralen and bergapten	[33]
+Flavonoids	Rutin, quercetin, and luteolin
+Phenolic acids	Ferulic acid
+Phytosterols	Taraxasterol, psoralen and bergapten (5-methoxypsoralen)
+Pulp	Water	Phenolic acids	Chlorgenic acid	
+Peel	Water	Coumarins and sterol	Quercitin-3-O-rutinoside, psoralen	
+Ficus benghalensis	Aerial roots	Water and methanol	Polyphenols	Saponins, tannins, glucoside and flavonoids	[14]
+Sterol	β-Sitosterol-α-d-glucose and meso-inositol	
+Ficus capensis	Stem bark	Water	Polyphenols	Alkaloids, balsams, carbohydrates, flavonoids, free anthraquinones, tannins, glycosides, terpenes, resins, sterols and saponins, glycosides	[34]
+Leaves	Water	Volatile compounds	Carvacrol, α-caryophyllene, caryophyllene oxide, linalool, 3-tetradecanone, geranylacetone, 3,7,11-trimethyl-3-hydroxy-6;10-dodecadiene-1-yl acetate, hexahydrofarnesyl acetone, α-caryophyllene, 2-methyl-3-hexyne and scytalone	[35]
+Ficus polita Vahl	Roots	Water	Phenolic acids	Betulinic acid and ursolic acid	[36]
+Anthocyanins	Trihydroxy-stilbene-3, 5-O-β-d-diglucopyranoside, euphol-3-ocinnamate, lupeol, taraxar-14-ene
+Ficus microcarpa	Aerial roots		Triterpenoids	Friedelin, lupeol, oleanolic acid, ursolic acids	[37]
+Leaves		Flavoinoids	Catechin, epicatechin and isovitexin
+Ficus retusa	Leaves	Methanol	Polyphenols	1,2-Benzenedicarboxylic acid-dibutyl ester, phenol, 4-(2aminopropyl), butyrolactone	[38]
+Aerial parts	Ethanol	Flavonols	Luteolin, afzelechin, catechin, vitexin, β-sitosterol acetate, β-amyrin acetate, moretenone, β-amyrin	[39]
+Sterols	β-Sitosterol, friedelenol
+Ficus palmata	Stem bark	Water	Anthocyanins	Cetyl behenate, lupeol, α-amyrin acetate	[40]
+Leaves and bark	Water	Sterols	β-Sitosterol and a new tetracyclic tritepene-glaunol acetate	
+Ficus thunbergii	Fresh leaves and stem	Methanol	Anthocyanins	Amyrin acetate, α-amyrin acetate, lupeol, β-amyrin, α-amyrin, rhoiptelenol, 3α-hydroxyisohop-22(29)-en-24-oic acid, lupenyl acetate	[41]
+Phenolic acids	Ursolic acid, betulinic acid
+Ficus cordata	Stem bark	Water	Terpenes	Pentacyclic triterpenes 8,26-cyclo-urs-21-en3β, 20β-diol and 3β-acetoxy-8, 26-cyclo-ursan-20β-ol and also 3-friedelanone	[42]
+Phenolic acids	Oleanolic acid, betulinic acid
+Anthocyanins	Lupeol acetate, α and β amyrine, 3,5,7,4′-tetra hydroxyl flavones
+Ficus deltoidea	Leaves	Hot and cold water	Flavonols	Triterpene, conrauidienol, and dihydroflavonol, conrauiflavonol, 3,4’,5-trihydroxy-6’’,6’’-dimethylpyrano[2,3-g]flavone	[43, 44, 45]
+Anthocyanin	β-amyrin acetate, 6β-hydroxystigmasta-4,22-dien-3-one, 8-prenylapigenin
+Phenolic acid	Betulinic acid, ursolic acid
+Flavonoids	Luteolin, catechin, epigallocatechin, orientin
+Sterol	β-Sitosterol glucoside
+Ficus tsiela	Whole plant	Water	Phenolic acid	Gallic acid	[46]
+Anthocyanin	3, β-hydroksilup-20(29)-en, (lupeol)
+Polyphenols	Carbohydrates, glycosides, saponins, resins, fat, flavonoids, tannins, and phenolic compounds. Alkaloids and steroid were absent	[47]
+Table 1.
+Phytochemical quality of various parts of commonly used species of Ficus.
+
+Ficus species	Plant parts	ES	TPC	TFC	TF	AAC	TAC	TSC	TA	References
+Ficus benghalensis	Roots	Ethanol	70 mg/g extract	5 mg QE/g extract	3 mg QE/g extract					[48]
+Ficus deltoidea	Pulp	Water	0.49–0.88 mg GAE/g							[49]
+Ficus microcarpa	Leaves	Hexane		6.6–9.5 M/TE						[50]
+F virens	Dried leaves	Hexane	17.44 mg/g	3.87 mg/g						[51]
+F racemosa	Dried leaves	Methanol	7.83 mg/g	1.05 mg/g						[51]
+Ficus carica	Fruit	Ethanol	28.6–211.19 mg GAE/100 g FW, 11.9 mg/g of DM	2.75 μg CE/mg sample			9.6%	0.59%	0.0–298.6 μg cy-3-rutinoside/g FW	[52, 53]
+Ficus deltoidea	Fruit	Hexane	259.2 mg GAE/g							[54]
+Methanol	245.2 mg GAE/g					
+Chloroform	159.2 mg GAE/g		
+Ficus indica	Pulp	Methanol				28–30 mg/100 g extract				[55]
+Table 2.
+Phytochemical content of various parts of commonly used species of Ficus.
+
+ES: extracting solvents, TPC: total phenolic content, TFC: total flavonoid content, TF: total flavonols, AAC: ascorbic acid content, TAC: total alkaloid content, TSC: total saponin content, TA: total anthocyanins, DM: dried material, QE: quercetin equivalent, TE: trolox equivalent, ep: edible pulp, GAE: gallic acid equivalent, FW: fresh weight.
+
+4. Antioxidant composition
+Antioxidants are the substances which can scavenge free radicals and reduce the oxidative stress in the living and nonliving systems. The antioxidants possess electron donating ability and inhibit the free radical-mediated oxidative reactions by various mechanisms, such as, hydrogen donation, metal chelation, metal and lipid reduction, inhibition of lipid peroxidation and free radical inhibition [56, 57, 58, 59, 60]. Free radicals are the reactive oxygen and nitrogen species which are produced during various biochemical reactions particularly redox reactions. If not controlled properly, these free radicals may initiate the chain reactions in the biomolecules particularly the lipids and protein, cause the oxidative stress, and finally lead to the oxidative damage to the cell organelles, cells and tissues [24]. The oxidative damage to the cells and tissues may further lead to various health problems including cardiovascular, neurological, hepatic, and musculoskeletal abnormalities and aging. In nonliving system, the free radicals cause oxidative stress and rancidity in the food stuff for human [25]. The naturally occurring antioxidant compounds have been proved to be effective in preventing the oxidative damage to the living and nonliving systems [26]. These substances are either synthesized endogenously or taken from exogenous natural sources such as plants. The naturally occurring antioxidants include some enzymes such as glutathione peroxidase, catalase, superoxide dismutase and some non-enzymatic phytochemicals compounds including phenolic acids, polyphenols, flavonoids, anthocyanins, ascorbic acid, tocopherols, and β-carotenes [27, 28]. Some synthetic antioxidant compounds have been also reported to be effective against free radical-induced oxidative damage [29].
+
+The antioxidant profile of various parts of Ficus species is presented in Table 3. Different parts of Ficus plants have been reported to showed antioxidant activity in terms of Trolox equivalent antioxidant capacity, ferric reducing antioxidant power, lipid reducing activity, inhibition of lipid peroxidation, and free radical scavenging capacity against 2,2-diphenyl picryl hydrazyl (DPPH) and 2,2-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) radicals in a dose dependent vstronger antioxidant activity due to relatively higher concentration of phenolic components [30].
+
+Abstract
+Ficus, a genus of plant family Moraceae, includes about 850 species. Most of the species of Ficus are used as a source of nutrition for humans. The roots, aerial roots, stem, bark, leaves, latex, fruit, and pulp of the Ficus plants are medicinally important due to the presence of a variety of bioactive phytochemical compounds, such as polyphenols, phenolic acids, triterpenoids, flavonoids, flavonols, anthocyanins, carotenoids, glycosides, polysaccharides, reducing compounds, and vitamins K, E, and C. Most of these phytochemical compounds possess strong antioxidant potential in terms of metal chelating, metal reducing, lipid reducing, and free radical scavenging capacities, which may be helpful in reducing the oxidative stress in the biological systems. On account of their high phytochemical content and strong antioxidant potential, these plants show several biological activities including antimicrobial, antidiabetic, anti-obesity, hepatoprotective, cardioprotective, and renal-protective, and anticancer activities. These plants have been found to be effective in the treatment of diabetes, stomachache, piles, skin diseases, inflammation, and cancer.
+
+Keywords
+MoraceaeFicusPhytochemical compositionAntioxidant potentialMedicinal significance
+Author Information
+Show +
+1. Introduction
+Ficus is a genus of family Moraceae and consists of about 850 species. About 200 different varieties of Ficus are present as woody trees, shrubs and vines in the forests of tropical and subtropical regions [1]. About 500 species of Ficus are found in the region of Asia and Australia [2]. Some species of Ficus are also grown as indoor as well as outdoor ornamental plants. Ficus species are rich in nutritional components and used as a source food in Egypt, India, south China, Turkey and Malaysia. The plants of Ficus species are well known in the field of traditional medicine. Ficus species have been found to be rich source of phenolic acid and flavonoids which make them able to protect against disorders of oxidative stress [3]. Extract of these plants have been reported to be effective in the treatment of diabetes, stomachache, piles, ulcer, dysentery, inflammation, oxidative stress and cancer [4]. Ethno-medicinal uses of Ficus plants have been also supported by their anti-cancer, anti-inflammatory and anti-diabetic activities [5].
+
+Ficus plants are among the earliest cultivated fruit and ornamental tree which attract birds and mammals. Ficus species, such as, Ficus carica, Ficus religiosa, Ficus benghalensis and Ficus racemosa are the most important species of this genus as a spiritual, religious and historical plants to be used as folk medicine to treat various ailments, infectious diseases and cancer [6, 7]. Various parts of Ficus religiosa, have been reported to be used to treat high fever, chronic asthma and cancer and regulate menstrual cycle [8, 9, 10, 11]. Ficus carica also known as edible fig, its fruit had been used from ancient times due to its activity against cancer, hepatomegaly, ulcer, platelets and inflammatory disorders. Leaves of Ficus carica used to treat dermatitis. It can activate potassium ATP channels and, hence, is used effectively in gut motility [12]. Ficus racemosa traditionally named as sacred fig is popular as its latex is used in treatment of ulcer, tumor, gout and aphrodisiac and fruits are used as laxative and digestive due to antitumor and antibacterial activity [13]. Ficus benghalensis commonly called Indian banyan has been reported to possess anti-insulinase, anthelmintic, and antitumor activity [14, 15]. Different species of Ficus shows different colors due to the presence of various pigments like polyphenols, flavonoids and anthocyanins. The skin of Ficus fruits contains comparatively higher content of phytochemicals and antioxidants than fruit pulp [16]. The wood of the Ficus plants contains latex like material within their vasculatures that provide protection and wound healing from physical assaults [17].
+
+The genus Ficus is classified as:
+
+Domain	Eukaryota
+Kingdom	Plantae
+Subkingdom	Viridaeplantae
+Phylum	Tracheophyta
+Subphylum	Euphyllopsidia
+Infra phylum	Radiatopses
+Division	Magnoliophyte
+Class	Magnoliopsida
+Subclass	Dilleniidae
+Superorder	Urticaneae
+Order	Urticales
+Family	Moraceae
+Genus	Ficus
+2. Biochemical and nutritional composition
+Since ancient times, Ficus species has been used as a source of food to improve the health of mankind [17]. Most of the species of Ficus are used in industrial products as nourishing foods. These are composed mainly of water, lipids, essential amino acids, minerals and vitamins [18]. Ficus genus worked as food additives that use frequently as health-promoting Mediterranean diet. It has great importance as nutraceutical and in biopharmaceutical industries [19]. They are known as rich sources of amino acids that are totally free from cholesterol and fat contents. Ficus carica is an excellent source of minerals containing copper, manganese, magnesium, potassium and calcium according to human needs [15, 20, 21, 22].
+
+3. Phytochemicals of Ficus species
+Phytochemicals are the bioactive components of plants having great importance in pharmaceutical and medicinal field. The genus Ficus consist of a variety of phytochemicals including phenolics, polyphenols, flavonoids, tannins, anthocyanins, coumarins, volatile components, glycosides, saponins, carotenoids, alkaloids, triterpenoids and vitamins. Most of these phytochemical compounds show health promoting effects in human due to their strong antioxidant potential. Higher concentrations of phytochemicals are responsible for the strong antioxidant potential of plants of genus Ficus and are helpful in the prevention of certain cardiovascular, neurodegenerative, and hepatic diseases caused by oxidative stress [23]. The phytochemical quality of various parts of some of the species of Ficus is presented in Table 1. It is reported that the roots, stem bark or wood, branches, fruit pulp, peel, leaves, and seeds of different species of Ficus plant contain the flavonoids and phenolic compounds as major phytochemical components along with polyphenol, polysterols and triterpenoids. The phytochemical content of various parts of some of the species of Ficus in terms of total phenolic, flavonoids, flavonols, ascorbic acid, alkaloids, saponins and anthocyanins contents in different solvents is presented in Table 2. The leaves and fruit pulp of various species of Ficus have been found to show relatively higher concentration of phenolic components due to which these parts comparatively have greater pharmacological as well as medicinal usage.
+
+Ficus species	Plant parts	Extracting solvent	Class	Phytochemical components	References
+Ficus religiosa	Barks	Water, methanol, organic solvents, helium	Polysterols	Bergapten, bergaptol, lanosterol, β-sitosterol, stigmasterol, β-sitosterol-d-glucoside (Phytosterolin)	[24, 25]
+Flavonoids	Leucocyanidin-3-O-β-glucopyranosid, leucopelargonidin-3-O-β-d-glucopyranoside, leucopelargonidin-3-O-α-l-rhamnopyranoside, lupeol, cetyl behenate, acetate and α-amyrin acetate
+Polyphenols	Tannin, wax, saponin, leucoanthocyanidin, leucoanthocyanin
+Fruit	Water	Flavonols	Kaempferol, quercetin, and myricetin	[26, 27]
+Miscellaneous compounds	Undecane, tridecane, tetradecane, (e)-β-ocimene β-bourbonene, β-caryophyllene, α-trans bergamotene, α-thujene, α-pinene, β-pinene, α-terpinene, limonene, dendrolasine, dendrolasine α-ylangene, α-copaene, aromadendrene, α-humulene, alloaromadendrene, germacrene, bicycle-germacrene, γ-cadinene and δ-cadinene
+Leaves	Ethanol	Polyphenols	Eugenol, 2-phenylethyl alcohol, and benzyl alcohol, hexenol, n-hexanol, phytol, benzyl alcohol	[28]
+Miscellaneous compounds	Phenol, salicylaldehyde, phenylacetaldehyde, allyl caproate, linalool, n-nonanal, adipoin, methylcyclopentane, 2-dione, itaconic anhydride, 2-phenylethyl alcohol, benzeneacetonitrile, nonadienal, nonen-1-ol, nonadienol, linalool oxide, catechol, coumaran, cinnamyl alcohol, vinylguaiacol, hexenyl tiglate, eugenol, hexenyl hexenoate, β-ionone, dihydroactinidiolide, α-copaene, hexenyl benzoate, eudesmol, eudesmol, epi-α-cadinol, β-eudesmol, α-eudesmol, α-cadinol, pentadecanal, palmitic acid and itaconic anhydride, 3-methylcyclopentane-1, 2-dione
+Ficus auriculata	Leaves and fruits	Ether, chloroform and ethanol	Flavonols	Kaempferol, quercetin, myricetin	[29]
+Phenolic acids	Betulinic acid, lupeol
+Sterols	Stigmasterol, bergapten, scopoletin, β-sitosterol-3-O-β-d-glucopyranoside
+Ficus sycomorus	Whole plant	N-butanol, ethanol and methanol	Flavonoids	Quercetin, quercetin 3-O-l-rhamnopyranosyl (1-6)-β-d-glucopyranoside, quercetin 3-O-β-d-glucopyranoside (isoquercitrin), quercetin 3,7-O-α-l-dirhamnoside, quercetin, 3-O-β-d-galactopyranosyl(1-6)-glucopyranoside	[30]
+Sterol	β-Sitosterol-3-β-d-glucopyranoside
+Phenolic acids	Gallic acid
+Ficus carica	Dried fruit	Water	Flavonoids	Alkaloids, flavonoids, coumarins, saponins, rennin, caoutchouc, resin, albumin, cerin, sugar and terpenes	[31]
+Latex	Water	Enzymes	Proteolytic enzymes, diastase, esterase, lipase, catalase, and peroxidase	[32]
+Phenolic acids	Malic acid
+Leaves	Water	Coumarins	Psoralen and bergapten	[33]
+Flavonoids	Rutin, quercetin, and luteolin
+Phenolic acids	Ferulic acid
+Phytosterols	Taraxasterol, psoralen and bergapten (5-methoxypsoralen)
+Pulp	Water	Phenolic acids	Chlorgenic acid	
+Peel	Water	Coumarins and sterol	Quercitin-3-O-rutinoside, psoralen	
+Ficus benghalensis	Aerial roots	Water and methanol	Polyphenols	Saponins, tannins, glucoside and flavonoids	[14]
+Sterol	β-Sitosterol-α-d-glucose and meso-inositol	
+Ficus capensis	Stem bark	Water	Polyphenols	Alkaloids, balsams, carbohydrates, flavonoids, free anthraquinones, tannins, glycosides, terpenes, resins, sterols and saponins, glycosides	[34]
+Leaves	Water	Volatile compounds	Carvacrol, α-caryophyllene, caryophyllene oxide, linalool, 3-tetradecanone, geranylacetone, 3,7,11-trimethyl-3-hydroxy-6;10-dodecadiene-1-yl acetate, hexahydrofarnesyl acetone, α-caryophyllene, 2-methyl-3-hexyne and scytalone	[35]
+Ficus polita Vahl	Roots	Water	Phenolic acids	Betulinic acid and ursolic acid	[36]
+Anthocyanins	Trihydroxy-stilbene-3, 5-O-β-d-diglucopyranoside, euphol-3-ocinnamate, lupeol, taraxar-14-ene
+Ficus microcarpa	Aerial roots		Triterpenoids	Friedelin, lupeol, oleanolic acid, ursolic acids	[37]
+Leaves		Flavoinoids	Catechin, epicatechin and isovitexin
+Ficus retusa	Leaves	Methanol	Polyphenols	1,2-Benzenedicarboxylic acid-dibutyl ester, phenol, 4-(2aminopropyl), butyrolactone	[38]
+Aerial parts	Ethanol	Flavonols	Luteolin, afzelechin, catechin, vitexin, β-sitosterol acetate, β-amyrin acetate, moretenone, β-amyrin	[39]
+Sterols	β-Sitosterol, friedelenol
+Ficus palmata	Stem bark	Water	Anthocyanins	Cetyl behenate, lupeol, α-amyrin acetate	[40]
+Leaves and bark	Water	Sterols	β-Sitosterol and a new tetracyclic tritepene-glaunol acetate	
+Ficus thunbergii	Fresh leaves and stem	Methanol	Anthocyanins	Amyrin acetate, α-amyrin acetate, lupeol, β-amyrin, α-amyrin, rhoiptelenol, 3α-hydroxyisohop-22(29)-en-24-oic acid, lupenyl acetate	[41]
+Phenolic acids	Ursolic acid, betulinic acid
+Ficus cordata	Stem bark	Water	Terpenes	Pentacyclic triterpenes 8,26-cyclo-urs-21-en3β, 20β-diol and 3β-acetoxy-8, 26-cyclo-ursan-20β-ol and also 3-friedelanone	[42]
+Phenolic acids	Oleanolic acid, betulinic acid
+Anthocyanins	Lupeol acetate, α and β amyrine, 3,5,7,4′-tetra hydroxyl flavones
+Ficus deltoidea	Leaves	Hot and cold water	Flavonols	Triterpene, conrauidienol, and dihydroflavonol, conrauiflavonol, 3,4’,5-trihydroxy-6’’,6’’-dimethylpyrano[2,3-g]flavone	[43, 44, 45]
+Anthocyanin	β-amyrin acetate, 6β-hydroxystigmasta-4,22-dien-3-one, 8-prenylapigenin
+Phenolic acid	Betulinic acid, ursolic acid
+Flavonoids	Luteolin, catechin, epigallocatechin, orientin
+Sterol	β-Sitosterol glucoside
+Ficus tsiela	Whole plant	Water	Phenolic acid	Gallic acid	[46]
+Anthocyanin	3, β-hydroksilup-20(29)-en, (lupeol)
+Polyphenols	Carbohydrates, glycosides, saponins, resins, fat, flavonoids, tannins, and phenolic compounds. Alkaloids and steroid were absent	[47]
+Table 1.
+Phytochemical quality of various parts of commonly used species of Ficus.
+
+Ficus species	Plant parts	ES	TPC	TFC	TF	AAC	TAC	TSC	TA	References
+Ficus benghalensis	Roots	Ethanol	70 mg/g extract	5 mg QE/g extract	3 mg QE/g extract					[48]
+Ficus deltoidea	Pulp	Water	0.49–0.88 mg GAE/g							[49]
+Ficus microcarpa	Leaves	Hexane		6.6–9.5 M/TE						[50]
+F virens	Dried leaves	Hexane	17.44 mg/g	3.87 mg/g						[51]
+F racemosa	Dried leaves	Methanol	7.83 mg/g	1.05 mg/g						[51]
+Ficus carica	Fruit	Ethanol	28.6–211.19 mg GAE/100 g FW, 11.9 mg/g of DM	2.75 μg CE/mg sample			9.6%	0.59%	0.0–298.6 μg cy-3-rutinoside/g FW	[52, 53]
+Ficus deltoidea	Fruit	Hexane	259.2 mg GAE/g							[54]
+Methanol	245.2 mg GAE/g					
+Chloroform	159.2 mg GAE/g		
+Ficus indica	Pulp	Methanol				28–30 mg/100 g extract				[55]
+Table 2.
+Phytochemical content of various parts of commonly used species of Ficus.
+
+ES: extracting solvents, TPC: total phenolic content, TFC: total flavonoid content, TF: total flavonols, AAC: ascorbic acid content, TAC: total alkaloid content, TSC: total saponin content, TA: total anthocyanins, DM: dried material, QE: quercetin equivalent, TE: trolox equivalent, ep: edible pulp, GAE: gallic acid equivalent, FW: fresh weight.
+
+4. Antioxidant composition
+Antioxidants are the substances which can scavenge free radicals and reduce the oxidative stress in the living and nonliving systems. The antioxidants possess electron donating ability and inhibit the free radical-mediated oxidative reactions by various mechanisms, such as, hydrogen donation, metal chelation, metal and lipid reduction, inhibition of lipid peroxidation and free radical inhibition [56, 57, 58, 59, 60]. Free radicals are the reactive oxygen and nitrogen species which are produced during various biochemical reactions particularly redox reactions. If not controlled properly, these free radicals may initiate the chain reactions in the biomolecules particularly the lipids and protein, cause the oxidative stress, and finally lead to the oxidative damage to the cell organelles, cells and tissues [24]. The oxidative damage to the cells and tissues may further lead to various health problems including cardiovascular, neurological, hepatic, and musculoskeletal abnormalities and aging. In nonliving system, the free radicals cause oxidative stress and rancidity in the food stuff for human [25]. The naturally occurring antioxidant compounds have been proved to be effective in preventing the oxidative damage to the living and nonliving systems [26]. These substances are either synthesized endogenously or taken from exogenous natural sources such as plants. The naturally occurring antioxidants include some enzymes such as glutathione peroxidase, catalase, superoxide dismutase and some non-enzymatic phytochemicals compounds including phenolic acids, polyphenols, flavonoids, anthocyanins, ascorbic acid, tocopherols, and β-carotenes [27, 28]. Some synthetic antioxidant compounds have been also reported to be effective against free radical-induced oxidative damage [29].
+
+The antioxidant profile of various parts of Ficus species is presented in Table 3. Different parts of Ficus plants have been reported to showed antioxidant activity in terms of Trolox equivalent antioxidant capacity, ferric reducing antioxidant power, lipid reducing activity, inhibition of lipid peroxidation, and free radical scavenging capacity against 2,2-diphenyl picryl hydrazyl (DPPH) and 2,2-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) radicals in a dose dependent vstronger antioxidant activity due to relatively higher concentration of phenolic components [30].
+
+Ficus species	Part	ES	TEAC*	FRAC	DPPH-RSC	ABT-RSC	ILP	LRA	References
+Ficus racemosa	Stem	Methanol			16.2%	8615.3 mmol/g DM			[61]
+Bark	Ethanol			79%	10884.6 μmol/g DM		
+Roots	Water		0.5–0.26 mg/ml				
+Ficus virens sublanceolata	Leaves	Water		0.13–0.66 mg/ml	IC50: 0.34 mg/ml	IC50: 0.23 mg/ml	83.30%		[51]
+Ficus vasculosa	Leaves	Methanol		0.07–0.26 mg/ml	IC50: 0.69 mg/ml	IC50: 0.97 mg/ml			[51]
+Ficus indica	Mouse liver	Normal saline				4.20–5.31 μmol TE/g ep	EC50: 313.3 μg/ml		[55, 62]
+Chicken liver	Normal saline					EC50: 333.8 μg/ml	
+Ficus callosa	Fruit	Methanol		0.08–0.33 mg/ml	IC50: 0.95 mg/ml	IC50: 0.35 mg/ml	41–83%		[51]
+Ficus palmate	Fruit	Methanol		77.6 mg AC/100 g FW	104.9 mg CE/100 g FW	577.09 mg BH/100 g FW			[63, 64]
+Ethanol		146.67 mg AC/100 g FW	146.9 mg CE/100 g FW	729.45 mg BH/100 g F W		
+Ficus auriculata	Roots	Acetone		0.1–0.45 mg/ml	IC50: 0.29 mg/ml	IC50: 0.25 mg/ml	41–83%		[51]
+Ficus virens	Bark	Water		0.06–0.32 mg/ml	IC50: 1.03 mg/ml	IC50: 0.48 mg/ml			[51]
+Leaves	Methanol			SC50 (74.00 μg/ml)				[65]
+Ficus oligodon	Leaves	Acetone		0.04–0.22 mg/ml	IC50: 2.54 mg/ml	IC50: 0.86 mg/ml	41.40%		[51]
+Ficus benghalensis	Aerial roots	Methanol			71%	6096.1 μmol/g DM			[61, 66]
+Acetone, Water		0.1–1.0 mg/ml	96.07%	6182.7 μmol/g DM		
+Ficus auriculata	Stem bark	Methanol			84.088%				[67]
+Stem bark	Chloroform			83.864%			
+Stem bark	Hexane			42%		
+Ficus caprefolia	Leaves	Acetone	2.32%, 4.73 mg GAE/g DW						[68]
+Ficus carica	Leaves	Hexane, water	14.04%, 23.50 acetate/g DW	7.9–16.1 mmol/kg FW	11.42 mmol/100 g DW	6.48 mmol/100 g DW			[52, 69, 70]
+Ficus carica	Fruit	Dichloromethane					IC50: 0.02 mg/ml		[71]
+N hexane					IC50: 1.64 mg/ml	
+Ficus glomerata	Root, Bark	Water			IC50: 1.62–47.50 μg/ml	IC50: 0.91–6.48 μg/ml		86.13%	[72]
+Ficus cordata	Leaves	Acetone	2.65%, 8.23 mg GAE/g DW						[68]
+Ficus pumila L	Leaves	Ethanol			SC50 > 0.4 mmol/100 g DW				[73]
+Ficus sur	Bark	Water	489.4 mg GAE/g DW	104.57 μmol FSE/mg DE	56.50 QE/mg DE				[74]
+Unripe fruit	62.34 GAE/g DW	19.61 μmol FSE/mg DW	7.3 QE/mg DE			
+Ficus craterostoma	Leaves	Acetone	2.60%, 9.80 mg GAE/g DW						[68]
+Ficus religiosa	Fruit	Methanol			55.9%			93.91%	[75]
+Ficus deltoidea	Fruit	Water	5.89 mg GAE/g DW	1.82 mmol FSE/g DE	IC50 = 111.20 μg/ml	1.01–1.04 mmol TE/g DE			[76]
+Ficus glumosa	Leaves	Acetone	2.60%, 19.24 mg GAE/g DW						[68]
+Ficus microcarpa	Bark	Ethyl acetate	436 mg GAE/g DW	63.2 μg/ml	1.2 μg/ml	4.83 μg/ml			[71]
+Leaves	Ethanol						86.13%
+Hexane						86.76%
+Ficus cunninghamii	Leaves	Ethanol						90.70%	[71]
+Hexane						88.97%
+Ficus mysorensis	Leaves	Ethanol						90.13%	[71]
+Hexane						94.38%
+Ficus microcarpa	Fruit	Water organic solvents	17.9 g GAE/g DW						[22]
+Ficus lyrata Warb	Leaves	Ethanol			SC50 (8.27, 12.14 μg/ml)			80.41%	[65]
+Methanol			SC50 (38.37 mg/ml)				[65]
+Ficus nitida L.	Dried leaves	Methanol			SC50 (61.67 μg/ml)				[65]
+Ficus afzelii G.	Pulp	Methanol			SC50 (60.22 μg/ml)				[65]
+Ficus decora Hort	Leaves	Methanol			SC50 (81.62 μg/ml)				[65]
+Ficus lutea	Leaves	Acetone	3.70%, 56.85 mg GAE/g DW						[68]
+Ficus natalensis	Leaves	Acetone	2.35%, 4.75 mg GAE/g DW						[68]
+Ficus polita	Leaves	Acetone	3.15%, 8.04 mg GAE/g DW						[68]
+Ficus religiosa	Leaves	Acetone	2.45%,5.40 mg GAE/g DW						[68]
+Ficus sycomorus	Leaves	Acetone, hexane and methanol	2.60%, 12.33 mg GAE/g DW		SC50 (79.50 μg/ml)			82.35%	[65, 68]
+Ficus thonningii	Leaves	Acetone	2.40%, 4.64 mg GAE/g DW						[68]
+Ficus macrophylla	Leaves	Ethanol						86.40%	[71]
+Table 3.
+Antioxidant potential of extracts from various parts of Ficus species.
+
+*ES: extracting solvent, ABTS-RSC: azino-bis-tetrazolium sulfate radical scavenging capacity, DE: dry extract, DM: dry matter, DPPH-RSC: 2,2-diphenyl-1-picrylhydrazyl radical scavenging capacity, DW: dry weight, FRAC: ferric-reducing antioxidant capacity, FSE: ferrous sulfate equivalent, FW: fresh weight, GAE: gallic acid equivalent, IC50: inhibitory concentration required for 50% inhibition, QE: quercetin equivalent, SC50: scavenging concentration for required for 50% scavenging, TEAC: trolox equivalent antioxidant capacity, TE: trolox equivalent, BH: butylated hydroxyanisole, FW: fruit weight, CE: catechin equivalents, ILP: inhibition of lipid peroxidation, LRA: lipid reducing ability.
+5. Biological activities
+On the basis of their phytochemical composition and antioxidant profile, Ficus species have been found to show several biological activities (Table 4). The studied species of Ficus plants were found to possess anticancer, hepatoprotective, hypoglycemic, antitumor, antioxidant, anthelmintic, analgesic, antimicrobial activity, anti-parasitic, hypolipidemic, anti-inflammatory, antibacterial, anti-ulcerogenic, mucoprotective, gastroprotective, antifungal, antiviral, antimalarial, and antiparasitic activities [43, 69]. However, the antibacterial activity has been found to be more common in different species of Ficus.
+
+Abstract
+Ficus, a genus of plant family Moraceae, includes about 850 species. Most of the species of Ficus are used as a source of nutrition for humans. The roots, aerial roots, stem, bark, leaves, latex, fruit, and pulp of the Ficus plants are medicinally important due to the presence of a variety of bioactive phytochemical compounds, such as polyphenols, phenolic acids, triterpenoids, flavonoids, flavonols, anthocyanins, carotenoids, glycosides, polysaccharides, reducing compounds, and vitamins K, E, and C. Most of these phytochemical compounds possess strong antioxidant potential in terms of metal chelating, metal reducing, lipid reducing, and free radical scavenging capacities, which may be helpful in reducing the oxidative stress in the biological systems. On account of their high phytochemical content and strong antioxidant potential, these plants show several biological activities including antimicrobial, antidiabetic, anti-obesity, hepatoprotective, cardioprotective, and renal-protective, and anticancer activities. These plants have been found to be effective in the treatment of diabetes, stomachache, piles, skin diseases, inflammation, and cancer.
+
+Keywords
+MoraceaeFicusPhytochemical compositionAntioxidant potentialMedicinal significance
+Author Information
+Show +
+1. Introduction
+Ficus is a genus of family Moraceae and consists of about 850 species. About 200 different varieties of Ficus are present as woody trees, shrubs and vines in the forests of tropical and subtropical regions [1]. About 500 species of Ficus are found in the region of Asia and Australia [2]. Some species of Ficus are also grown as indoor as well as outdoor ornamental plants. Ficus species are rich in nutritional components and used as a source food in Egypt, India, south China, Turkey and Malaysia. The plants of Ficus species are well known in the field of traditional medicine. Ficus species have been found to be rich source of phenolic acid and flavonoids which make them able to protect against disorders of oxidative stress [3]. Extract of these plants have been reported to be effective in the treatment of diabetes, stomachache, piles, ulcer, dysentery, inflammation, oxidative stress and cancer [4]. Ethno-medicinal uses of Ficus plants have been also supported by their anti-cancer, anti-inflammatory and anti-diabetic activities [5].
+
+Ficus plants are among the earliest cultivated fruit and ornamental tree which attract birds and mammals. Ficus species, such as, Ficus carica, Ficus religiosa, Ficus benghalensis and Ficus racemosa are the most important species of this genus as a spiritual, religious and historical plants to be used as folk medicine to treat various ailments, infectious diseases and cancer [6, 7]. Various parts of Ficus religiosa, have been reported to be used to treat high fever, chronic asthma and cancer and regulate menstrual cycle [8, 9, 10, 11]. Ficus carica also known as edible fig, its fruit had been used from ancient times due to its activity against cancer, hepatomegaly, ulcer, platelets and inflammatory disorders. Leaves of Ficus carica used to treat dermatitis. It can activate potassium ATP channels and, hence, is used effectively in gut motility [12]. Ficus racemosa traditionally named as sacred fig is popular as its latex is used in treatment of ulcer, tumor, gout and aphrodisiac and fruits are used as laxative and digestive due to antitumor and antibacterial activity [13]. Ficus benghalensis commonly called Indian banyan has been reported to possess anti-insulinase, anthelmintic, and antitumor activity [14, 15]. Different species of Ficus shows different colors due to the presence of various pigments like polyphenols, flavonoids and anthocyanins. The skin of Ficus fruits contains comparatively higher content of phytochemicals and antioxidants than fruit pulp [16]. The wood of the Ficus plants contains latex like material within their vasculatures that provide protection and wound healing from physical assaults [17].
+
+The genus Ficus is classified as:
+
+Domain	Eukaryota
+Kingdom	Plantae
+Subkingdom	Viridaeplantae
+Phylum	Tracheophyta
+Subphylum	Euphyllopsidia
+Infra phylum	Radiatopses
+Division	Magnoliophyte
+Class	Magnoliopsida
+Subclass	Dilleniidae
+Superorder	Urticaneae
+Order	Urticales
+Family	Moraceae
+Genus	Ficus
+2. Biochemical and nutritional composition
+Since ancient times, Ficus species has been used as a source of food to improve the health of mankind [17]. Most of the species of Ficus are used in industrial products as nourishing foods. These are composed mainly of water, lipids, essential amino acids, minerals and vitamins [18]. Ficus genus worked as food additives that use frequently as health-promoting Mediterranean diet. It has great importance as nutraceutical and in biopharmaceutical industries [19]. They are known as rich sources of amino acids that are totally free from cholesterol and fat contents. Ficus carica is an excellent source of minerals containing copper, manganese, magnesium, potassium and calcium according to human needs [15, 20, 21, 22].
+
+3. Phytochemicals of Ficus species
+Phytochemicals are the bioactive components of plants having great importance in pharmaceutical and medicinal field. The genus Ficus consist of a variety of phytochemicals including phenolics, polyphenols, flavonoids, tannins, anthocyanins, coumarins, volatile components, glycosides, saponins, carotenoids, alkaloids, triterpenoids and vitamins. Most of these phytochemical compounds show health promoting effects in human due to their strong antioxidant potential. Higher concentrations of phytochemicals are responsible for the strong antioxidant potential of plants of genus Ficus and are helpful in the prevention of certain cardiovascular, neurodegenerative, and hepatic diseases caused by oxidative stress [23]. The phytochemical quality of various parts of some of the species of Ficus is presented in Table 1. It is reported that the roots, stem bark or wood, branches, fruit pulp, peel, leaves, and seeds of different species of Ficus plant contain the flavonoids and phenolic compounds as major phytochemical components along with polyphenol, polysterols and triterpenoids. The phytochemical content of various parts of some of the species of Ficus in terms of total phenolic, flavonoids, flavonols, ascorbic acid, alkaloids, saponins and anthocyanins contents in different solvents is presented in Table 2. The leaves and fruit pulp of various species of Ficus have been found to show relatively higher concentration of phenolic components due to which these parts comparatively have greater pharmacological as well as medicinal usage.
+
+Ficus species	Plant parts	Extracting solvent	Class	Phytochemical components	References
+Ficus religiosa	Barks	Water, methanol, organic solvents, helium	Polysterols	Bergapten, bergaptol, lanosterol, β-sitosterol, stigmasterol, β-sitosterol-d-glucoside (Phytosterolin)	[24, 25]
+Flavonoids	Leucocyanidin-3-O-β-glucopyranosid, leucopelargonidin-3-O-β-d-glucopyranoside, leucopelargonidin-3-O-α-l-rhamnopyranoside, lupeol, cetyl behenate, acetate and α-amyrin acetate
+Polyphenols	Tannin, wax, saponin, leucoanthocyanidin, leucoanthocyanin
+Fruit	Water	Flavonols	Kaempferol, quercetin, and myricetin	[26, 27]
+Miscellaneous compounds	Undecane, tridecane, tetradecane, (e)-β-ocimene β-bourbonene, β-caryophyllene, α-trans bergamotene, α-thujene, α-pinene, β-pinene, α-terpinene, limonene, dendrolasine, dendrolasine α-ylangene, α-copaene, aromadendrene, α-humulene, alloaromadendrene, germacrene, bicycle-germacrene, γ-cadinene and δ-cadinene
+Leaves	Ethanol	Polyphenols	Eugenol, 2-phenylethyl alcohol, and benzyl alcohol, hexenol, n-hexanol, phytol, benzyl alcohol	[28]
+Miscellaneous compounds	Phenol, salicylaldehyde, phenylacetaldehyde, allyl caproate, linalool, n-nonanal, adipoin, methylcyclopentane, 2-dione, itaconic anhydride, 2-phenylethyl alcohol, benzeneacetonitrile, nonadienal, nonen-1-ol, nonadienol, linalool oxide, catechol, coumaran, cinnamyl alcohol, vinylguaiacol, hexenyl tiglate, eugenol, hexenyl hexenoate, β-ionone, dihydroactinidiolide, α-copaene, hexenyl benzoate, eudesmol, eudesmol, epi-α-cadinol, β-eudesmol, α-eudesmol, α-cadinol, pentadecanal, palmitic acid and itaconic anhydride, 3-methylcyclopentane-1, 2-dione
+Ficus auriculata	Leaves and fruits	Ether, chloroform and ethanol	Flavonols	Kaempferol, quercetin, myricetin	[29]
+Phenolic acids	Betulinic acid, lupeol
+Sterols	Stigmasterol, bergapten, scopoletin, β-sitosterol-3-O-β-d-glucopyranoside
+Ficus sycomorus	Whole plant	N-butanol, ethanol and methanol	Flavonoids	Quercetin, quercetin 3-O-l-rhamnopyranosyl (1-6)-β-d-glucopyranoside, quercetin 3-O-β-d-glucopyranoside (isoquercitrin), quercetin 3,7-O-α-l-dirhamnoside, quercetin, 3-O-β-d-galactopyranosyl(1-6)-glucopyranoside	[30]
+Sterol	β-Sitosterol-3-β-d-glucopyranoside
+Phenolic acids	Gallic acid
+Ficus carica	Dried fruit	Water	Flavonoids	Alkaloids, flavonoids, coumarins, saponins, rennin, caoutchouc, resin, albumin, cerin, sugar and terpenes	[31]
+Latex	Water	Enzymes	Proteolytic enzymes, diastase, esterase, lipase, catalase, and peroxidase	[32]
+Phenolic acids	Malic acid
+Leaves	Water	Coumarins	Psoralen and bergapten	[33]
+Flavonoids	Rutin, quercetin, and luteolin
+Phenolic acids	Ferulic acid
+Phytosterols	Taraxasterol, psoralen and bergapten (5-methoxypsoralen)
+Pulp	Water	Phenolic acids	Chlorgenic acid	
+Peel	Water	Coumarins and sterol	Quercitin-3-O-rutinoside, psoralen	
+Ficus benghalensis	Aerial roots	Water and methanol	Polyphenols	Saponins, tannins, glucoside and flavonoids	[14]
+Sterol	β-Sitosterol-α-d-glucose and meso-inositol	
+Ficus capensis	Stem bark	Water	Polyphenols	Alkaloids, balsams, carbohydrates, flavonoids, free anthraquinones, tannins, glycosides, terpenes, resins, sterols and saponins, glycosides	[34]
+Leaves	Water	Volatile compounds	Carvacrol, α-caryophyllene, caryophyllene oxide, linalool, 3-tetradecanone, geranylacetone, 3,7,11-trimethyl-3-hydroxy-6;10-dodecadiene-1-yl acetate, hexahydrofarnesyl acetone, α-caryophyllene, 2-methyl-3-hexyne and scytalone	[35]
+Ficus polita Vahl	Roots	Water	Phenolic acids	Betulinic acid and ursolic acid	[36]
+Anthocyanins	Trihydroxy-stilbene-3, 5-O-β-d-diglucopyranoside, euphol-3-ocinnamate, lupeol, taraxar-14-ene
+Ficus microcarpa	Aerial roots		Triterpenoids	Friedelin, lupeol, oleanolic acid, ursolic acids	[37]
+Leaves		Flavoinoids	Catechin, epicatechin and isovitexin
+Ficus retusa	Leaves	Methanol	Polyphenols	1,2-Benzenedicarboxylic acid-dibutyl ester, phenol, 4-(2aminopropyl), butyrolactone	[38]
+Aerial parts	Ethanol	Flavonols	Luteolin, afzelechin, catechin, vitexin, β-sitosterol acetate, β-amyrin acetate, moretenone, β-amyrin	[39]
+Sterols	β-Sitosterol, friedelenol
+Ficus palmata	Stem bark	Water	Anthocyanins	Cetyl behenate, lupeol, α-amyrin acetate	[40]
+Leaves and bark	Water	Sterols	β-Sitosterol and a new tetracyclic tritepene-glaunol acetate	
+Ficus thunbergii	Fresh leaves and stem	Methanol	Anthocyanins	Amyrin acetate, α-amyrin acetate, lupeol, β-amyrin, α-amyrin, rhoiptelenol, 3α-hydroxyisohop-22(29)-en-24-oic acid, lupenyl acetate	[41]
+Phenolic acids	Ursolic acid, betulinic acid
+Ficus cordata	Stem bark	Water	Terpenes	Pentacyclic triterpenes 8,26-cyclo-urs-21-en3β, 20β-diol and 3β-acetoxy-8, 26-cyclo-ursan-20β-ol and also 3-friedelanone	[42]
+Phenolic acids	Oleanolic acid, betulinic acid
+Anthocyanins	Lupeol acetate, α and β amyrine, 3,5,7,4′-tetra hydroxyl flavones
+Ficus deltoidea	Leaves	Hot and cold water	Flavonols	Triterpene, conrauidienol, and dihydroflavonol, conrauiflavonol, 3,4’,5-trihydroxy-6’’,6’’-dimethylpyrano[2,3-g]flavone	[43, 44, 45]
+Anthocyanin	β-amyrin acetate, 6β-hydroxystigmasta-4,22-dien-3-one, 8-prenylapigenin
+Phenolic acid	Betulinic acid, ursolic acid
+Flavonoids	Luteolin, catechin, epigallocatechin, orientin
+Sterol	β-Sitosterol glucoside
+Ficus tsiela	Whole plant	Water	Phenolic acid	Gallic acid	[46]
+Anthocyanin	3, β-hydroksilup-20(29)-en, (lupeol)
+Polyphenols	Carbohydrates, glycosides, saponins, resins, fat, flavonoids, tannins, and phenolic compounds. Alkaloids and steroid were absent	[47]
+Table 1.
+Phytochemical quality of various parts of commonly used species of Ficus.
+
+Ficus species	Plant parts	ES	TPC	TFC	TF	AAC	TAC	TSC	TA	References
+Ficus benghalensis	Roots	Ethanol	70 mg/g extract	5 mg QE/g extract	3 mg QE/g extract					[48]
+Ficus deltoidea	Pulp	Water	0.49–0.88 mg GAE/g							[49]
+Ficus microcarpa	Leaves	Hexane		6.6–9.5 M/TE						[50]
+F virens	Dried leaves	Hexane	17.44 mg/g	3.87 mg/g						[51]
+F racemosa	Dried leaves	Methanol	7.83 mg/g	1.05 mg/g						[51]
+Ficus carica	Fruit	Ethanol	28.6–211.19 mg GAE/100 g FW, 11.9 mg/g of DM	2.75 μg CE/mg sample			9.6%	0.59%	0.0–298.6 μg cy-3-rutinoside/g FW	[52, 53]
+Ficus deltoidea	Fruit	Hexane	259.2 mg GAE/g							[54]
+Methanol	245.2 mg GAE/g					
+Chloroform	159.2 mg GAE/g		
+Ficus indica	Pulp	Methanol				28–30 mg/100 g extract				[55]
+Table 2.
+Phytochemical content of various parts of commonly used species of Ficus.
+
+ES: extracting solvents, TPC: total phenolic content, TFC: total flavonoid content, TF: total flavonols, AAC: ascorbic acid content, TAC: total alkaloid content, TSC: total saponin content, TA: total anthocyanins, DM: dried material, QE: quercetin equivalent, TE: trolox equivalent, ep: edible pulp, GAE: gallic acid equivalent, FW: fresh weight.
+
+4. Antioxidant composition
+Antioxidants are the substances which can scavenge free radicals and reduce the oxidative stress in the living and nonliving systems. The antioxidants possess electron donating ability and inhibit the free radical-mediated oxidative reactions by various mechanisms, such as, hydrogen donation, metal chelation, metal and lipid reduction, inhibition of lipid peroxidation and free radical inhibition [56, 57, 58, 59, 60]. Free radicals are the reactive oxygen and nitrogen species which are produced during various biochemical reactions particularly redox reactions. If not controlled properly, these free radicals may initiate the chain reactions in the biomolecules particularly the lipids and protein, cause the oxidative stress, and finally lead to the oxidative damage to the cell organelles, cells and tissues [24]. The oxidative damage to the cells and tissues may further lead to various health problems including cardiovascular, neurological, hepatic, and musculoskeletal abnormalities and aging. In nonliving system, the free radicals cause oxidative stress and rancidity in the food stuff for human [25]. The naturally occurring antioxidant compounds have been proved to be effective in preventing the oxidative damage to the living and nonliving systems [26]. These substances are either synthesized endogenously or taken from exogenous natural sources such as plants. The naturally occurring antioxidants include some enzymes such as glutathione peroxidase, catalase, superoxide dismutase and some non-enzymatic phytochemicals compounds including phenolic acids, polyphenols, flavonoids, anthocyanins, ascorbic acid, tocopherols, and β-carotenes [27, 28]. Some synthetic antioxidant compounds have been also reported to be effective against free radical-induced oxidative damage [29].
+
+The antioxidant profile of various parts of Ficus species is presented in Table 3. Different parts of Ficus plants have been reported to showed antioxidant activity in terms of Trolox equivalent antioxidant capacity, ferric reducing antioxidant power, lipid reducing activity, inhibition of lipid peroxidation, and free radical scavenging capacity against 2,2-diphenyl picryl hydrazyl (DPPH) and 2,2-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) radicals in a dose dependent vstronger antioxidant activity due to relatively higher concentration of phenolic components [30].
+
+Ficus species	Part	ES	TEAC*	FRAC	DPPH-RSC	ABT-RSC	ILP	LRA	References
+Ficus racemosa	Stem	Methanol			16.2%	8615.3 mmol/g DM			[61]
+Bark	Ethanol			79%	10884.6 μmol/g DM		
+Roots	Water		0.5–0.26 mg/ml				
+Ficus virens sublanceolata	Leaves	Water		0.13–0.66 mg/ml	IC50: 0.34 mg/ml	IC50: 0.23 mg/ml	83.30%		[51]
+Ficus vasculosa	Leaves	Methanol		0.07–0.26 mg/ml	IC50: 0.69 mg/ml	IC50: 0.97 mg/ml			[51]
+Ficus indica	Mouse liver	Normal saline				4.20–5.31 μmol TE/g ep	EC50: 313.3 μg/ml		[55, 62]
+Chicken liver	Normal saline					EC50: 333.8 μg/ml	
+Ficus callosa	Fruit	Methanol		0.08–0.33 mg/ml	IC50: 0.95 mg/ml	IC50: 0.35 mg/ml	41–83%		[51]
+Ficus palmate	Fruit	Methanol		77.6 mg AC/100 g FW	104.9 mg CE/100 g FW	577.09 mg BH/100 g FW			[63, 64]
+Ethanol		146.67 mg AC/100 g FW	146.9 mg CE/100 g FW	729.45 mg BH/100 g F W		
+Ficus auriculata	Roots	Acetone		0.1–0.45 mg/ml	IC50: 0.29 mg/ml	IC50: 0.25 mg/ml	41–83%		[51]
+Ficus virens	Bark	Water		0.06–0.32 mg/ml	IC50: 1.03 mg/ml	IC50: 0.48 mg/ml			[51]
+Leaves	Methanol			SC50 (74.00 μg/ml)				[65]
+Ficus oligodon	Leaves	Acetone		0.04–0.22 mg/ml	IC50: 2.54 mg/ml	IC50: 0.86 mg/ml	41.40%		[51]
+Ficus benghalensis	Aerial roots	Methanol			71%	6096.1 μmol/g DM			[61, 66]
+Acetone, Water		0.1–1.0 mg/ml	96.07%	6182.7 μmol/g DM		
+Ficus auriculata	Stem bark	Methanol			84.088%				[67]
+Stem bark	Chloroform			83.864%			
+Stem bark	Hexane			42%		
+Ficus caprefolia	Leaves	Acetone	2.32%, 4.73 mg GAE/g DW						[68]
+Ficus carica	Leaves	Hexane, water	14.04%, 23.50 acetate/g DW	7.9–16.1 mmol/kg FW	11.42 mmol/100 g DW	6.48 mmol/100 g DW			[52, 69, 70]
+Ficus carica	Fruit	Dichloromethane					IC50: 0.02 mg/ml		[71]
+N hexane					IC50: 1.64 mg/ml	
+Ficus glomerata	Root, Bark	Water			IC50: 1.62–47.50 μg/ml	IC50: 0.91–6.48 μg/ml		86.13%	[72]
+Ficus cordata	Leaves	Acetone	2.65%, 8.23 mg GAE/g DW						[68]
+Ficus pumila L	Leaves	Ethanol			SC50 > 0.4 mmol/100 g DW				[73]
+Ficus sur	Bark	Water	489.4 mg GAE/g DW	104.57 μmol FSE/mg DE	56.50 QE/mg DE				[74]
+Unripe fruit	62.34 GAE/g DW	19.61 μmol FSE/mg DW	7.3 QE/mg DE			
+Ficus craterostoma	Leaves	Acetone	2.60%, 9.80 mg GAE/g DW						[68]
+Ficus religiosa	Fruit	Methanol			55.9%			93.91%	[75]
+Ficus deltoidea	Fruit	Water	5.89 mg GAE/g DW	1.82 mmol FSE/g DE	IC50 = 111.20 μg/ml	1.01–1.04 mmol TE/g DE			[76]
+Ficus glumosa	Leaves	Acetone	2.60%, 19.24 mg GAE/g DW						[68]
+Ficus microcarpa	Bark	Ethyl acetate	436 mg GAE/g DW	63.2 μg/ml	1.2 μg/ml	4.83 μg/ml			[71]
+Leaves	Ethanol						86.13%
+Hexane						86.76%
+Ficus cunninghamii	Leaves	Ethanol						90.70%	[71]
+Hexane						88.97%
+Ficus mysorensis	Leaves	Ethanol						90.13%	[71]
+Hexane						94.38%
+Ficus microcarpa	Fruit	Water organic solvents	17.9 g GAE/g DW						[22]
+Ficus lyrata Warb	Leaves	Ethanol			SC50 (8.27, 12.14 μg/ml)			80.41%	[65]
+Methanol			SC50 (38.37 mg/ml)				[65]
+Ficus nitida L.	Dried leaves	Methanol			SC50 (61.67 μg/ml)				[65]
+Ficus afzelii G.	Pulp	Methanol			SC50 (60.22 μg/ml)				[65]
+Ficus decora Hort	Leaves	Methanol			SC50 (81.62 μg/ml)				[65]
+Ficus lutea	Leaves	Acetone	3.70%, 56.85 mg GAE/g DW						[68]
+Ficus natalensis	Leaves	Acetone	2.35%, 4.75 mg GAE/g DW						[68]
+Ficus polita	Leaves	Acetone	3.15%, 8.04 mg GAE/g DW						[68]
+Ficus religiosa	Leaves	Acetone	2.45%,5.40 mg GAE/g DW						[68]
+Ficus sycomorus	Leaves	Acetone, hexane and methanol	2.60%, 12.33 mg GAE/g DW		SC50 (79.50 μg/ml)			82.35%	[65, 68]
+Ficus thonningii	Leaves	Acetone	2.40%, 4.64 mg GAE/g DW						[68]
+Ficus macrophylla	Leaves	Ethanol						86.40%	[71]
+Table 3.
+Antioxidant potential of extracts from various parts of Ficus species.
+
+*ES: extracting solvent, ABTS-RSC: azino-bis-tetrazolium sulfate radical scavenging capacity, DE: dry extract, DM: dry matter, DPPH-RSC: 2,2-diphenyl-1-picrylhydrazyl radical scavenging capacity, DW: dry weight, FRAC: ferric-reducing antioxidant capacity, FSE: ferrous sulfate equivalent, FW: fresh weight, GAE: gallic acid equivalent, IC50: inhibitory concentration required for 50% inhibition, QE: quercetin equivalent, SC50: scavenging concentration for required for 50% scavenging, TEAC: trolox equivalent antioxidant capacity, TE: trolox equivalent, BH: butylated hydroxyanisole, FW: fruit weight, CE: catechin equivalents, ILP: inhibition of lipid peroxidation, LRA: lipid reducing ability.
+5. Biological activities
+On the basis of their phytochemical composition and antioxidant profile, Ficus species have been found to show several biological activities (Table 4). The studied species of Ficus plants were found to possess anticancer, hepatoprotective, hypoglycemic, antitumor, antioxidant, anthelmintic, analgesic, antimicrobial activity, anti-parasitic, hypolipidemic, anti-inflammatory, antibacterial, anti-ulcerogenic, mucoprotective, gastroprotective, antifungal, antiviral, antimalarial, and antiparasitic activities [43, 69]. However, the antibacterial activity has been found to be more common in different species of Ficus.
+
+Ficus species	Plant part	Extracting solvent	Activity	References
+Ficus racemosa	Whole	Ethanol	Anticancer activity by reduction of lipid peroxidation, γ-glutamyl transpeptidase and xanthine oxidase and by generation of hydrogen peroxide	[77]
+Bark	Methanol	Hepatoprotective activity by reducing the activities of ALT, AST and ALP	[4]
+Whole	Ethanol	Hypoglycemic activity by decreasing blood glucose level	[4]
+Ficus religiosa	Fruit	Water	Antitumor activity due to blockage of calcium uptake in pituitary cells	[13]
+Whole	Water	Antioxidant and antidiabetic activity with lowering the superoxide dismutase exaggerated activity	[78]
+Whole	Methanol	Anthelmintic activity with 100% effectiveness	[79]
+Whole	Water	Antimicrobial activity with inhibition zone against B. subtilis	[4]
+Bark	Methanol	Anti-parasitic effect with 100% lethality for Haemonchus contortus worms	[79]
+Ficus benghalensis	Bark	Water	Antioxidant and hypolipidemic activity by reduction in lipid peroxidation, cholesterol level and triacylglycerol	[80]
+Fruit	Water	Anticancer and antibacterial activity but no antifungal activity	[81]
+Roots	Various polarity solvents	Anti-inflammatory and analgesic activity	[82]
+Whole	Methanol	Anti-inflammatory and analgesic activity due to inhibition of malanodialdehyde formation	[82]
+Ficus hispida	Roots	Methanol	Antiulcerogenic activity with cytoprotective nature of constituents	[83]
+Ficus arnottiana	Leafs	Methanol	Mucoprotective activity and gastric antisecretory	[23]
+Ficus carica	Leaves	Methanol	Hepatoprotective activity with decrease in lipid peroxides with cytochrome p450 complex inhibition	
+Ficus glomerata	Fruit	Ethanol	Gastroprotective effect	[84]
+Fruit	Phenol	Anti ulcerogenic, antimutagenic and anti cancerogenic compounds	[84]
+Ficus polita Vahl	Whole	Water	Antiviral activity due to inhibition of reverse transcriptase activity of HIV-1	[85]
+Leaves	Water	Antimalarial action against Plasmodium falciparum.	[86]
+Ficus lyrata	Leaves	Water, ethanol	Significant antibacterial activity	[35]
+Leaves	Water	Activate against standard human pathogenic yeasts strains	[87]
+Ficus Tsiela	Leaves	Diethyl ether	Anti-pneumonia activity	[88]
+Ficus sycomorus L	Leaves	Water	Significant antibacterial activity but no antifungal activity	[35]
+Ficus deltoidea	Leaves and fruits	Alcohol	Antifungal and antibacterial activities	[89]
+Ficus platyphylla	Stem bark	Water	Antimicrobial activities against S. aureus	[65]
+Ficus thonningii	Leaf	Water	Significant antimicrobial effect	[90]
+Ficus lutea	Leaves	Acetone	Act as potent inhibitor of α-amylase	[68]
+Table 4.
+Biological activities of extracts from various parts of Ficus species.
+
+6. Medicinal importance
+Ficus species have been used as traditional medicines to cure diseases, such as, astringents carminatives, stomachic, vermicides, hypotensive, anthelmintic and anti-dysentery drugs [18]. Ficus species, such as, Ficus racemosa, F. glomerata, F. glumosa, F. carica, F. religiosa and F. benghalensis are known from ancient times as herbal medicines to treat diabetic disorders as regulating enzymatic activities, carbohydrates absorption rate, increasing insulin sensitivity, insulin secretion, hepatic glycogen synthesis, peripheral glucose uptake and antioxidant status of body [19]. The extracts of these species also reduce oxidative stress by improving weight gain in diabetic male rats [20]. Aqueous bark extract of F. benghalensis have been found to be active in lowering the cholesterol level in hypercholesterolemic rats [14, 15]. Methanolic extract of F. carica leaves prevent elevation of lipid peroxide in rats by acting as hepatoprotective agent [21]. Methanolic extracts of F. hispida roots exhibit anti ulcerogenic activity due to higher concentration of flavonoids in roots. Methanolic leaf extract of F. arnottiana exhibits both mucoprotective as well as gastric antisecretory activities due to antioxidant constituents [22, 23].
+
+Almost all of the Ficus species belonging to family Moraceae haven traditionally used as folk medicine to cure respiratory disorders and skin diseases. The roots of Ficus species are important to treat gout and gums diseases that have anthelmintic activity. Fruit of Ficus species, such as, F. carica, F. hispida, F. microcarpa and F. sycomorus has been found to be helpful improving digestion or treating vomiting. Dried powder of bark has importance to treat burns or Asthma [4]. F. benjamina exhibits antitumor activity or antibacterial activity but is unable to work on fungal disorders [13, 14]. Leaves of F. religiosa exhibit hypotensive activity and help in treating the gastrointestinal problems [9, 56, 57]. Bark of F. religiosa shows hypoglycemic activity and is used against gonorrhea, bleeding, paralysis, diarrhea, bone fracture, antiseptic, astringent and antidote [58, 59]. It has been also used against liver disorders, hemorrhoid, urinary tract infections and inflammatory conditions by different mechanisms [60].
+
+Abstract
+Ficus, a genus of plant family Moraceae, includes about 850 species. Most of the species of Ficus are used as a source of nutrition for humans. The roots, aerial roots, stem, bark, leaves, latex, fruit, and pulp of the Ficus plants are medicinally important due to the presence of a variety of bioactive phytochemical compounds, such as polyphenols, phenolic acids, triterpenoids, flavonoids, flavonols, anthocyanins, carotenoids, glycosides, polysaccharides, reducing compounds, and vitamins K, E, and C. Most of these phytochemical compounds possess strong antioxidant potential in terms of metal chelating, metal reducing, lipid reducing, and free radical scavenging capacities, which may be helpful in reducing the oxidative stress in the biological systems. On account of their high phytochemical content and strong antioxidant potential, these plants show several biological activities including antimicrobial, antidiabetic, anti-obesity, hepatoprotective, cardioprotective, and renal-protective, and anticancer activities. These plants have been found to be effective in the treatment of diabetes, stomachache, piles, skin diseases, inflammation, and cancer.
+
+Keywords
+MoraceaeFicusPhytochemical compositionAntioxidant potentialMedicinal significance
+Author Information
+Show +
+1. Introduction
+Ficus is a genus of family Moraceae and consists of about 850 species. About 200 different varieties of Ficus are present as woody trees, shrubs and vines in the forests of tropical and subtropical regions [1]. About 500 species of Ficus are found in the region of Asia and Australia [2]. Some species of Ficus are also grown as indoor as well as outdoor ornamental plants. Ficus species are rich in nutritional components and used as a source food in Egypt, India, south China, Turkey and Malaysia. The plants of Ficus species are well known in the field of traditional medicine. Ficus species have been found to be rich source of phenolic acid and flavonoids which make them able to protect against disorders of oxidative stress [3]. Extract of these plants have been reported to be effective in the treatment of diabetes, stomachache, piles, ulcer, dysentery, inflammation, oxidative stress and cancer [4]. Ethno-medicinal uses of Ficus plants have been also supported by their anti-cancer, anti-inflammatory and anti-diabetic activities [5].
+
+Ficus plants are among the earliest cultivated fruit and ornamental tree which attract birds and mammals. Ficus species, such as, Ficus carica, Ficus religiosa, Ficus benghalensis and Ficus racemosa are the most important species of this genus as a spiritual, religious and historical plants to be used as folk medicine to treat various ailments, infectious diseases and cancer [6, 7]. Various parts of Ficus religiosa, have been reported to be used to treat high fever, chronic asthma and cancer and regulate menstrual cycle [8, 9, 10, 11]. Ficus carica also known as edible fig, its fruit had been used from ancient times due to its activity against cancer, hepatomegaly, ulcer, platelets and inflammatory disorders. Leaves of Ficus carica used to treat dermatitis. It can activate potassium ATP channels and, hence, is used effectively in gut motility [12]. Ficus racemosa traditionally named as sacred fig is popular as its latex is used in treatment of ulcer, tumor, gout and aphrodisiac and fruits are used as laxative and digestive due to antitumor and antibacterial activity [13]. Ficus benghalensis commonly called Indian banyan has been reported to possess anti-insulinase, anthelmintic, and antitumor activity [14, 15]. Different species of Ficus shows different colors due to the presence of various pigments like polyphenols, flavonoids and anthocyanins. The skin of Ficus fruits contains comparatively higher content of phytochemicals and antioxidants than fruit pulp [16]. The wood of the Ficus plants contains latex like material within their vasculatures that provide protection and wound healing from physical assaults [17].
+
+The genus Ficus is classified as:
+
+Domain	Eukaryota
+Kingdom	Plantae
+Subkingdom	Viridaeplantae
+Phylum	Tracheophyta
+Subphylum	Euphyllopsidia
+Infra phylum	Radiatopses
+Division	Magnoliophyte
+Class	Magnoliopsida
+Subclass	Dilleniidae
+Superorder	Urticaneae
+Order	Urticales
+Family	Moraceae
+Genus	Ficus
+2. Biochemical and nutritional composition
+Since ancient times, Ficus species has been used as a source of food to improve the health of mankind [17]. Most of the species of Ficus are used in industrial products as nourishing foods. These are composed mainly of water, lipids, essential amino acids, minerals and vitamins [18]. Ficus genus worked as food additives that use frequently as health-promoting Mediterranean diet. It has great importance as nutraceutical and in biopharmaceutical industries [19]. They are known as rich sources of amino acids that are totally free from cholesterol and fat contents. Ficus carica is an excellent source of minerals containing copper, manganese, magnesium, potassium and calcium according to human needs [15, 20, 21, 22].
+
+3. Phytochemicals of Ficus species
+Phytochemicals are the bioactive components of plants having great importance in pharmaceutical and medicinal field. The genus Ficus consist of a variety of phytochemicals including phenolics, polyphenols, flavonoids, tannins, anthocyanins, coumarins, volatile components, glycosides, saponins, carotenoids, alkaloids, triterpenoids and vitamins. Most of these phytochemical compounds show health promoting effects in human due to their strong antioxidant potential. Higher concentrations of phytochemicals are responsible for the strong antioxidant potential of plants of genus Ficus and are helpful in the prevention of certain cardiovascular, neurodegenerative, and hepatic diseases caused by oxidative stress [23]. The phytochemical quality of various parts of some of the species of Ficus is presented in Table 1. It is reported that the roots, stem bark or wood, branches, fruit pulp, peel, leaves, and seeds of different species of Ficus plant contain the flavonoids and phenolic compounds as major phytochemical components along with polyphenol, polysterols and triterpenoids. The phytochemical content of various parts of some of the species of Ficus in terms of total phenolic, flavonoids, flavonols, ascorbic acid, alkaloids, saponins and anthocyanins contents in different solvents is presented in Table 2. The leaves and fruit pulp of various species of Ficus have been found to show relatively higher concentration of phenolic components due to which these parts comparatively have greater pharmacological as well as medicinal usage.
+
+Ficus species	Plant parts	Extracting solvent	Class	Phytochemical components	References
+Ficus religiosa	Barks	Water, methanol, organic solvents, helium	Polysterols	Bergapten, bergaptol, lanosterol, β-sitosterol, stigmasterol, β-sitosterol-d-glucoside (Phytosterolin)	[24, 25]
+Flavonoids	Leucocyanidin-3-O-β-glucopyranosid, leucopelargonidin-3-O-β-d-glucopyranoside, leucopelargonidin-3-O-α-l-rhamnopyranoside, lupeol, cetyl behenate, acetate and α-amyrin acetate
+Polyphenols	Tannin, wax, saponin, leucoanthocyanidin, leucoanthocyanin
+Fruit	Water	Flavonols	Kaempferol, quercetin, and myricetin	[26, 27]
+Miscellaneous compounds	Undecane, tridecane, tetradecane, (e)-β-ocimene β-bourbonene, β-caryophyllene, α-trans bergamotene, α-thujene, α-pinene, β-pinene, α-terpinene, limonene, dendrolasine, dendrolasine α-ylangene, α-copaene, aromadendrene, α-humulene, alloaromadendrene, germacrene, bicycle-germacrene, γ-cadinene and δ-cadinene
+Leaves	Ethanol	Polyphenols	Eugenol, 2-phenylethyl alcohol, and benzyl alcohol, hexenol, n-hexanol, phytol, benzyl alcohol	[28]
+Miscellaneous compounds	Phenol, salicylaldehyde, phenylacetaldehyde, allyl caproate, linalool, n-nonanal, adipoin, methylcyclopentane, 2-dione, itaconic anhydride, 2-phenylethyl alcohol, benzeneacetonitrile, nonadienal, nonen-1-ol, nonadienol, linalool oxide, catechol, coumaran, cinnamyl alcohol, vinylguaiacol, hexenyl tiglate, eugenol, hexenyl hexenoate, β-ionone, dihydroactinidiolide, α-copaene, hexenyl benzoate, eudesmol, eudesmol, epi-α-cadinol, β-eudesmol, α-eudesmol, α-cadinol, pentadecanal, palmitic acid and itaconic anhydride, 3-methylcyclopentane-1, 2-dione
+Ficus auriculata	Leaves and fruits	Ether, chloroform and ethanol	Flavonols	Kaempferol, quercetin, myricetin	[29]
+Phenolic acids	Betulinic acid, lupeol
+Sterols	Stigmasterol, bergapten, scopoletin, β-sitosterol-3-O-β-d-glucopyranoside
+Ficus sycomorus	Whole plant	N-butanol, ethanol and methanol	Flavonoids	Quercetin, quercetin 3-O-l-rhamnopyranosyl (1-6)-β-d-glucopyranoside, quercetin 3-O-β-d-glucopyranoside (isoquercitrin), quercetin 3,7-O-α-l-dirhamnoside, quercetin, 3-O-β-d-galactopyranosyl(1-6)-glucopyranoside	[30]
+Sterol	β-Sitosterol-3-β-d-glucopyranoside
+Phenolic acids	Gallic acid
+Ficus carica	Dried fruit	Water	Flavonoids	Alkaloids, flavonoids, coumarins, saponins, rennin, caoutchouc, resin, albumin, cerin, sugar and terpenes	[31]
+Latex	Water	Enzymes	Proteolytic enzymes, diastase, esterase, lipase, catalase, and peroxidase	[32]
+Phenolic acids	Malic acid
+Leaves	Water	Coumarins	Psoralen and bergapten	[33]
+Flavonoids	Rutin, quercetin, and luteolin
+Phenolic acids	Ferulic acid
+Phytosterols	Taraxasterol, psoralen and bergapten (5-methoxypsoralen)
+Pulp	Water	Phenolic acids	Chlorgenic acid	
+Peel	Water	Coumarins and sterol	Quercitin-3-O-rutinoside, psoralen	
+Ficus benghalensis	Aerial roots	Water and methanol	Polyphenols	Saponins, tannins, glucoside and flavonoids	[14]
+Sterol	β-Sitosterol-α-d-glucose and meso-inositol	
+Ficus capensis	Stem bark	Water	Polyphenols	Alkaloids, balsams, carbohydrates, flavonoids, free anthraquinones, tannins, glycosides, terpenes, resins, sterols and saponins, glycosides	[34]
+Leaves	Water	Volatile compounds	Carvacrol, α-caryophyllene, caryophyllene oxide, linalool, 3-tetradecanone, geranylacetone, 3,7,11-trimethyl-3-hydroxy-6;10-dodecadiene-1-yl acetate, hexahydrofarnesyl acetone, α-caryophyllene, 2-methyl-3-hexyne and scytalone	[35]
+Ficus polita Vahl	Roots	Water	Phenolic acids	Betulinic acid and ursolic acid	[36]
+Anthocyanins	Trihydroxy-stilbene-3, 5-O-β-d-diglucopyranoside, euphol-3-ocinnamate, lupeol, taraxar-14-ene
+Ficus microcarpa	Aerial roots		Triterpenoids	Friedelin, lupeol, oleanolic acid, ursolic acids	[37]
+Leaves		Flavoinoids	Catechin, epicatechin and isovitexin
+Ficus retusa	Leaves	Methanol	Polyphenols	1,2-Benzenedicarboxylic acid-dibutyl ester, phenol, 4-(2aminopropyl), butyrolactone	[38]
+Aerial parts	Ethanol	Flavonols	Luteolin, afzelechin, catechin, vitexin, β-sitosterol acetate, β-amyrin acetate, moretenone, β-amyrin	[39]
+Sterols	β-Sitosterol, friedelenol
+Ficus palmata	Stem bark	Water	Anthocyanins	Cetyl behenate, lupeol, α-amyrin acetate	[40]
+Leaves and bark	Water	Sterols	β-Sitosterol and a new tetracyclic tritepene-glaunol acetate	
+Ficus thunbergii	Fresh leaves and stem	Methanol	Anthocyanins	Amyrin acetate, α-amyrin acetate, lupeol, β-amyrin, α-amyrin, rhoiptelenol, 3α-hydroxyisohop-22(29)-en-24-oic acid, lupenyl acetate	[41]
+Phenolic acids	Ursolic acid, betulinic acid
+Ficus cordata	Stem bark	Water	Terpenes	Pentacyclic triterpenes 8,26-cyclo-urs-21-en3β, 20β-diol and 3β-acetoxy-8, 26-cyclo-ursan-20β-ol and also 3-friedelanone	[42]
+Phenolic acids	Oleanolic acid, betulinic acid
+Anthocyanins	Lupeol acetate, α and β amyrine, 3,5,7,4′-tetra hydroxyl flavones
+Ficus deltoidea	Leaves	Hot and cold water	Flavonols	Triterpene, conrauidienol, and dihydroflavonol, conrauiflavonol, 3,4’,5-trihydroxy-6’’,6’’-dimethylpyrano[2,3-g]flavone	[43, 44, 45]
+Anthocyanin	β-amyrin acetate, 6β-hydroxystigmasta-4,22-dien-3-one, 8-prenylapigenin
+Phenolic acid	Betulinic acid, ursolic acid
+Flavonoids	Luteolin, catechin, epigallocatechin, orientin
+Sterol	β-Sitosterol glucoside
+Ficus tsiela	Whole plant	Water	Phenolic acid	Gallic acid	[46]
+Anthocyanin	3, β-hydroksilup-20(29)-en, (lupeol)
+Polyphenols	Carbohydrates, glycosides, saponins, resins, fat, flavonoids, tannins, and phenolic compounds. Alkaloids and steroid were absent	[47]
+Table 1.
+Phytochemical quality of various parts of commonly used species of Ficus.
+
+Ficus species	Plant parts	ES	TPC	TFC	TF	AAC	TAC	TSC	TA	References
+Ficus benghalensis	Roots	Ethanol	70 mg/g extract	5 mg QE/g extract	3 mg QE/g extract					[48]
+Ficus deltoidea	Pulp	Water	0.49–0.88 mg GAE/g							[49]
+Ficus microcarpa	Leaves	Hexane		6.6–9.5 M/TE						[50]
+F virens	Dried leaves	Hexane	17.44 mg/g	3.87 mg/g						[51]
+F racemosa	Dried leaves	Methanol	7.83 mg/g	1.05 mg/g						[51]
+Ficus carica	Fruit	Ethanol	28.6–211.19 mg GAE/100 g FW, 11.9 mg/g of DM	2.75 μg CE/mg sample			9.6%	0.59%	0.0–298.6 μg cy-3-rutinoside/g FW	[52, 53]
+Ficus deltoidea	Fruit	Hexane	259.2 mg GAE/g							[54]
+Methanol	245.2 mg GAE/g					
+Chloroform	159.2 mg GAE/g		
+Ficus indica	Pulp	Methanol				28–30 mg/100 g extract				[55]
+Table 2.
+Phytochemical content of various parts of commonly used species of Ficus.
+
+ES: extracting solvents, TPC: total phenolic content, TFC: total flavonoid content, TF: total flavonols, AAC: ascorbic acid content, TAC: total alkaloid content, TSC: total saponin content, TA: total anthocyanins, DM: dried material, QE: quercetin equivalent, TE: trolox equivalent, ep: edible pulp, GAE: gallic acid equivalent, FW: fresh weight.
+
+4. Antioxidant composition
+Antioxidants are the substances which can scavenge free radicals and reduce the oxidative stress in the living and nonliving systems. The antioxidants possess electron donating ability and inhibit the free radical-mediated oxidative reactions by various mechanisms, such as, hydrogen donation, metal chelation, metal and lipid reduction, inhibition of lipid peroxidation and free radical inhibition [56, 57, 58, 59, 60]. Free radicals are the reactive oxygen and nitrogen species which are produced during various biochemical reactions particularly redox reactions. If not controlled properly, these free radicals may initiate the chain reactions in the biomolecules particularly the lipids and protein, cause the oxidative stress, and finally lead to the oxidative damage to the cell organelles, cells and tissues [24]. The oxidative damage to the cells and tissues may further lead to various health problems including cardiovascular, neurological, hepatic, and musculoskeletal abnormalities and aging. In nonliving system, the free radicals cause oxidative stress and rancidity in the food stuff for human [25]. The naturally occurring antioxidant compounds have been proved to be effective in preventing the oxidative damage to the living and nonliving systems [26]. These substances are either synthesized endogenously or taken from exogenous natural sources such as plants. The naturally occurring antioxidants include some enzymes such as glutathione peroxidase, catalase, superoxide dismutase and some non-enzymatic phytochemicals compounds including phenolic acids, polyphenols, flavonoids, anthocyanins, ascorbic acid, tocopherols, and β-carotenes [27, 28]. Some synthetic antioxidant compounds have been also reported to be effective against free radical-induced oxidative damage [29].
+
+The antioxidant profile of various parts of Ficus species is presented in Table 3. Different parts of Ficus plants have been reported to showed antioxidant activity in terms of Trolox equivalent antioxidant capacity, ferric reducing antioxidant power, lipid reducing activity, inhibition of lipid peroxidation, and free radical scavenging capacity against 2,2-diphenyl picryl hydrazyl (DPPH) and 2,2-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) radicals in a dose dependent vstronger antioxidant activity due to relatively higher concentration of phenolic components [30].
+
+Ficus species	Part	ES	TEAC*	FRAC	DPPH-RSC	ABT-RSC	ILP	LRA	References
+Ficus racemosa	Stem	Methanol			16.2%	8615.3 mmol/g DM			[61]
+Bark	Ethanol			79%	10884.6 μmol/g DM		
+Roots	Water		0.5–0.26 mg/ml				
+Ficus virens sublanceolata	Leaves	Water		0.13–0.66 mg/ml	IC50: 0.34 mg/ml	IC50: 0.23 mg/ml	83.30%		[51]
+Ficus vasculosa	Leaves	Methanol		0.07–0.26 mg/ml	IC50: 0.69 mg/ml	IC50: 0.97 mg/ml			[51]
+Ficus indica	Mouse liver	Normal saline				4.20–5.31 μmol TE/g ep	EC50: 313.3 μg/ml		[55, 62]
+Chicken liver	Normal saline					EC50: 333.8 μg/ml	
+Ficus callosa	Fruit	Methanol		0.08–0.33 mg/ml	IC50: 0.95 mg/ml	IC50: 0.35 mg/ml	41–83%		[51]
+Ficus palmate	Fruit	Methanol		77.6 mg AC/100 g FW	104.9 mg CE/100 g FW	577.09 mg BH/100 g FW			[63, 64]
+Ethanol		146.67 mg AC/100 g FW	146.9 mg CE/100 g FW	729.45 mg BH/100 g F W		
+Ficus auriculata	Roots	Acetone		0.1–0.45 mg/ml	IC50: 0.29 mg/ml	IC50: 0.25 mg/ml	41–83%		[51]
+Ficus virens	Bark	Water		0.06–0.32 mg/ml	IC50: 1.03 mg/ml	IC50: 0.48 mg/ml			[51]
+Leaves	Methanol			SC50 (74.00 μg/ml)				[65]
+Ficus oligodon	Leaves	Acetone		0.04–0.22 mg/ml	IC50: 2.54 mg/ml	IC50: 0.86 mg/ml	41.40%		[51]
+Ficus benghalensis	Aerial roots	Methanol			71%	6096.1 μmol/g DM			[61, 66]
+Acetone, Water		0.1–1.0 mg/ml	96.07%	6182.7 μmol/g DM		
+Ficus auriculata	Stem bark	Methanol			84.088%				[67]
+Stem bark	Chloroform			83.864%			
+Stem bark	Hexane			42%		
+Ficus caprefolia	Leaves	Acetone	2.32%, 4.73 mg GAE/g DW						[68]
+Ficus carica	Leaves	Hexane, water	14.04%, 23.50 acetate/g DW	7.9–16.1 mmol/kg FW	11.42 mmol/100 g DW	6.48 mmol/100 g DW			[52, 69, 70]
+Ficus carica	Fruit	Dichloromethane					IC50: 0.02 mg/ml		[71]
+N hexane					IC50: 1.64 mg/ml	
+Ficus glomerata	Root, Bark	Water			IC50: 1.62–47.50 μg/ml	IC50: 0.91–6.48 μg/ml		86.13%	[72]
+Ficus cordata	Leaves	Acetone	2.65%, 8.23 mg GAE/g DW						[68]
+Ficus pumila L	Leaves	Ethanol			SC50 > 0.4 mmol/100 g DW				[73]
+Ficus sur	Bark	Water	489.4 mg GAE/g DW	104.57 μmol FSE/mg DE	56.50 QE/mg DE				[74]
+Unripe fruit	62.34 GAE/g DW	19.61 μmol FSE/mg DW	7.3 QE/mg DE			
+Ficus craterostoma	Leaves	Acetone	2.60%, 9.80 mg GAE/g DW						[68]
+Ficus religiosa	Fruit	Methanol			55.9%			93.91%	[75]
+Ficus deltoidea	Fruit	Water	5.89 mg GAE/g DW	1.82 mmol FSE/g DE	IC50 = 111.20 μg/ml	1.01–1.04 mmol TE/g DE			[76]
+Ficus glumosa	Leaves	Acetone	2.60%, 19.24 mg GAE/g DW						[68]
+Ficus microcarpa	Bark	Ethyl acetate	436 mg GAE/g DW	63.2 μg/ml	1.2 μg/ml	4.83 μg/ml			[71]
+Leaves	Ethanol						86.13%
+Hexane						86.76%
+Ficus cunninghamii	Leaves	Ethanol						90.70%	[71]
+Hexane						88.97%
+Ficus mysorensis	Leaves	Ethanol						90.13%	[71]
+Hexane						94.38%
+Ficus microcarpa	Fruit	Water organic solvents	17.9 g GAE/g DW						[22]
+Ficus lyrata Warb	Leaves	Ethanol			SC50 (8.27, 12.14 μg/ml)			80.41%	[65]
+Methanol			SC50 (38.37 mg/ml)				[65]
+Ficus nitida L.	Dried leaves	Methanol			SC50 (61.67 μg/ml)				[65]
+Ficus afzelii G.	Pulp	Methanol			SC50 (60.22 μg/ml)				[65]
+Ficus decora Hort	Leaves	Methanol			SC50 (81.62 μg/ml)				[65]
+Ficus lutea	Leaves	Acetone	3.70%, 56.85 mg GAE/g DW						[68]
+Ficus natalensis	Leaves	Acetone	2.35%, 4.75 mg GAE/g DW						[68]
+Ficus polita	Leaves	Acetone	3.15%, 8.04 mg GAE/g DW						[68]
+Ficus religiosa	Leaves	Acetone	2.45%,5.40 mg GAE/g DW						[68]
+Ficus sycomorus	Leaves	Acetone, hexane and methanol	2.60%, 12.33 mg GAE/g DW		SC50 (79.50 μg/ml)			82.35%	[65, 68]
+Ficus thonningii	Leaves	Acetone	2.40%, 4.64 mg GAE/g DW						[68]
+Ficus macrophylla	Leaves	Ethanol						86.40%	[71]
+Table 3.
+Antioxidant potential of extracts from various parts of Ficus species.
+
+*ES: extracting solvent, ABTS-RSC: azino-bis-tetrazolium sulfate radical scavenging capacity, DE: dry extract, DM: dry matter, DPPH-RSC: 2,2-diphenyl-1-picrylhydrazyl radical scavenging capacity, DW: dry weight, FRAC: ferric-reducing antioxidant capacity, FSE: ferrous sulfate equivalent, FW: fresh weight, GAE: gallic acid equivalent, IC50: inhibitory concentration required for 50% inhibition, QE: quercetin equivalent, SC50: scavenging concentration for required for 50% scavenging, TEAC: trolox equivalent antioxidant capacity, TE: trolox equivalent, BH: butylated hydroxyanisole, FW: fruit weight, CE: catechin equivalents, ILP: inhibition of lipid peroxidation, LRA: lipid reducing ability.
+5. Biological activities
+On the basis of their phytochemical composition and antioxidant profile, Ficus species have been found to show several biological activities (Table 4). The studied species of Ficus plants were found to possess anticancer, hepatoprotective, hypoglycemic, antitumor, antioxidant, anthelmintic, analgesic, antimicrobial activity, anti-parasitic, hypolipidemic, anti-inflammatory, antibacterial, anti-ulcerogenic, mucoprotective, gastroprotective, antifungal, antiviral, antimalarial, and antiparasitic activities [43, 69]. However, the antibacterial activity has been found to be more common in different species of Ficus.
+
+Ficus species	Plant part	Extracting solvent	Activity	References
+Ficus racemosa	Whole	Ethanol	Anticancer activity by reduction of lipid peroxidation, γ-glutamyl transpeptidase and xanthine oxidase and by generation of hydrogen peroxide	[77]
+Bark	Methanol	Hepatoprotective activity by reducing the activities of ALT, AST and ALP	[4]
+Whole	Ethanol	Hypoglycemic activity by decreasing blood glucose level	[4]
+Ficus religiosa	Fruit	Water	Antitumor activity due to blockage of calcium uptake in pituitary cells	[13]
+Whole	Water	Antioxidant and antidiabetic activity with lowering the superoxide dismutase exaggerated activity	[78]
+Whole	Methanol	Anthelmintic activity with 100% effectiveness	[79]
+Whole	Water	Antimicrobial activity with inhibition zone against B. subtilis	[4]
+Bark	Methanol	Anti-parasitic effect with 100% lethality for Haemonchus contortus worms	[79]
+Ficus benghalensis	Bark	Water	Antioxidant and hypolipidemic activity by reduction in lipid peroxidation, cholesterol level and triacylglycerol	[80]
+Fruit	Water	Anticancer and antibacterial activity but no antifungal activity	[81]
+Roots	Various polarity solvents	Anti-inflammatory and analgesic activity	[82]
+Whole	Methanol	Anti-inflammatory and analgesic activity due to inhibition of malanodialdehyde formation	[82]
+Ficus hispida	Roots	Methanol	Antiulcerogenic activity with cytoprotective nature of constituents	[83]
+Ficus arnottiana	Leafs	Methanol	Mucoprotective activity and gastric antisecretory	[23]
+Ficus carica	Leaves	Methanol	Hepatoprotective activity with decrease in lipid peroxides with cytochrome p450 complex inhibition	
+Ficus glomerata	Fruit	Ethanol	Gastroprotective effect	[84]
+Fruit	Phenol	Anti ulcerogenic, antimutagenic and anti cancerogenic compounds	[84]
+Ficus polita Vahl	Whole	Water	Antiviral activity due to inhibition of reverse transcriptase activity of HIV-1	[85]
+Leaves	Water	Antimalarial action against Plasmodium falciparum.	[86]
+Ficus lyrata	Leaves	Water, ethanol	Significant antibacterial activity	[35]
+Leaves	Water	Activate against standard human pathogenic yeasts strains	[87]
+Ficus Tsiela	Leaves	Diethyl ether	Anti-pneumonia activity	[88]
+Ficus sycomorus L	Leaves	Water	Significant antibacterial activity but no antifungal activity	[35]
+Ficus deltoidea	Leaves and fruits	Alcohol	Antifungal and antibacterial activities	[89]
+Ficus platyphylla	Stem bark	Water	Antimicrobial activities against S. aureus	[65]
+Ficus thonningii	Leaf	Water	Significant antimicrobial effect	[90]
+Ficus lutea	Leaves	Acetone	Act as potent inhibitor of α-amylase	[68]
+Table 4.
+Biological activities of extracts from various parts of Ficus species.
+
+6. Medicinal importance
+Ficus species have been used as traditional medicines to cure diseases, such as, astringents carminatives, stomachic, vermicides, hypotensive, anthelmintic and anti-dysentery drugs [18]. Ficus species, such as, Ficus racemosa, F. glomerata, F. glumosa, F. carica, F. religiosa and F. benghalensis are known from ancient times as herbal medicines to treat diabetic disorders as regulating enzymatic activities, carbohydrates absorption rate, increasing insulin sensitivity, insulin secretion, hepatic glycogen synthesis, peripheral glucose uptake and antioxidant status of body [19]. The extracts of these species also reduce oxidative stress by improving weight gain in diabetic male rats [20]. Aqueous bark extract of F. benghalensis have been found to be active in lowering the cholesterol level in hypercholesterolemic rats [14, 15]. Methanolic extract of F. carica leaves prevent elevation of lipid peroxide in rats by acting as hepatoprotective agent [21]. Methanolic extracts of F. hispida roots exhibit anti ulcerogenic activity due to higher concentration of flavonoids in roots. Methanolic leaf extract of F. arnottiana exhibits both mucoprotective as well as gastric antisecretory activities due to antioxidant constituents [22, 23].
+
+Almost all of the Ficus species belonging to family Moraceae haven traditionally used as folk medicine to cure respiratory disorders and skin diseases. The roots of Ficus species are important to treat gout and gums diseases that have anthelmintic activity. Fruit of Ficus species, such as, F. carica, F. hispida, F. microcarpa and F. sycomorus has been found to be helpful improving digestion or treating vomiting. Dried powder of bark has importance to treat burns or Asthma [4]. F. benjamina exhibits antitumor activity or antibacterial activity but is unable to work on fungal disorders [13, 14]. Leaves of F. religiosa exhibit hypotensive activity and help in treating the gastrointestinal problems [9, 56, 57]. Bark of F. religiosa shows hypoglycemic activity and is used against gonorrhea, bleeding, paralysis, diarrhea, bone fracture, antiseptic, astringent and antidote [58, 59]. It has been also used against liver disorders, hemorrhoid, urinary tract infections and inflammatory conditions by different mechanisms [60].
+
+7. Conclusion
+All species of Ficus plant possess antioxidant potential due to higher concentration of phytochemical compounds. They have a valuable role in human nutrition or have a great medicinal importance due the presence of a variety of bioactive phytochemical compounds. The principal phytochemicals present in Ficus species are polyphenols, phenolic acids, flavonoids, anthocyanins, glycosides, carotenoids, and some water-soluble vitamins. The presence of these phytochemicals makes Ficus a medicinal plant which shows various biological activities particularly the antioxidant activity. On the account of its high antioxidant potential, all parts of Ficus plant can be used for the management of oxidative stress and the treatment of various diseases.
