@@ -14,12 +14,12 @@ Fat
 Protein
 1.8 g
 Vitamins	Quantity%DV†
-Vitamin A equiv.	50%400 μg
+Vitamin A equiv.	50%400  g
 Thiamine (B1)	4%0.05 mg
 Riboflavin (B2)	13%0.155 mg
 Niacin (B3)	3%0.5 mg
 Vitamin B6	18%0.24 mg
-Folate (B9)	35%140 μg
+Folate (B9)	35%140  g
 Vitamin C	123%102 mg
 Minerals	Quantity%DV†
 Calcium	11%109 mg
@@ -33,7 +33,7 @@ Other constituents	Quantity
 Water	93 g
 Link to USDA Database entry
 Units
-μg = micrograms • mg = milligrams
+ g = micrograms • mg = milligrams
 IU = International units
 †Percentages are roughly approximated using US recommendations for adults.
 Source: USDA FoodData Central

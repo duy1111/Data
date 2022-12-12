@@ -32,7 +32,7 @@ Riboflavin (B2)	2%0.02 mg
 Niacin (B3)	1%0.1 mg
 Pantothenic acid (B5)	4%0.19 mg
 Vitamin B6	6%0.08 mg
-Folate (B9)	3%11 μg
+Folate (B9)	3%11  g
 Choline	1%5.1 mg
 Vitamin C	64%53 mg
 Minerals	Quantity%DV†
@@ -45,7 +45,7 @@ Potassium	3%138 mg
 Zinc	1%0.06 mg
 Link to USDA Database entry
 Units
-μg = micrograms • mg = milligrams
+ g = micrograms • mg = milligrams
 IU = International units
 †Percentages are roughly approximated using US recommendations for adults.
 Source: USDA FoodData Central

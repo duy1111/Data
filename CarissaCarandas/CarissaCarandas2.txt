@@ -1,0 +1,23 @@
+Pharmacological basis for the medicinal use of Carissa carandas in constipation and diarrhea
+
+Objective
+This study was planned to provide pharmacological basis to the medicinal use of Carissa carandas in constipation and diarrhea.
+
+Materials and methods
+The crude extract of the leaves of Carissa carandas (Cc.Cr) was prepared in methanol and its fractionation was carried out with ethylacetate, petroleum ether and n-butanol. In-vivo studies were conducted on mice, while isolated rabbit jejunum and guinea-pig ileum preparations were used for the in-vitro experiments. The spasmogenic and spasmolytic responses of gut tissues were recorded using isotonic transducers coupled with PowerLab data acquisition system.
+
+Conclusion
+This study demonstrates that the crude extract of Carissa carandas possesses a gut-stimulatory effect mediated primarily through the activation of muscarinic and histaminergic receptors while its spasmolytic effect was mediated possibly through Ca++ antagonist pathway. Thus, this study provides a clear evidence for the dual effectiveness of Carissa carandas in constipation and diarrhea, thus validating its medicinal use.
+2. Materials and methods
+2.1. Preparation of the crude extract and fractions
+The leaves of Carissa carandas were collected in May 2010 from Karachi, Pakistan. The plant was identified by Dr. Ghulam Rasool and deposited (Voucher no. 86465) in the Herbarium of Department of Botany, University of Karachi. Fresh leaves (5 kg) of Carissa carandas were repeatedly extracted with methanol at room temperature. The syrupy concentrate (Cc.Cr), obtained on removal of the solvent from the methanolic extract under reduced pressure was partitioned between ethylacetate (EtOAc) and water. The EtOAc layer was washed with water, dried (anhydrous Na2SO4), charcoaled, filtered and freed of the solvent under reduced pressure to yield gummy residue of ethylacetate fraction (Cc.Eaf, 311.8 g). It was then treated with petroleum ether, affording petroleum ether soluble fraction (Cc.Pef, 110.3 g). The aqueous layer was extracted with n-butanol, which after washing, drying and removal of the solvent yielded a semisolid residue of n-butanol fraction (Cc.Baf, 1.67 g) 
+2.3. Standard drugs
+Acetylcholine perchlorate, atropine sulfate, histamine hydrochloride, pyrillamine maleate, loperamide hydrochloride, nifedipine, ursolic acid, oleanolic acid, β-sitosterol and stigmasterol were purchased from Sigma-Aldrich chemicals, St. Louis, MO, USA. Castor oil was purchased from Karachi Chemical Industries F/25 S. I. T.E., Karachi (Pakistan). All the chemicals used were of analytical grade and dissolved in distilled water/saline. Stock solutions of all chemicals were prepared fresh on the day of experiment.
+
+2.6. Isolated tissue experiments
+2.6.1. Guinea-pig ileum
+Locally bred guinea-pigs (weighing 400–550 g; n=13) of both sexes were fasted for 24 h and sacrificed by cervical dislocation. The ileum was identified and isolated. The tissues (2–3 cm) were prepared, equilibrated and stabilized by following the procedure described above (Rabbit jejunum). The contractile responses of the tissues were recorded using similar isotonic transducers as used for rabbit jejunum. To characterize the spasmodic effect of the test material, tissues were pretreated with different antagonists (atropine or pyrillamine) individually and combined, 30 min before re-determining the stimulatory effect of test substance (Mehmood et al., 2011).
+3.4. Acute toxicity test
+The crude extract of Carissa carandas in graded doses of 3, 5 and 10 g/kg was administered to three different groups of mice. The animals were kept under observation for the change in behavior or death up to 24 h following the plant extract administration. The extract at all doses was found devoid of any effect on the behaviors or the death of animal(s) in all the test groups.
+5. Conclusion
+The crude extract of Carissa carandas possesses laxative and antidiarrheal properties mediated through a combination of gut stimulant and inhibitory activities. The gut stimulant potential of Carissa carandas was found mediated through combination of muscarinic and histaminergic receptors activation, while its gut inhibitory activity was observed mediated through Ca++ antagonistic pathway. Thus, this study provides a rationale for the medicinal use of Carissa carandas in constipation and diarrhea.

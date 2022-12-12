@@ -172,14 +172,14 @@ seeds of the Basella rubra Linn.  and   basrubrins exhibited a molecular weight 
 5 kDa, respectively. The translation in a rabbit reticulocyte system with an IC50 value of 400
 and 100nM, respectively was inhibited by them.  and   basrubrin also inhibited HIV 1
 reverse transcriptase by (79.4 ± 7.8)% and (54.6 ± 3.6)%, respectively, at a concentration of
-40μM, and (10.56 ± 0.92)% and (2.12 ± 0.81)%, respectively, at a concentration of 40μM.
+40 M, and (10.56 ± 0.92)% and (2.12 ± 0.81)%, respectively, at a concentration of 40 M.
 Both  and   basrubrins exerted potent antifungal activity toward Botrytis cinerea,
 Mycosphaerella arachidicola, and Fusarium oxysporum. Neither basrubrin nor   basrubrins
 exhibited DNase, RNase, Lectin protease activity, indicating that their antifungal action is not
 due to these activities. The heat shock protein like peptide and serine–threonine kinase like
 protein exhibited a molecular mass of 3 and 30 kDa, respectively. They inhibited neither
-translation in a rabbit reticulocyte system at concentrations up to 50 μM nor HIV 1 reverse
-transcriptase activity at concentrations up to 400 μM.[32]
+translation in a rabbit reticulocyte system at concentrations up to 50  M nor HIV 1 reverse
+transcriptase activity at concentrations up to 400  M.[32]
 Anticancer activity
 Fruit extracts of Basella rubra Linn. were investigated for their antioxidant and anticancer
 activities against human cervical carcinoma (SiHa) cells. The fruits were contained with total
@@ -202,7 +202,7 @@ reducing antioxidant power and least in BAM extract. Various extracts from leave
 different constituents were shown dose dependent antioxidant and high scavenging abilities which play a key role in combating the reactive oxygen species.
 [35] Methanolic extracts of all
 leafy vegetables tested shown antioxidant activity. The tested leafy vegetable reported better
-oxidative activity at 200μg/ml concentration at all temperature. To conclude leafy vegetables
+oxidative activity at 200 g/ml concentration at all temperature. To conclude leafy vegetables
 infers a protective radical scavenging activity which exhibit dose dependant stability
 irrespective of temperature and it shows substrate specificity.
 [36] When fruit flesh was
@@ -213,8 +213,8 @@ the increase of fruit maturity. The gomphrenin I extract yield from ripe fruits 
 mg/100 g of fresh weight. In addition to gomphrenin I, betanidin dihexose and isobetanidindihexose were also detected. The antioxidant activities of gomphrenin I determined by Trolox
 equivalent antioxidant capacity (TEAC), ,diphenyl   picrylhydrazyl (DPPH) radical
 scavenging activity, reducing power, and antioxidative capacity assays were equivalent to
-534 μM Trolox, 103 μM butylated hydroxytoluene (BHT), 129 μM ascorbic acid, and 68 μM
-BHT at 180, 23, 45, and 181 μM, respectively. Gomphrenin I act as a principal pigment of
+534  M Trolox, 103  M butylated hydroxytoluene (BHT), 129  M ascorbic acid, and 68  M
+BHT at 180, 23, 45, and 181  M, respectively. Gomphrenin I act as a principal pigment of
 Basella alba fruits and a potent antioxidant and inflammatory inhibitor. These findings
 suggest that Basella alba fruit is a rich source of betalains and has value added potential for
 use in the development of food colorants and nutraceuticals.
