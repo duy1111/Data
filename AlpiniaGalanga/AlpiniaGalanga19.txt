@@ -12,7 +12,7 @@ Research Center of Pharmaceutical Nanotechnology, Chiang Mai University, Chiang 
 Innovation Center for Holistic Health, Nutraceuticals and Cosmeceuticals, Faculty of Pharmacy, Chiang Mai University, Chiang Mai 50200, Thailand
 *
 Author to whom correspondence should be addressed.
-Molecules 2022, 27(10), 3275; https://doi.org/10.3390/molecules27103275
+Molecules 2022, 27(10), 3275;
 Received: 17 April 2022 / Revised: 14 May 2022 / Accepted: 18 May 2022 / Published: 19 May 2022
 Download Browse Figures Versions Notes
 Abstract
