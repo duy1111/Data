@@ -34,13 +34,13 @@ fertility [9]. Galangal rhizome began to be used in several
 formulations to prevent cancer and tumors and is also
 used for the treatment of other diseases such as
 rheumatism, inflammation, diabetes, and neurological
-disorders [10-14]. Galangal is a mixture that has begun tobe used by the community to overcome several chronic
+disorders [10 14]. Galangal is a mixture that has begun tobe used by the community to overcome several chronic
 diseases [15].
 In the galangal rhizome, there are various compounds,
 namely essential oils, flavonoids, phenolic acids, saponins,
 and terpenoids [16, 17], while there are main active
 compounds found in the galangal rhizome, namely
-galangal acetate, kaempferol, and 1,8-cineole [14, 18-21].
+galangal acetate, kaempferol, and 1,8 cineole [14, 18 21].
 Although the galangal rhizome is the most widely used and
 studied part of the plant, the flowers on the galangal plant
 can also provide additional benefits because they have
@@ -54,22 +54,22 @@ compounds.
 PLANT DESCRIPTION
 Alpinia galanga is a herb that can grow up to 3.5
 centimeters, with underground rhizomes and minor
-adventitious roots. The rhizomes have a red-brown color
+adventitious roots. The rhizomes have a red brown color
 on the surface, while the inside of the rhizome is brown,
-orange. They are 2.5–10 cm long with a pseudo-stem that
+orange. They are 2.5–10 cm long with a pseudo stem that
 is erect and covered with leaves. Size and shape of the
-leaves are 3.8–11.5 cm, oblong-lanceolate, glabrous,
+leaves are 3.8–11.5 cm, oblong lanceolate, glabrous,
 distichous, and acute. Flowers are compound and 3–4 long
 with a pleasant smell, with flower crowns green at the base
 and white buds. The fruit is ellipsoidal and capsuleshaped, with a diameter of 1.5 cm, and colored orange to
 red. Galangal has a 2n chromosome number of 48 [24].
 There are species variations, and the plant is easy to grow
-in countries that have appropriate agro-ecological
+in countries that have appropriate agro ecological
 conditions. There are pink galangal rhizomes and whitish yellow
 galangal rhizomes. Pink galangal rhizomes have a
-diameter of 8–10 cm, with a pseudo-stem length of 3 m.
+diameter of 8–10 cm, with a pseudo stem length of 3 m.
 The yellowish white galangal rhizome has a smaller
-diameter of 1–2 cm, and the length of the pseudo-stem is
+diameter of 1–2 cm, and the length of the pseudo stem is
 1–1.5 m. Alpinia galanga is easy to grow in various regions
 of Indonesia, especially on the islands of Kalimantan and
 Java . The morphology of galangal plants is shown in
@@ -82,16 +82,16 @@ galangal plants are exported to the Western Ghats and
 Himalayan regions [27].
 TRADITIONAL USE
 The galangal rhizome is effectively used as a therapeutic
-treatment for various diseases, because it contains antibacterial, anti-fungal, anti-inflammatory, anti-hepatotoxic,
-antioxidant, immunodulator, anti-ulcerative, anti-tumor,
-and anti-allergic activities [27]. It can be used to treat
+treatment for various diseases, because it contains antibacterial, anti fungal, anti inflammatory, anti hepatotoxic,
+antioxidant, immunodulator, anti ulcerative, anti tumor,
+and anti allergic activities [27]. It can be used to treat
 stomach pain, back pain, rheumatism, asthma, diabetes,
 heart disease, disorders of the liver, kidney disease, and to
 increase the appetite [28]. Galangal rhizome can also be
 used as a substitute for antibiotics, disinfectants, and food
 seasonings [29]. Galangal seed can be used as a gastric
 therapy and to treat cardiotonic lesions, and has diuretic,
-antiplatelet, antifungal, and anti-tumor activities [30]. The
+antiplatelet, antifungal, and anti tumor activities [30]. The
 tuber of the galangal plant is often used as a cough therapy
 in young children with asthma, fever, dyspepsia,
 bronchitis, diabetes mellitus, and irritations [31].
@@ -118,7 +118,7 @@ from shikimate metabolism. These compounds are the
 result of metabolites from the secondary metabolism of
 galangal plants [35]. Phenolic compounds have a variety of
 distributions, molecular weights, and complexities. All
-phenolic compounds have one OH-bound group with
+phenolic compounds have one OH bound group with
 aromatic arene (phenyl) rings [32]. Phenolic compounds
 obtain the activity of phenolic hydroxyl groups from their
 aromatic rings and are often regarded as weak acids.

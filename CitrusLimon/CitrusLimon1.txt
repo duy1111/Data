@@ -2,16 +2,16 @@ lemon (Citrus limon)
 
 History
 See also: Citron Origin and distribution
-Lemon external surface and cross-section
+Lemon external surface and cross section
 The origin of the lemon is unknown, though lemons are thought to have first grown in Assam (a region in northeast India), northern Myanmar or China.[2][failed verification] A genomic study of the lemon indicated it was a hybrid between bitter orange (sour orange) and citron.[3][4]
-Lemons are supposed to have entered Europe near southern Italy no later than the second century AD, during the time of Ancient Rome[2] although this has been contested. Evidence for this is inconclusive and modern theories ascribe the introduction of the lemon throughout the Mediterranean area to around 100 AD. Around 400 AD they were planted in orchards in Moorish Spain[5] They were later introduced to Persia and then to Iraq and Egypt around 700 AD.[2] The lemon was first recorded in literature in a 10th-century Arabic treatise on farming, and was also used as an ornamental plant in early Islamic gardens.[2] It was distributed widely throughout the Arab world and the Mediterranean region between 1000 and 1150.[2] An article on Lemon and lime tree cultivation in Andalusia of Spain is brought down in Ibn al-'Awwam's 12th-century agricultural work, Book on Agriculture.[6]
+Lemons are supposed to have entered Europe near southern Italy no later than the second century AD, during the time of Ancient Rome[2] although this has been contested. Evidence for this is inconclusive and modern theories ascribe the introduction of the lemon throughout the Mediterranean area to around 100 AD. Around 400 AD they were planted in orchards in Moorish Spain[5] They were later introduced to Persia and then to Iraq and Egypt around 700 AD.[2] The lemon was first recorded in literature in a 10th century Arabic treatise on farming, and was also used as an ornamental plant in early Islamic gardens.[2] It was distributed widely throughout the Arab world and the Mediterranean region between 1000 and 1150.[2] An article on Lemon and lime tree cultivation in Andalusia of Spain is brought down in Ibn al 'Awwam's 12th century agricultural work, Book on Agriculture.[6]
 The first substantial cultivation of lemons in Europe began in Genoa in the middle of the 15th century. The lemon was later introduced to the Americas in 1493 when Christopher Columbus brought lemon seeds to Hispaniola on his voyages. Spanish conquest throughout the New World helped spread lemon seeds. It was mainly used as an ornamental plant and for medicine.[2] In the 19th century, lemons were increasingly planted in Florida and California.[2]
 In 1747, James Lind's experiments on seamen suffering from scurvy involved adding lemon juice to their diets, though vitamin C was not yet known as an important dietary ingredient.[2][7]
 The origin of the word lemon may be Middle Eastern.[2] The word draws from the Old French limon, then Italian limone, from the Arabic laymūn or līmūn, and from the Persian līmūn, a generic term for citrus fruit, which is a cognate of Sanskrit (nimbū, 'lime').[8]
 Varieties
 Detailed taxonomic illustration by Franz Eugen Köhler.
-The 'Bonnie Brae' is oblong, smooth, thin-skinned and seedless.[9] These are mostly grown in San Diego County, USA.[10]
-The 'Eureka' grows year-round and abundantly. This is the common supermarket lemon, also known as 'Four Seasons' (Quatre Saisons) because of its ability to produce fruit and flowers together throughout the year. This variety is also available as a plant to domestic customers.[11] There is also a pink-fleshed Eureka lemon, with a green and yellow variegated outer skin.[12]
+The 'Bonnie Brae' is oblong, smooth, thin skinned and seedless.[9] These are mostly grown in San Diego County, USA.[10]
+The 'Eureka' grows year round and abundantly. This is the common supermarket lemon, also known as 'Four Seasons' (Quatre Saisons) because of its ability to produce fruit and flowers together throughout the year. This variety is also available as a plant to domestic customers.[11] There is also a pink fleshed Eureka lemon, with a green and yellow variegated outer skin.[12]
 The Lisbon lemon is very similar to the Eureka and is the other common supermarket lemon. It is smoother than the Eureka, has thinner skin, and has fewer or no seeds. It generally produces more juice than the Eureka.[13][14]
 The 'Femminello St. Teresa', or 'Sorrento'[15] originates in Italy. This fruit's zest is high in lemon oils. It is the variety traditionally used in the making of limoncello.
 The 'Yen Ben' is an Australasian cultivar.[16]
@@ -53,17 +53,17 @@ Culinary uses
 Lemon juice, rind, and peel are used in a wide variety of foods and drinks. The whole lemon is used to make marmalade, lemon curd and lemon liqueur. Lemon slices and lemon rind are used as a garnish for food and drinks. Lemon zest, the grated outer rind of the fruit, is used to add flavor to baked goods, puddings, rice, and other dishes.
 Juice
 Lemon juice is used to make lemonade, soft drinks, and cocktails. It is used in marinades for fish, where its acid neutralizes amines in fish by converting them into nonvolatile ammonium salts. In meat, the acid partially hydrolyzes tough collagen fibers, tenderizing it.[19] In the United Kingdom, lemon juice is frequently added to pancakes, especially on Shrove Tuesday.
-Lemon juice is also used as a short-term preservative on certain foods that tend to oxidize and turn brown after being sliced (enzymatic browning), such as apples, bananas, and avocados, where its acid denatures the enzymes.
+Lemon juice is also used as a short term preservative on certain foods that tend to oxidize and turn brown after being sliced (enzymatic browning), such as apples, bananas, and avocados, where its acid denatures the enzymes.
 Peel
 In Morocco, lemons are preserved in jars or barrels of salt. The salt penetrates the peel and rind, softening them, and curing them so that they last almost indefinitely.[20] The preserved lemon is used in a wide variety of dishes. Preserved lemons can also be found in Sicilian, Italian, Greek, and French dishes.
 The peel can be used in the manufacture of pectin, a polysaccharide used as a gelling agent and stabilizer in food and other products.[21]
 Oil
-Lemon oil is extracted from oil-containing cells in the skin. A machine breaks up the cells, and uses a water spray to flush off the oil. The oil/water mixture is then filtered and separated by centrifugation.[22]
+Lemon oil is extracted from oil containing cells in the skin. A machine breaks up the cells, and uses a water spray to flush off the oil. The oil/water mixture is then filtered and separated by centrifugation.[22]
 Leaves
 The leaves of the lemon tree are used to make a tea and for preparing cooked meats and seafoods.
 Other uses
 Industrial
-Lemons were the primary commercial source of citric acid before the development of fermentation-based processes.[23]
+Lemons were the primary commercial source of citric acid before the development of fermentation based processes.[23]
 Aroma
 Lemon oil may be used in aromatherapy. Lemon oil aroma does not influence the human immune system,[24] but may contribute to relaxation.[25]
 Other
@@ -71,7 +71,7 @@ One educational science experiment involves attaching electrodes to a lemon and 
 Lemon juice may be used as a simple invisible ink, developed by heat.[27]
 Lemon juice can be used to increase the blonde colour of hair, acting as a natural highlight after the moistened hair is exposed to sunlight. This is due to the citric acid that acts as bleach.[28][29]
 Horticulture
-Lemons need a minimum temperature of around 7 °C (45 °F), so they are not hardy year-round in temperate climates, but become hardier as they mature.[30] Citrus require minimal pruning by trimming overcrowded branches, with the tallest branch cut back to encourage bushy growth.[30] Throughout summer, pinching back tips of the most vigorous growth assures more abundant canopy development. As mature plants may produce unwanted, fast-growing shoots (called "water shoots"), these are removed from the main branches at the bottom or middle of the plant.[30]
+Lemons need a minimum temperature of around 7 °C (45 °F), so they are not hardy year round in temperate climates, but become hardier as they mature.[30] Citrus require minimal pruning by trimming overcrowded branches, with the tallest branch cut back to encourage bushy growth.[30] Throughout summer, pinching back tips of the most vigorous growth assures more abundant canopy development. As mature plants may produce unwanted, fast growing shoots (called "water shoots"), these are removed from the main branches at the bottom or middle of the plant.[30]
 The tradition of urinating near a lemon tree[31][32][33] may be beneficial as urine is a fertilizer.
 In cultivation in the UK, the cultivars "Meyer"[34] and "Variegata"[35] have gained the Royal Horticultural Society's Award of Garden Merit (confirmed 2017).[36]
 

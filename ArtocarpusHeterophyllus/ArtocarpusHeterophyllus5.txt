@@ -3,7 +3,7 @@ Artocarpus heterophyllus (Jackfruit): An Overview
 ABSTRACT
 Artocarpus heterophyllus (Syn. Kathal) belonging to family Moraceae is an integral part of common Indian diet and is freely available
 in Indian and adjoining continents, its medicinal properties are also mentioned in Ayurveda. The plant is reported to possess
-antibacterial, anti-inflammatory, antidiabetic, antioxidant and immunomodulatory properties. Artocarpus heterophyllus is an
+antibacterial, anti inflammatory, antidiabetic, antioxidant and immunomodulatory properties. Artocarpus heterophyllus is an
 important source of compounds like morin, dihydromorin, cynomacurin, artocarpin, isoartocarpin, cyloartocarpin, artocarpesin,
 oxydihydroartocarpesin, artocarpetin, norartocarpetin, cycloartinone, betulinic acid, artocarpanone and heterophylol which are
 useful in fever, boils, wounds, skin diseases, convulsions, diuretic, constipation, ophthalmic disorders and snake bite etc.
@@ -14,10 +14,10 @@ family (Moraceae) is known by other names jackfruit (Eng.),
 Kathal, Panas (Hindi), Kanthal (Beng.), Palaa (Tamil), Phanas
 (Guj & Mar) & Chakka (Malayalam). It is native to Western
 Ghats of India, Malaysia and also found in central and eastern
-Africa, south-eastern Asia, the Caribbean, Florida, Brazil,
+Africa, south eastern Asia, the Caribbean, Florida, Brazil,
 Australia, Puerto Rico and many Pacific Islands (1). It is a
-large, evergreen tree, 10-15m in height, indigenous to the
-evergreen forests at altitude of 450-1,200m and cultivated
+large, evergreen tree, 10 15m in height, indigenous to the
+evergreen forests at altitude of 450 1,200m and cultivated
 throughout the hotter parts of India. Stem of this plant is
 straight rough whereas bark is green or black, 1.25cm thick,
 exuding milky latex, leaves broad obovate, elliptic, decurrent,
@@ -26,7 +26,7 @@ and ramflours on short leafy shoots. Male head is sessile or on
 short peduncles receptacles, sometimes born on the ultimate
 twing, Female head are oblong ovoid receptacle, syncarpus,
 cylindrics (2). Seeds are separated horny endocarpus enclosed
-by sub-gelatinous exocarpus (1mm thick) oblong ellipsoid in
+by sub gelatinous exocarpus (1mm thick) oblong ellipsoid in
 nature. The sweet yellow sheaths around the seeds are about
 3–5 mm thick and have a taste similar to that of pineapple, but
 milder and less juicy
@@ -35,16 +35,16 @@ Jackfruit (Artocarpus heterophyllus Lam) produces heavier yield
 than any other tree species, and bear the largest known edible
 fruit (up to 35 kg). The jackfruit tree has several uses. Flakes
 of ripe fruits are high in nutritive value; every 100 g of ripe
-flakes contains 287-323 mg potassium, 30.0-73.2 mg calcium
-and 11-19 g carbohydrates (4). In Bangladesh, it is commonly
+flakes contains 287 323 mg potassium, 30.0 73.2 mg calcium
+and 11 19 g carbohydrates (4). In Bangladesh, it is commonly
 referred to as “poor man’s food” as it is cheap and plentiful
 during the season. The nutritious seeds are boiled or roasted
 and eaten like chestnuts, added to flour for baking, or cooked
 in dishes. The tree is also known for its durable timber, which
-ages to an orange or reddish brown color, with anti-termite
+ages to an orange or reddish brown color, with anti termite
 properties (5). The leaves and fruit waste provide valuable
 fodder for cattle, pigs and goats. Jackfruit wood chips yield a 
-dye, which is used to give the famous orange-red color to the
+dye, which is used to give the famous orange red color to the
 robes of Buddhist priests. In addition, many parts of the plant,
 including the bark, roots, leaves and fruits have medicinal
 properties (6).
@@ -54,15 +54,15 @@ temperature is 19 to 290C, altitude at approx. 1600 meters
 above sea level and the annual rain fall between 1000 and 2400
 mm (7).
 Taxonomical classification (8)
-Kingdom :Plantae-- planta, plantes, plants, vegetal
-Subkingdom :Tracheobionta -- vascular plants
-Division :Magnoliophyta -- angiosperms, flowering
+Kingdom :Plantae   planta, plantes, plants, vegetal
+Subkingdom :Tracheobionta    vascular plants
+Division :Magnoliophyta    angiosperms, flowering
 plants, phanérogames
-Class :Magnoliopsida -- dicots, dicotylédones,
+Class :Magnoliopsida    dicots, dicotylédones,
 dicotyledons
 Subclass :Hamamelidae
 Order :Urticales
-Family :Moraceae -- mulberries
+Family :Moraceae    mulberries
 Genus :Artocarpus – breadfruit
 Species :Artocarpus heterophyllus Lam.
 Parts used:
@@ -82,7 +82,7 @@ picchila;
 Virya: Sita; Vipaka: MadhuraActions :Vatapittahara, kaphavardhaka,
 balaya, sukraprada, tarpana,
 durjara,
-Seeds- Vrsya, baddhavitkara,
+Seeds  Vrsya, baddhavitkara,
 mutrala
 Therapeutic uses :Klibata, durbalya, raktapitta, varna
 Growth & Distribution
@@ -154,38 +154,38 @@ Heterophylol (Fig.1) a phenolic compound with novel
 skeleton was obtained from Artocarpus heterophyllus (17). There
 is only 3.3% tannin in the bark, which is occasionally made
 into cordage or cloth. The leaves and stem show the presence
-of sapogenins, cycloartenone, cycloartenol (Fig.4), β-sitosterol
+of sapogenins, cycloartenone, cycloartenol (Fig.4),   sitosterol
 (18) and tannins, they show estrogenic activity. A root
-contains β-sitosterol (Fig.7), ursolic acid, Betulinic acid (Fig.3)
+contains   sitosterol (Fig.7), ursolic acid, Betulinic acid (Fig.3)
 and cycloartenone (19).
 Jacalin, the major protein from the Artocarpus heterophyllus
-seeds, is a tetrameric two-chain lectin combining a heavy chain
-of 133 amino acid residues with a light β chain of 20–21 amino
-acid residues. It is highly specific for the O-glycoside of the
-disaccharide Thomsen–Friedenreich antigen (Galβ1–
+seeds, is a tetrameric two chain lectin combining a heavy chain
+of 133 amino acid residues with a light   chain of 20–21 amino
+acid residues. It is highly specific for the O glycoside of the
+disaccharide Thomsen–Friedenreich antigen (Gal 1–
 3GalNAc), even in its sialylated form. This property has made
-jacalin suitable for studying various O-linked glycoproteins,
+jacalin suitable for studying various O linked glycoproteins,
 particularly human IgA1 (20). Jacalin's uniqueness in being
 strongly mitogenic for human CD4+ T lymphocytes has made
 it a useful tool for the evaluation of the immune status of
-patients infected with human immunodeficiency virus HIV-1
-(21). Two novel 2′, 4′, 6′-trioxygenated flavanones,
+patients infected with human immunodeficiency virus HIV 1
+(21). Two novel 2′, 4′, 6′ trioxygenated flavanones,
 heteroflavanones A and B were isolated from the root bark of
-Artocarpus heterophyllus. Their structures were elucidated as 5-
-hydroxy-7,2′, 4′,6′-tetramethoxyflavanone and 8-(γ,γdimethylallyl)5-hydroxy-7,2′,4′,6′-tetramethoxyflavanone 
+Artocarpus heterophyllus. Their structures were elucidated as 5 
+hydroxy 7,2′, 4′,6′ tetramethoxyflavanone and 8 (γ,γdimethylallyl)5 hydroxy 7,2′,4′,6′ tetramethoxyflavanone 
 . Three phenolic compounds were characterized as
-artocarpesin [ (5,7,2',4'-tetrahydroxy-6-(3-methylbut-3-enyl)
-flavone], norartocarpetin (5,7,2',4'-tetrahydroxyflavone) and
-oxyresveratrol (Fig.6) (trans-2,4,3',5'-tetrahydroxystilbene) by
+artocarpesin [ (5,7,2',4' tetrahydroxy 6 (3 methylbut 3 enyl)
+flavone], norartocarpetin (5,7,2',4' tetrahydroxyflavone) and
+oxyresveratrol (Fig.6) (trans 2,4,3',5' tetrahydroxystilbene) by
 spectroscopic methods and through comparison with data
-reported in the literatures (24). The anti-inflammatory effects
+reported in the literatures (24). The anti inflammatory effects
 of these isolated compounds were evaluated by determining
 their inhibitory effects on the production of proinflammatory
-mediators in lipopolysaccharide (LPS)-activated RAW 264.7
+mediators in lipopolysaccharide (LPS) activated RAW 264.7
 murine macrophage cells. These three compounds exhibited
-potent anti-inflammatory activity (25). The composition of
-carotenoids of A.heterophyllus is carotenes -carotene, -
-carotene, β-zeacarotene, α-zeacarotene and β-carotene-5, 6-
+potent anti inflammatory activity (25). The composition of
+carotenoids of A.heterophyllus is carotenes  carotene,  
+carotene,   zeacarotene, zeacarotene and   carotene 5, 6 
 epoxide and a dicarboxylic carotenoid, crocetin were identified Traditional uses
 The leaves are useful in fever, boils, wounds and skin diseases.
 The young fruits are acrid, astringent, and carminative. The
@@ -208,49 +208,49 @@ Although a lot of pharmacological investigations have been
 carried out based on the constituents present in it but a lot
 more can still be explored and utilized in a therapeutic
 manner. A summary of the findings of some of these studies is
-presented below. Anti-inflammatory Effect
+presented below. Anti inflammatory Effect
 Artocarpus heterophyllus Lam is a large evergreen tree cultivated
 throughout Southeast Asia for its fruits. Its leaves and roots
 have been used for medicinal purposes. The aim of this work
-was to study the in vitro anti-inflammatory effects of phenolic
+was to study the in vitro anti inflammatory effects of phenolic
 compounds isolated from the ethyl acetate extracts of the
 fruits of Artocarpus heterophyllus. Three phenolic compounds
-were characterized as artocarpesin [5,7,2',4'-tetrahydroxy-6-(3-
-methylbut-3-enyl) flavone] (1), norartocarpetin (5,7,2',4'-
-tetrahydroxyflavone) (2), and oxyresveratrol [ trans-2,4,3',5'-
+were characterized as artocarpesin [5,7,2',4' tetrahydroxy 6 (3 
+methylbut 3 enyl) flavone] (1), norartocarpetin (5,7,2',4' 
+tetrahydroxyflavone) (2), and oxyresveratrol [ trans 2,4,3',5' 
 tetrahydroxystilbene] ( 3) by spectroscopic methods and
 through comparison with data reported in the literatures. The
-anti-inflammatory effects of the isolated compounds (1- 3)
+anti inflammatory effects of the isolated compounds (1  3)
 were evaluated by determining their inhibitory effects on the
 production of proinflammatory mediators in
-lipopolysaccharide (LPS)-activated RAW 264.7 murine
+lipopolysaccharide (LPS) activated RAW 264.7 murine
 macrophage cells. These three compounds exhibited potent
-anti-inflammatory activity. The results indicated that
-artocarpesin (1) suppressed the LPS-induced production of
+anti inflammatory activity. The results indicated that
+artocarpesin (1) suppressed the LPS induced production of
 nitric oxide (NO) and prostaglandin E 2 (PGE 2) through the
-down-regulation of inducible nitric oxide synthase (iNOS) and
-cyclooxygenase 2 (COX-2) protein expressions. Thus,
+down regulation of inducible nitric oxide synthase (iNOS) and
+cyclooxygenase 2 (COX 2) protein expressions. Thus,
 artocarpesin (1) may provide a potential therapeutic approach
-for inflammation-associated disorders (31). 
+for inflammation associated disorders (31). 
 Antioxidant Effect
 The antioxidant properties of prenylflavones, isolated from
 Artocarpus heterophyllus Lam., were evaluated in this study.
 Among them, artocarpine, artocarpetin, artocarpetin A, and
 cycloheterophyllin diacetate and peracetate had no effect on
-iron-induced lipid peroxidation in rat brain homogenate. They
-also did not scavenge the stable free radical 1, 1-diphenyl-2-
+iron induced lipid peroxidation in rat brain homogenate. They
+also did not scavenge the stable free radical 1, 1 diphenyl 2 
 picrylhydrazyl. In contrast, cycloheterophyllin (Fig. 5) and
-artonins A and B inhibited iron-induced lipid peroxidation in
-rat brain homogenate and scavenged 1, 1-diphenyl-2-
+artonins A and B inhibited iron induced lipid peroxidation in
+rat brain homogenate and scavenged 1, 1 diphenyl 2 
 picrylhydrazyl. They also scavenged peroxyl radicals and
-hydroxyl radicals that were generated by 2, 2'-azobis (2-
-amidinopropane) dihydrochloride and the Fe3+-ascorbateEDTA-H2O2 system, respectively. However, they did not
+hydroxyl radicals that were generated by 2, 2' azobis (2 
+amidinopropane) dihydrochloride and the Fe3+ ascorbateEDTA H2O2 system, respectively. However, they did not
 inhibit xanthine oxidase activity or scavenge superoxide anion,
 hydrogen peroxide, carbon radical, or peroxyl radicals derived
-from 2,2'-azobis(2,4-dimethylvaleronitrile) in hexane.
+from 2,2' azobis(2,4 dimethylvaleronitrile) in hexane.
 Moreover, cycloheterophyllin and artonins A and B inhibited
-copper-catalyzed oxidation of human low-density lipoprotein,
-as measured by fluorescence intensity, thiobarbituric acidreactive substance and conjugated-diene formations and
+copper catalyzed oxidation of human low density lipoprotein,
+as measured by fluorescence intensity, thiobarbituric acidreactive substance and conjugated diene formations and
 electrophoretic mobility. It is concluded that
 cycloheterophyllin and artonins A and B serve as powerful
 antioxidants against lipid peroxidation when biomembranes
