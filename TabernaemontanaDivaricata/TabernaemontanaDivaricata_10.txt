@@ -1,0 +1,100 @@
+Gastroprotective Effect of Tabernaemontana divaricata (Linn.) R.Br. Flower Methanolic Extract in Wistar Rats
+
+2.1 PLANT MATERIAL
+The flowers of Crepe Jasmine (Tabernaemontana divaricata) were collected in the month of
+November 2009 from the local areas of Ameerpet and Mallepally (Hyderabad District) and
+authenticated by plant taxonomist Dr. Ramana (Department of Botany, Osmania University).
+A voucher specimen (0360-OUH) has been deposited in the herbarium for future reference.
+2.2 PREPARATION OF EXTRACT
+After collection, flowers were shade dried and coarsely powdered. Approximately 500 gm of
+powdered flowers were extracted using 99% pure methanol (Carbinol –SD Fine Chemicals)
+in a soxhlet apparatus. The extract was concentrated under reduced pressure and stored in
+an air tight container in a refrigerator at temperature below 10° C. Dried mass of crude
+Tabernaemontana divaricata flower methanolic extract (TDFME) was weighed and recorded.
+The solution of TDFME was prepared using distilled water for the evaluation of anti-ulcer
+activity.
+2.3 EXPERIMENTAL ANIMALS
+Swiss albino mice weighing 20-30gm were used to assess acute toxicity whereas adult male
+wistar rats weighing 150-200 gm were used to evaluate anti-ulcer activity by pyloric ligation
+induced gastric ulceration model. The animals were maintained under standard laboratory
+conditions in polypropylene cages under 12 hr light/dark cycle, controlled temperature (24 ±
+2°C), fed with commercial pellet diet and water ad-libitum in an animal house approved by
+Committee for the Purpose and Supervision on Experiments on Animals (Reg no.
+1185/a/08/CPCSEA). All the animals were acclimatized to the laboratory environment for 10
+days before commencement of the experiments. The experimental protocol was approved
+by Institutional Animal Ethical Committee, MESCO College of Pharmacy, Mustaidpura,
+Hyderabad, Andhra Pradesh, India.
+2.4 ACUTE TOXICITY STUDY
+Acute toxicity test was performed in mice according to staircase method. Mice divided into
+four groups with five animals per dose. The dose was increased from 250-1000 mg/kg, b.w
+p.o. Mice were observed individually after dosing with special supervision given during first 4
+hours and periodically thereafter for first 24 hours (Pathak et al., 2010).
+2.5 EVALUATION OF ANTI-ULCER ACTIVITY
+2.5.1 EXPERIMENTAL DESIGN
+Rats were divided into three groups, each consisting 6 and treated with the respective test
+solutions as given below -
+Group I (Control): Distilled water (1 ml/ 100gm, p.o)
+Group II (Standard): Omeprazole (8 mg/kg, b.w p.o)
+Group III (Test): TDFME (500 mg/kg, b.w p.o)
+2.5.2 PYLORIC LIGATION INDUCED GASTRIC ULCERATION MODEL
+(KULKARNI, 1999)
+Rats were fasted in individual cages for 24 hours. Care was taken to avoid coprophagy.
+Distilled water, Omeprazole 8 mg/kg and TDFME 500 mg/kg were administered orally 30
+mins prior to pyloric ligation. Under light ether anaesthesia, the abdomen was cut open by
+making a small incision below the xiphoid process. Pyloric portion of the stomach was
+slightly lifted out and ligated avoiding traction to the pylorus or damage to its blood supply.
+The stomach was replaced carefully and the abdominal wall was closed by interrupted
+sutures. Rats were sacrificed by an over dose of anesthetic ether after
+ligation.
+2.5.2.1 Collection & Measurement of Gastric juice
+The stomachs were excised carefully by keeping the oesophagus closed and opened along
+the greater curvature, luminal contents were removed. The gastric contents were collected
+and centrifuged at 1000 rpm for 10 min. The centrifuged samples were decanted and volume
+of gastric juice was noted.
+2.5.2.2 Determination of pH of Gastric juice
+1 ml of the supernatant liquid was diluted to 10 ml using distilled water. The pH of the
+solution was recorded by digital pH meter.
+British Journal of Pharmaceutical Research, 1(3): 88-98, 2011
+92
+2.5.2.3 Estimation of Free and Total Acidities
+The above solution was titrated against 0.01 N NaOH using Topfer’s reagent as indicator.
+When the solution turned orange in colour, volume of NaOH was noted that corresponds to
+free acidity. Further, the titration was continued till the solution regained pink colour. The
+total volume of NaOH was noted, that corresponds to the total acidity.
+2.5.2.4 Assessment of Ulcer Index
+Mean ulcer score for each animal is expressed as Ulcer Index. The stomachs were washed
+in running water to detect ulcers in the glandular portion of the stomach. The number of
+ulcers per stomach was noted and severity scoring was done microscopically with the help
+of hand lens (10X) and scoring was done as per Kulkarni (1999).
+0 = Normal Stomach; 0.5 = Red Colouration
+1 = Spot Ulcers; 1.5 = Haemorraghic Streaks
+2 = Ulcers > 3 mm but < 5 mm; 3 = Ulcers > 5 mm
+2.5.2.5 Calculation of Percentage Protection
+The percentage protection was calculated by the following formula:
+Percentage Protection = 100 – (Ut / Uc X 100)
+Where, Ut = Ulcer Index of treated group and Uc = Ulcer Index of control group
+2.6 STATISTICAL ANALYSIS
+The values are expressed as Mean ± Standard Error of Mean. P< 0.01 was considered
+significant and is denoted as **. Data of gastric juice, pH & Ulcer score was analyzed by
+One-way Analysis of Variance whereas free & total acidities were analyzed by Kruskal –
+Wallis test (non-parametric ANOVA) followed by Dunnett’s multiple comparison post-hoc test
+using GraphPad Instat version 3.10 for Windows, GraphPad Software, San Diego California
+USA, www.graphpad.com
+3. RESULTS AND DISCUSSION
+3.1 RESULTS OF ORAL ACUTE TOXICITY
+The percentage yield of TDFME (dried crude extract) obtained was 14%. The acute toxicity
+study reveals that maximum tolerable dose of TDFME is more than 1000 mg/kg as all the
+test doses were found to be safe and no mortality or signs of toxicity were observed. In an
+earlier study TDFME exhibited anti-convulsant activity at 500 mg/kg, hence the same test
+dose was selected (Khan and Mukhram, 2011). The results are illustrated in Figures 1-5.
+3.2 RESULTS OF ANTI-ULCER ACTIVITY SCREENING
+Standard drug and TDFME significantly (p<0.01) decreased volume of gastric juice from 3.6
+± 0.4761 (Control) to 1.43 ± 0.1801 and 1.55 ± 0.1979 respectively. A significant decrease of
+equal degree in free and total acidities was observed in both the groups. Similarly the ulcer
+index significantly (p<0.01) reduced from 6.5 ± 0.6708 (Control) to 1.33 ± 0.4216 and 0.66 ±
+0.2789 for the standard and test groups respectively. Likewise both the treatments raised pH
+significantly (p<0.01) from 2.63 ± 0.3658 (Control) to 6.36 ± 0.4485 (Standard) and 4.75 ±
+0.5246 (TDFME). Percentage protection produced by standard and test were 89.84% and
+79.53% respectively. The test extract influenced all the parameters positively and magnitude
+of effect was comparable to that of standard. Thus, from the above results it is evident that
+TDFME possesses gastroprotective effect

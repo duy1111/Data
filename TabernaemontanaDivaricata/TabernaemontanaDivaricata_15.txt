@@ -1,0 +1,162 @@
+Antibacterial Studies Tabernaemontana divaricata (Apocynaceae) Secondary Metabolites Capped Silver Nanoparticles
+
+Synthesis of SNPs
+Silver nitrate (AgNO3) of analytical grade
+(AR) was purchased from Merck (India). To synthesize
+SNPs, 1 ml of the aqueous extract of T. divaricata
+flower was added to 100 ml of 1 mM AgNO3 solution in
+150 ml glass beaker. Then the beaker was incubated for
+24 hrs at room temperature on a magnetic stirrer in the
+dark place for the reduction of SNPs. The color change
+from light yellow to dark orange indicates the formation
+of SNPs. An initial setup was also maintained as flower
+extract without the addition of AgNO3.
+Test microorganisms of interest
+Ten bacterial strains isolated from eye infected
+cases examined in Sarojini Devi Eye Hospital,
+Hyderabad, were used in the study. Of which nine were
+gram-positive, bacteria viz., Staphylococcus aureus, S.
+epidermidis, Gardnerella vaginalis, Enterococcus
+faecalis, S. agalactiae, Propionibacterium acnes,
+Corynebacterium macbinleys, Bacillus serus, B. subtilis
+and one gram- negative viz., E. coli. All the bacterial
+strains were from patients with eye diseases. The
+bacteria were initially identified by streak plate method
+in blood agar medium and specifically identified at
+Royal Life Sciences Laboratory using enzyme assay
+method (VITEK 2 COMPACT) and maintained on
+nutrient agar slants at 40C.
+Antibacterial activity
+Antibacterial activity was carried out using the
+well diffusion method on Mueller Hinton Agar (MHA)
+plates. The test cultures were swabbed on the top of the
+solidified media and allowed to dry for 10 minutes. The
+aqueous extract of T. divaricata flowers, synthesized T.
+divaricata SNPs were used at two different
+concentrations (100 μl and 150 μl per well). The wells
+were loaded and left for 30 minutes at room
+temperature for compound diffusion. AgNO3 solution
+was used as control. The plates were incubated for 24
+hrs at 37°C, and the zone of inhibition was measured in
+millimeters (mm).
+Minimum inhibitory concentration (MIC)
+MIC of SNPs were determined against all the
+strains. The bacterial suspension was prepared, and 100
+μl of MHA broth was added to the microtitre plate and
+incorporated with different concentration (500, 250,
+125, 62.5, 31.25, 15.625, 7.81, 3.90, 1.95, 0.976, 0.48,
+0.24 μl) of SNP. The microtitre plate was incubated at
+37°C for 24 hrs.
+RESULTS AND DISCUSSION
+Antibacterial activity by Agar well diffusion assay
+The antibacterial effects of biologically
+synthesized SNPs have been investigated against Gram-
+positive ocular pathogens - Staphylococcus aureus, S.
+epidermidis, Gardnerella vaginalis, Enterococcus
+faecalis, S. agalactiae, Propionibacterium acnes,
+Corynebacterium macbinleys, Bacillus serus, B. subtilis
+and one gram- negative viz., E. coli. A clear zone of
+growth inhibition was observed against the isolated
+strains. It confirms the antibacterial activity of
+biologically synthesized nanoparticles. The highest
+zone of inhibition was observed in the well loaded with
+SNPs, and less zone of inhibition was observed in the
+well loaded with only flower extract (Table-1).
+In the present investigation, nanoparticles
+showed higher inhibition against the Gram-positive
+pathogens compared to other Gram negative strain E.
+coli, employed in this antibacterial assay. Savithramma
+and Rao [13] demonstrated the antibacterial effect of
+SNPs and the growth of Pseudomonas and Rhizopus
+species were inhibited maximum by the SNPs
+synthesized from leaf extract of Svensonia
+hyderobadensis, indicating that the SNPs may have an
+important advantage over conventional antibiotics.
+Consequently, the interaction between Gram positive
+bacteria and SNPs were certainly stronger than that of
+Gram negative bacteria. The cell wall of gram-negative
+bacteria consists of an outer membrane composed of
+lipid, protein, and lipopolysaccharides which act as a
+barrier and provide effective protection against the
+antibacterial agent. However, the cell wall of the Gram-
+positive bacteria lacks an outer membrane [14].
+MIC of biologically synthesized SNPs
+The synthesized SNPs were effective in
+inhibiting the bacterial growth. The MIC was checked
+against Gram-positive (Staphylococcus aureus, S.
+epidermidis, Gardnerella vaginalis, Enterococcus
+faecalis, S. agalactiae, Propionibacterium acnes,
+Corynebacterium macbinleys, Bacillus serus, B.
+subtilis) and Gram-negative (E. coli) bacteria. The
+SNPs were used in different concentration such as 500,
+250, 125, 62.5, 31.25, 15.63, 7.8, 3.9, 1.95, 0.976, 0.48,
+0.24 μl in order to determine the MIC. The SNPs
+showed MIC value of 62.5 μl for strain Enterococcus
+faecalis, Propionibacterium acnes, 31.25 μl for
+Staphylococcus epidermidis, Gardnerella vaginalis,
+Staphylococcus agalactiae 15.63 μl for Bacillus cereus,
+Bacillus subtilis 7.81 μl for E.Coli, Corynebacterium
+macbinleys and S. aureus
+Several mechanisms have been proposed to
+explain the inhibitory effect of silver nanoparticles on
+bacteria. It is assumed that the high affinity of silver
+towards sulfur and phosphorus is the key element of the
+antimicrobial effect.
+Due to the abundance of sulfur-containing
+proteins on the bacterial cell membrane, silver
+nanoparticles can react with sulfur-containing amino
+acids inside or outside the cell membrane, which in turn
+affects bacterial cell viability. It was also suggested that
+silver ions (particularly Ag+) released from silver
+nanoparticles can interact with phosphorus moieties in
+DNA, resulting in inactivation of DNA replication, or
+can react with sulfur-containing proteins, leading to the
+inhibition of enzyme functions [15, 16]. The general
+understanding is that Ag nanoparticle of typically less
+than 20 nm diameters get attached to sulfur-containing
+proteins of bacterial cell membranes leading to greater
+permeability of the membrane, which causes the death
+of the bacteria [17].
+The antibacterial activity of plant based silver
+nanoparticles of Ocimum sanctum and Vitex negundo
+were tested against Staphylococcus aureus, Vibrio
+cholerae, Proteus vulgaris and Pseudomonas
+aeruginosa, for which significant results were observed
+[18]. Antibacterial activity of silver nanoparticles
+against Staphyloccocus aureus, Pseudomonas
+aeruginosa and Escherichia coli has been investigated
+[19]. The antibacterial properties of the biosynthesized
+silver nanoparticles when incorporated on textile fabric
+were investigated [20]. Silver impregnated medical
+devices like surgical masks and implantable devices
+showed significant antimicrobial efficiency [21]. The
+current investigation suggests that, use of silver ion or
+metallic silver as well as silver nanoparticles can be
+exploited in medicine for burn treatment, dental
+materials, coating stainless steel materials, textile
+fabrics, water treatment, sunscreen lotions, etc [22].
+Antibacterial activity of cotton fabric coated silver
+nanoparticles showed distinct bactericidal effect against
+Staphylococcus aureus and E.coli with all the tested
+concentration [23]. Seven Apocynaceae members were
+studied for their antibacterial activity against ten
+pathogens, of which Plumeria alba showed efficient
+antibacterial activity and Rauvolfia tetraphylla showed
+moderate activity against most of the pathogens [24].
+But in this study the plant based Silver nanoparticles
+synthesized from T. divaricata was active against the
+pathogens studied. Hence the plant based Silver
+nanoparticles are found to be more efficient than the
+plant extracts that have been used since time immortal.
+CONCLUSION
+The silver nanoparticles synthesized and
+investigated in this study establish a stronger
+antibacterial potency which was efficient against most
+of the ocular pathogens studied. The green chemistry
+approach addressed in the present work on the synthesis
+of silver nanoparticles is simple, cost effective and the
+resultant nanoparticles are highly stable anreproducible. This approach can be further capitalized
+to rapidly screen plants used in traditional medicines for
+ailments resulting from microorganism as well as in the
+extraction of potential molecules that could be used in
+future therapeutics.

@@ -1,0 +1,81 @@
+Analgesic and Anti-inflammatory Effect of Ethanolic Extract of Tabernaemontana divaricata L. Flowers in Rats
+
+Plant
+The flowers of TD were collected from Chidambaram, Cuddalore, Tamil Nadu, India. The plant was identified and
+authenticated by Chief Botanist, Department of Botany, Annamalai University, Annamalai Nagar Chidambaram,
+Cuddalore, Tamil Nadu, India. A voucher specimen has been kept at the herbarium of the University.
+Preparation of extract
+The flowers of TD were dried in shade, powdered and passed through a 40-mesh sieve. Dried powder (500 g) was
+taken and subjected to successive extraction with petroleum ether, chloroform, ethanol and water in soxhlet
+apparatus. The extracts were concentrated to dry residue by distillation (temperature 60 °C without vacuum) and
+dried completely in desiccators and weighed. The extract of TD was freeze dried and stored at –80°C until further
+use. The dried mass (yield=20 g) was diluted with normal saline and used in experiments.
+Preliminary phytochemical screening
+Petroleum ether, chloroform, ethanolic and aqueous extracts of TD was subjected to preliminary phytochemical
+screening for their presence or absence of active constituents utilizing standard method of analyses [7].
+Drugs and chemicals
+Carrageenan and indomethacin were procured from Sigma-Aldrich, St. Louis, MO, USA. Acetic acid was procured
+from Pure Chem. Ltd., India.
+Preparation of ethanolic extract of TD flowers
+The dried plant material (100 g) TD flowers were extracted three times by refluxing with distilled water for 8 hrs
+and the filtered extract was evaporated on a water bath to get a viscous ethanolic extract.
+For dosing, the ethanolic extract of TD was uniformly suspended in 1% carboxymethyl cellulose (CMC) dissolved
+in water and administered orally (p.o.).
+Experimental animals
+The study was conducted after obtaining institutional ethical committee clearance (160/1999/CPCSEA). Wistar rats
+(100–150 g; 4–6 weeks old, either sex) were maintained under controlled conditions of light (12 h/12 h),
+temperature (26±2 °C) and relative humidity (44–56%) for one week before and during the experiments. The
+animals had access to standard laboratory feed (Gold Mohur, Hindustan Lever Ltd., M
+Analgesic activity
+Acetic acid-induced writhing test
+Analgesic activity was assessed by abdominal writhing test using acetic acid [8]. The animals were divided into six
+groups (n=6 each) viz.: group I- acetic acid control (normal saline, 10 ml/kg, p.o.); group II- indomethacin solution
+(20 mg/kg, p.o.); group III- TD-I (125 mg/kg, p.o.); group IV- TD-II (250 mg/kg, p.o.) & group V- TD-III (500
+mg/kg, p.o.).
+In the writhing test, 0.2 ml of 0.6 % acetic acid solution was injected intraperitoneally and the number of writhes
+were counted starting 5 min after injection for a period of 20 minutes
+Hot plate reaction time
+Analgesic activity was assessed by hot plate latency assay [8]. The animals were divided into six groups (n=6 each).
+The animals were divided into six groups (n=6 each) viz.; group I: control (normal saline 10 ml/kg, p.o.); group II:
+indomethacin (20 mg/kg p.o); group III: TD–I (125 mg/kg, p.o.); group IV: TD–II (250 mg/kg, p.o.) & group V:
+TD–III (500 mg/kg, p.o.).
+Rats from each group were placed on the hot plate after drug administration. Then reaction time for the animal to
+lick the paw or jump from the hot plate was taken as the latency (s). This was repeated at 60 and 90 minutes from
+the exact time given. The average of the latency was determined from the six rats in each group. The temperature of
+the hot plate was maintained at 55 ± 1ºC. The cut off time was kept at 20 seconds.
+Anti-inflammatory activity
+Carrageenan-induced hind paw edema
+Inflammation was induced by administering 0.1 ml of (1%) carrageenan into sub-plantar surface of rat hind paw [9].
+The animals were divided in to six groups (n=6 each) viz.; group I: carrageenan control (normal saline 10 ml/kg,
+p.o.); group II: indomethacin (20 mg/kg p.o); group III: TD–I (125 mg/kg, p.o.); group IV: TD–II (250 mg/kg, p.o.)
+& group V: TD–III (500 mg/kg, p.o.).
+In this method, all drugs were given orally. One hour later all animals were injected with 0.1 ml of 1% Carrageenan
+solution in the sub-plantar aponeurosis of left hind paw and the paw volume was measured plethysmometrically at 1
+hr, 3 hr and 5 hr. Indomethacin (20 mg/kg, p.o.) as standard and ethanolic extract of TD administered by the
+intragastric route 1 hr before administration of carrageenan.
+Safety of drugs on gastric mucosa of rats (ulcer index)
+This method was performed to assess the safety of ethanolic extract of TD on the gastric mucosa of rats. In this
+method, the animals were divided into two groups (n=6 each) viz.: group I: indomethacin (20 mg/kg p.o.) & group
+II: TD (500 mg/kg, p.o.).
+In the present method, higher doses of drugs were given orally. After 5 hours of administration animals were
+sacrificed by an overdose of ether vapors. Then the stomachs were removed and opened. The sum of length of
+lesions was evaluated for ulcer index score 1, 2 & 3 for erosions 1 mm or less, 1 mm to 2 mm & more than 2 mm
+respectively. The overall score was divided by a factor of 10 and designated as ulcer index [10].
+Statistical analysis
+All the values are expressed as mean ± S.E.M. The statistical significance was determined by ANOVA followed by
+Dunnett's test. Values p < 0.05 was considered as significant.
+Preliminary Phytochemical Screening
+Ethanolic extract of TD flowers showed the presence of alkaloids, carbohydrates, flavonoids, saponins, and terpenes
+while proteins, amino acids, phenols, glycosides, fixed oils, volatile oils steroids and tannins were found to be
+absent.
+Analgesic activity
+Effect of ethanolic extract of TD flowers on acetic acid-induced writhing in rats
+A significant decrease in acetic acid-induced writhing test was observed in 20 min observation. The score for
+writhing was significantly decreased by ethanolic extract of TD flowers at doses of 125, 250 & 500 mg/kg on acetic
+acid-induced writhing in rats over the score of control group (p < 0.05). The effect of ethanolic extract of TD
+flowers on acetic acid-induced writhing test was comparable to indomethacin (Table 1).
+Effect of ethanolic extract of TD flowers on hot plate reaction time in rats
+A significant raise in the reaction time on hot plate was observed at 30, 60 and 90 min. In comparison to control
+group, ethanolic extract of TD at doses of 125, 250 & 500 mg/kg showed a significant increase in the reaction time
+at 30, 60 and 90 min, respectively (p < 0.05). The effect of ethanolic extract of TD flowers on reaction time was
+comparable to the standard drug, indomethacin

@@ -1,0 +1,105 @@
+Analgesic and cytotoxic activity of Acorus calamus L., Kigelia pinnata L., Mangifera indica L. and Tabernaemontana divaricata L.
+
+Animals
+
+Adult Swiss Albino mice (18-25 g) of either sex were procured from International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B) and were housed in the animal house of Pharmacy Discipline, Khulna University, Bangladesh, with 12:12 h light:dark cycles. Standard pellets obtained from ICDDR,B were used as a basal diet during the experimental period. The control and experimental animals were provided food and drinking water. The brine shrimp eggs for cytotoxicity assay were collected from Bangladesh Council of Scientific and Industrial Research, Dhaka.
+
+Chemicals
+
+Ethanol (≥99.5%) was used as solvent in maceration extraction of the plant material. Chloroform (99.0%-99.4%; GR for analysis), methanol (≥99.8%; for liquid chromatography), and water (distilled) solvent system at a ratio of 40:10:1 was used as eluent to run thin layer chromatogram. Acetic acid (glacial, 100% extrapure) was used for induction of pain in writhing test on mice and diluted with distilled water before administration. The chemicals ethanol, chloroform, methanol, and acetic acid were procured from Merck KGaA, Darmstadt, Germany. Sea salt (sodium chloride Crystal GR; Merck Ltd., Mumbai, India) was used as medium for hatching the eggs of shrimp. Again, diclofenac sodium (Ultrafen, Tab. 50 mg, Beximco Pharmaceuticals Ltd., Bangladesh) was used as reference standard in analgesic test. It was dissolved in distilled water to make the desired dose of application, and 1% Tween-80 was used as surface active agent to facilitate dissolution of extracts in distilled water while preparing their solutions for analgesic test. In cytotoxicity test dimethyl sulfoxide (≥99.9%, BioReagent, for molecular biology; Sigma-Aldrich, India) was used as solvent to dissolve the extracts.
+
+TLC plates
+
+Aluminum-backed Kieselguhr 60-F 254 TLC Silica plates manufactured by Merck KGaA (Darmstadt, Germany) were used to develop chromatogram of the extracts. The plates were 20 × 20 cm in size and 250 μm in layer thickness. The plates were divided into two halves and each half was employed for one extract.
+
+Plant materials
+
+M. indica L. bark, T. divaricata L. leaves, K. pinnata L. bark, and A. calamus L. roots were collected from different areas of Khulna, Bangladesh. Then the plant parts were kept under a shed till dried. The taxonomical identification of the plants was done by the taxonomist, botanist of Bangladesh National Herbarium, Mirpur, Dhaka, Bangladesh. The specimens were preserved in the Pharmacognosy laboratory of the Pharmacy Discipline, Khulna University, Bangladesh. The dried materials were crushed into fine powder and the powder was passed through 40# mesh particle size and stored in an airtight container at room temperature.
+
+Preparation of extract
+
+Extraction was carried out by simple maceration process. The powder material was merged in ethanol and the homogenate was kept for 4 weeks at room temperature (25°C ± 2°C) in extraction bottle. Uniform distribution of solvent within the material was ensured by occasional stirring at every 2- or 3-day intervals. After 4 weeks, the mixture was filtered twice, first using sterile cotton and then Whatman-41 filter paper. Ethanol was completely evaporated at room temperature with the help of an electric fan, which facilitated the evaporation. The yield value was calculated by using the equation: % yield = (We /Wp ) × 100; where, We = weight of dried extract and Wp = weight of dried powder. [7]
+
+The yield of the extracts were found to be 14.6%, 21.2%, 20.6%, and 20.5% w/w for M. indica L. bark, T. divaricata L. leaves, K. pinnata L. Bark, and A. calamus L. roots, respectively. All the extracts were preserved in a refrigerator till further use.
+
+Thin layer chromatography
+
+Thin layer chromatography (TLC) was employed in this study to standardize the crude extracts. TLC was performed on the crude extract samples in accordance to Vogel with a few modifications and following the steps given below. [8]
+
+Sample application
+
+A small amount of each extract was taken and a few drops of ethanol were added. Then the extract solutions (3 μL) were spotted (three spots per plate) separately on TLC plate at about 2.5 cm from the edge (spotting line). Thereafter the plates were left under a fume hood to dry overnight allowing evaporation of the solvent.
+
+Development of plates
+
+The chromatogram is usually developed by the ascending technique in which the plates were immersed in the developing solvent system to a depth of 0.5 cm. The solvent system (chloroform, methanol, and water [40:10:1] was taken in a clean and dry jar. A filter paper was kept in the jar and the jar was closed properly. After 5 min the spotted TLC plates were taken inside the jar dipping into the solvent system. Consequently, the mobile phase had moved upward, which was allowed to about 80% from the spotting line. Then the plates were removed from the jar. The location of the solvent front was marked with a pencil and the developing solvent was allowed to evaporate in a fume hood. Finally, the plates were observed under UV-lamp (UV 365μm ) for color spots and retardation factor (R f ) values of the spots were calculated. Sulphuric acid (95%) was sprayed on TLC plates as chromogenic reagent.
+
+Calculation of retardation factor
+
+The distance traveled by the solvent front and each spot were measured. Measurements were taken from the origin of the solvent front and from origin to the middle of each spot. R f values were calculated by using the equation: R f = (Xsample /Xsolvent ); where, Xsample = distance traveled by substance and Xsolvent = distance traveled by solvent front.
+
+Phytochemical group tests
+
+The ethanolic extracts of M. indica L., T. divaricata L., K. pinnata L., and A. calamus L. were screened by using standard procedures of phytochemical group tests. [9] The extracts were screened for the presence of alkaloids, glycosides, steroids, gums, reducing sugars, tannins, flavonoids, and saponins. The reagents were first tested by using standard drugs of corresponding groups available in market. The resulting data are summarized in [Table 1].
+	Table 1: Results of phytochemical group tests
+
+Click here to view
+
+
+Acute toxicity study
+
+The acute toxicity (LD 50 ) of the extract in mice was determined by oral route. [10] The study was divided into two phases. In the initial phase, the range of doses producing the toxic effects was established. Four groups of 3 mice each were selected. The first group received extract at a dose of 10 mg/kg body weight while the second, third, and fourth groups received 100, 500, and 1000 mg/kg body weight, respectively. The animals were observed for signs of toxicity and death within 24 h. In the second phase, 4 groups of 1 mouse each were used. Specific doses were administered, which depended on the result of the first phase. The final LD 50 values were calculated as the square root of the product of the lowest lethal dose and the highest non-lethal dose, that is, the geometric mean of consecutive doses for which 0% and 100% survival rates were recorded.
+
+Determination of analgesic activity by acetic acid-induced writhing test
+
+Experimental design
+
+Test animals were randomly selected and divided into 4 groups: control, positive control, test I, and test II consisting of 5 mice in each group. In the animals of positive control group diclofenac sodium was used at the dose of 25 mg/kg body weight. To induce pain in the test animals 0.7% acetic acid solution was used. Groups test I and test II were treated with the sample at a dose of 250 and 500 mg/kg body weight, respectively, by oral route. Thirty minutes were given to ensure proper absorption of the administered substances. After an interval of 5 min, the number of writhing was counted for 30 min. The incomplete writhing was taken as half writhing and two halves were counted as one full writhing. [11] A statistical evaluation of the results of analgesic activity is given in [Table 2]. Again, percent writhing was calculated by using the equation: % writhing = (M T/M C) × 100; where, M T = Mean writhing of test group and M C = Mean writhing of control group. And percent protection of writhing was calculated by using the equation: % protection of writhing = 100 - [(M T/M C) × 100]. Resulting data are diagrammatically presented in [Figure 1].
+	Figure 1: The effect of the extracts and diclofenac sodium on acetic acid-induced writhing test
+
+Click here to view
+	Table 2: The effect of the extracts and diclofenac sodium on acetic induced writhing test
+
+Click here to view
+
+
+Determination of cytotoxic activity by brine shrimp lethality assay
+
+Experimental design
+
+In vitro lethality assay of the ethanolic extracts of the plants M. indica L., T. divaricata L., K. pinnata L., and A. calamus L. was used to detect cell toxicity. [12] Brine shrimp eggs were placed in seawater (3.8% w/v sea salt in distilled water) and incubated at 24°C-28°C in front of a lamp. Eggs were hatched for 48 h providing large number of larvae (nauplii). Solutions of different concentrations were prepared by dissolving the extracts in dimethyl sulfoxide as solvent. Eight test tubes were used; in each test tube 10 shrimps were taken and the prepared extract solutions were applied in it. Finally volume of liquid was adjusted by saline water. The test tubes were kept for 24 h. Ten shrimps were taken in a test tube (control) containing saline water and DMSO and were kept for observation under the same conditions with the test sample, and the surviving nauplii were counted after 16 h and the lethal concentrations (LC 50 and LC 90 ) were calculated. The plot of percent mortality vs log concentration of the extract produced an approximate linear correlation between them on graph. From the graph the concentrations at which 50% and 90% mortality (LC 50 ) and LC 90 ) of brine shrimp nauplii occurred were obtained [Figure 2]. The resulting data and statistical analysis are summarized in [Table 3].
+	Figure 2: The effects of the extracts on brine shrimp lethality assay
+
+Click here to view
+	Table 3: The effect of the extracts on brine shrimp cytotoxicity test
+
+
+Statistical analysis
+
+The results of the analgesic test were subjected to Student's t test for comparison of test groups with the control group. And in case of brine shrimp lethality assay the data were statistically evaluated by using one-way ANOVA. Values with P < 0.5 were considered significant.
+
+Standardization and phytochemical screening
+
+Standardization parameters for extracts were determined and all the parameters were found to be within pharmacopoeial standards limit. Crude powder of M. indica L. bark taken for extraction was of yellowish-brown color with pungent taste, that of T. divaricata L. leaves was greenish-yellow with a bitter taste, for K. pinnata L. bark light-brown with a bitter taste and of A. calamus L. roots was yellowish-brown color with a salty but bitter taste.
+
+TLC of M. indica L. bark extract revealed bright brownish red spot (R f = 0.31), R f = 0.70 (magenta color), R f = 0.17, 0.10 (light violet spots), which turn magenta on keeping. T. divaricata L. extract revealed bright brownish red spot (R f = 0.41), R f = 0.51 (magenta color), R f = 0.13 (light violet spots), and K. pinnata L. produced two distinct yellowish-brown spots (R f = 0.23, R f = 0.67), which fade gradually on keeping. A. calamus L. extract showed two violet spots (R f = 0.12, R f = 0.72) and two brown spots (R f = 0.25, R f = 0.82).
+
+In the present study it was found that M. indica L. extract contains alkaloids, glycosides, gums, reducing sugars, tannins, and saponins. The ethanolic extract of T. divaricata L. extract showed the positive interference in alkaloid tests as well as in the test for glycosides, gums, reducing sugars, flavonoids, tannins, and saponins. K. pinnata L. extract showed the presence of alkaloids, glycosides, gums, reducing sugars, tannins, flavonoids, and saponins. But in A. calamus L. extract only glycosides, flavonoids, tannins, and saponins were found to be present. Here it is observed that tannins and saponins are present in all of the 4 extracts. On the other hand, the tests for steroids produced negative inference in all of the 4 extracts.
+
+Acute toxicity study
+
+Signs and symptoms observed in test animals injected with the extracts included piloerection, reduced mobility, and respiratory embarrassment, including gasping with eventual immobility, unconsciousness, and death. The LD 50 values were found to be 880, 850, 955, and 865 mg/kg body weight (oral) with the extracts of M. indica L., T. divaricata L., K. pinnata L., and A. calamus L., respectively. This helped to determine the maximum dose that can be used for mice.
+
+Acetic acid-induced writhing test
+
+From [Table 2], test groups treated with the extract significantly (P < 0.5, P < 0.001) inhibited writhing response induced by acetic acid in a dose-dependent manner. M. indica L. extract produced 8.30% and 28.16% protection at the doses of 250 and 500 mg/kg body weight, respectively. While the T. divaricata L. extract produced 22.02% and 33.93% protection at the same doses, respectively. Again K. pinnata L. extract showed significant protection of writhing by 11.55% and 47.29%. A. calamus L. extract showed the highest value of writhing protection at both doses, which were 15.16% and 54.51%, whereas the reference drug diclofenac sodium produced 50.18% writhing protection in positive control animals at the dose of 25 mg/kg body weight. From the results, it was observed that the percent protection of writhing was increased with the doses of the extracts.
+
+The acetic acid-induced writhing response is a sensitive procedure to evaluate peripherally acting analgesics. When acetic acid is induced, pain sensation is produced by triggering localized inflammatory response. This pain stimulus leads to the release of free arachidonic acid from cell phospholipids. [13] And the response is thought to be mediated by peritoneal mast cells, [14] acid-sensing ion channels, [15] and the prostaglandin pathways. [16] It depicts that the plant parts may contain aminophenol compounds and can be employed as anti-inflammatory drugs.
+
+A number of flavonoids and tannins have been reported to produce analgesic activity. As phytochemical tests showed presence of flavonoids and tannins in extract of the plants, they might suppress the formation of prostaglandin and bradykinins or antagonize their action to exert the activity [Table 1]. However, further investigation is underway to determine the exact phytoconstituents that are responsible for the biological activities of the extracts.
+
+Determination of cytotoxic activity by brine shrimp lethality assay
+
+The percent mortality of larvae (nauplii) was increased with the increase of the doses of the extracts. The mean ± SD was found to be 58.7 ± 25.22, 56.25 ± 22.88, 52.50 ± 24.37, and 61.25 ± 26.66 with M. indica L., T. divaricata L., K. pinnata L., and A. calamus L. extract, respectively. And the LC 50 and LC 90 values were found to be 100 and 300 μg/mL for M. indica L. extract and that were (200 and 350 μg/mL), (100 and 350 μg/mL) and (50 and 300 μg/mL) for T. divaricata L., K. pinnata L., and A. calamus L. extract, respectively. And the result was statistically significant (P < 0.0001). This depicts that the extracts may contain antitumor, antibacterial, or pesticide compounds. However, this cannot be confirmed without further higher and specific tests.
+
+In the present report all of the plant species showed good brine shrimp lethality. The bioactive constituents, alkaloids, glycosides, gums, sugars, tannins, flavonoids, and saponins, found to be present in the extracts of the plant species may be responsible for their cytotoxic properties [Table 3]. Alkaloids were present in the extract of M. indica L., T. divaricata L., and K. pinnata L. species. The ferric chloride test gave positive results indicating the presence of catechol tannins in the extract of all species. Similarly, in foam test stable froth was observed, which depicted the presence of saponins in the extracts. However, further studies are required for isolation and identification of bioactive constituents and to observe their effects on human cell line.
