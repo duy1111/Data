@@ -1,0 +1,96 @@
+Antimicrobial activity of bark extracts of Syzygium jambos (L.) Alston (Myrtaceae)
+
+Syzygium jambos (L.) Alston (Myrtaceae) is a widespread medicinal plant traditionally used in sub-Saharan Africa to treat infectious diseases. Acetone and aqueous extracts from the bark of S. jambos were tested for antimicrobial activity in vitro by the agar dilution method in petri dishes. Both extracts showed some activity against the tested micro-organisms. They proved to be particularly effective on Staphylococcus aureus, Yersinia enterocolitica and coagulase negative staphylococci among which Staphylococcus hominis, Staphylococcus cohnii and Staphylococcus warneri. These properties seem to be related to the high tannin content of S. jambos extracts (77 and 83% for the aqueous and acetone extracts, respectively, determined according to the European Pharmacopoeia method) which were generally more active than Hamamelis virginiana, Krameria triandra, Alchemilla vulgaris and Rubus fruticosus extracts containing 48, 44, 46 and 28% tannins, respectively. Furthermore, elimination of tannins totally suppressed these antimicrobial activities.
+Introduction
+
+Syzygium jambos (L.) Alston (=Eugenia jambos) is widespread in sub-Saharan Africa (Benin, Democratic Republic of Congo and Cameroon) where its bark is traditionally used, as the bark of Syzygium guineense with which it is often confused, to treat pernicious attack, amenorrhea, abdominal pain and diarrhoea (Adjanohoun, 1988, Adjanohoun, 1989). It is also distributed in Reunion Island, Central America (i.e. Guatemala) and Asia (i.e. Malaysia, Nepal) where fruits are eaten (Maskey and Shah, 1982). Beside studies on the fruit volatiles and sugars (Maskey and Shah, 1982, Vernin et al., 1991, Wong and Lai, 1996), the only part of the plant chemico-pharmacologically studied was the leaves. An infusion of S. jambos leaves has been tested for antidiabetic activity by a glucose tolerance test in a randomised, parallel, double-blind clinical trial in nondiabetic subjects, but no significant effect was detected (Teixeira et al., 1990). Aqueous, methanol and ethyl acetate extracts of S. jambos leaves from Guatemala have been shown to possess anti-inflammatory activity in an adjuvant-carrageenan-induced inflammation model in rats (Slowing et al., 1994a). From these active extracts, several flavonoids were isolated among which myricetin and quercetin 3-O-β-d-xylopyranosyl(1-2)α-l-rhamnopyranosides (Slowing et al., 1994b, Slowing et al., 1996). These two flavonoids proved to be more effective than phenylbutazone and indomethacine used as controls (Slowing et al., 1994b, Slowing et al., 1996). The methanol extract of leaves was also recently shown to contain ellagic acid derivatives: 3,3′,4′-tri-O-methylellagic acid-4-O-β-d-glucopyranoside and 3,3′,4′-tri-O-methylellagic acid (Chakravarty et al., 1998). Furthermore, several ellagitannins (pedunculagin, casuarinin, tellimagrandin I, strictinin, casuarictin, 2,3-HHDP-glucose and traces of tellimagrandin II) were detected, as in several other Myrtaceae, in a plant extract of S. jambos from Japan (Okuda et al., 1982). Other investigations showed that ethanol extracts of S. jambos leaves possessed antiviral activity on herpes simplex type I and inhibited the replication of vesicular stomatitis virus but had no effect on poliovirus replication (Abad et al., 1997).
+
+In spite of the use of the bark of this plant to treat infectious diseases, no investigation was made on the content of the bark and its antibacterial properties. Thus, we decided to investigate the antimicrobial properties of extracts of bark of S. jambos.
+Section snippets
+Plant material
+
+Bark of S. jambos (L.) Alston (Myrtaceae) was collected in Mbam region (Cameroon) and authenticated by M. Bamps of ‘Jardin Botanique de Belgique’ where a voucher specimen was deposited. The plant material was dried and pulverised.
+
+Dried Hamamelis virginiana L. (Hamamelidaceae) leaves, Rubus fruticosus L. s.l. (Rosaceae) and Alchemilla vulgaris auct. non L. (Rosaceae) herbs were obtained from S.A. Tilman (Baillonville, Belgium) while dried Krameria triandra RUIZ et PAV. (Krameriaceae) bark was
+Results and discussion
+
+In traditional medicine, people usually use aqueous decoctions to treat patients. That is why we first prepared an extract from an aqueous decoction. Phytochemical analysis of this extract by TLC and colorimetric reactions showed that tannins were the major compounds (both hydrolysable and condensed tannins were identified) but we also detected a small amount of saponins. Because of the presence of tannins, another extract was prepared with acetone 70%, a better solvent for tannins (Bruneton,
+Conclusions
+
+Aqueous and acetone extracts of bark of S. jambos reduced and in some cases inhibited the growth of all tested micro-organisms including bacteria implicated in cutaneous and diarrhoeal infections. These extracts were also shown to be generally more active than other tannin containing extracts like H. virginiana, K. triandra, A. vulgaris and R. fruticosus extracts. These properties seem to be due to the presence of high concentrations of antimicrobial tannins.
+
+These facts support the claims of
+Acknowledgements
+
+We wish to thank the Rotary foundation for his financial support to one of us (C. Djadjo Djipa), and also M. Janssens and M.-Ch. Fayt for their precious help. This work was supported by the ‘Fonds de développement scientifique’ of UCL.
+References (16)
+
+    A. Scalbert
+    Antimicrobial properties of tannins
+    Phytochemistry
+    (1991)
+    K. Slowing et al.
+    Anti-inflammatory activity of leaf extracts of Eugenia jambos in rats
+    Journal of Ethnopharmacology
+    (1994)
+    K. Slowing et al.
+    Flavonoid glycosides from Eugenia jambos
+    Phytochemistry
+    (1994)
+    K.C. Wong et al.
+    Volatile constituents from the fruits of four Syzygium species grown in Malaysia
+    Flavour and Fragrance
+    (1996)
+    G. Vernin et al.
+    Volatile constituents of the Jamrosa aroma Syzygium jambos L. Aston from Reunion Island
+    Journal of Essential Oil Research
+    (1991)
+    C.C. Teixeira et al.
+    Effect of tea prepared from leaves of Syzygium jambos on glucose tolerance in nondiabetics subjects
+    Diabetes Care
+    (1990)
+    K. Slowing et al.
+    Anti-inflammatory compounds of Eugenia jambos
+    Phytotherapy Research
+    (1996)
+    Pharmacopée européenne, 1997. 3ème édition. Conseil de l’Europe, Strasbourg, pp....
+
+There are more references available in the full text version of this article.
+Cited by (148)
+
+    Jamun (Syzygium cumini (L.) Skeels): The conventional underutilized multifunctional plant-an exotic gleam into its food and functional significance
+    2023, Industrial Crops and Products
+
+Tannin-rich bark extract of plants as a source of antimicrobial bioactive compounds: A bibliometric analysis
+2022, South African Journal of Botany
+Ethnobotanical study of medicinal plants used by K'Ho-Cil people for treatment of diarrhea in Lam Dong Province, Vietnam
+2020, Journal of Herbal Medicine
+Biochemical and phylogenetic analysis of Eugenia and Syzygium species from Mauritius
+2019, Journal of Applied Research on Medicinal and Aromatic Plants
+Arbutus unedo L.: From traditional medicine to potential uses in modern pharmacotherapy
+2018, Journal of Ethnopharmacology
+The biological activities of roots and aerial parts of Alchemilla vulgaris L.
+2018, South African Journal of Botany
+
+View all citing articles on Scopus
+Recommended articles (6)
+
+    Research article
+    Analysis of chemical composition and evaluation of antigenotoxic, cytotoxic and antioxidant activities of essential oil of Toddalia asiatica (L.) Lam
+    Asian Pacific Journal of Tropical Biomedicine, Volume 2, Issue 3, Supplement, 2012, pp. S1276-S1279
+
+Research article
+Therapeutic effects of Syzygium mundagam bark methanol extract on type-2 diabetic complications in rats
+Biomedicine & Pharmacotherapy, Volume 95, 2017, pp. 167-174
+Research article
+Potential antihyperglycaemic effect of myricetin derivatives from Syzygium malaccense
+Journal of Functional Foods, Volume 22, 2016, pp. 325-336
+Research article
+Jambo—Syzygium malaccense
+Exotic Fruits, 2018, pp. 245-249
+Research article
+Antidiabetic activity of Syzygium calophyllifolium in Streptozotocin-Nicotinamide induced Type-2 diabetic rats
+Biomedicine & Pharmacotherapy, Volume 82, 2016, pp. 547-554
+Research article
+Anticancer efficacies of Krameria lappacea extracts against human breast cancer cell line (MCF-7): Role of oxidative stress and ROS generation
+Saudi Pharmaceutical Journal, Volume 29, Issue 3, 2021, pp. 244-251

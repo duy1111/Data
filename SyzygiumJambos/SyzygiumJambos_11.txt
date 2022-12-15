@@ -1,0 +1,140 @@
+Delta-ALA-D inhibitory potential and protective action of Syzygium jambos and Solanum guaraniticum leaf extracts on oxidatively stressed erythrocytes
+
+Abstract
+
+Objective
+
+This study aimed to investigate the effect of the leaf extracts of Syzygium jambos and Solanum guaraniticum on the δ-aminolevulinate dehydratase (δ-ALA-D) activity, their antioxidant activity and potential protective action on oxidatively stressed erythrocytes, in order to demonstrate the safety or toxicity of the plant.
+
+Methods
+
+In erythrocyte samples, the effect of both extracts on δ-ALA-D activity, H2O2-induced oxidative stress, and 2,2′azobis (2-amidinopropane) (AAPH)-induced hemolysis was evaluated, as well as some antioxidant mechanisms.
+
+Results
+
+Both extracts inhibited δ-ALA-D activity (S. guaraniticum > S. jambos), and an involvement of the zinc ion of the δ-ALA-D structure on the inhibition of enzyme activity was verified. S. jambos leaf extract showed marked efficiency in countering H2O2-induced lipid peroxidation and in maintaining cellular integrity against AAPH-induced hemolysis. Furthermore, S. jambos exhibited greater H2O2 scavenging activity and stronger reduction power than S. guaraniticum.
+
+Discussion
+
+Both extracts bear potent antioxidant property as an important beneficial effect. However, the inhibition of δ-ALA-D activity suggests a possible harmful effect of these vegetal preparations and indicates the need for further investigation regarding their toxicological properties. All together, these data represent a significant contribution to the knowledge of these plants, both to the scientific community and to the folk medicine.
+
+Keywords:
+
+    Solanum guaraniticumSyzygium jambosDelta-aminolevulinate dehydrataseAntioxidantErythrocytesHemolysis
+
+Introduction
+
+Oxidative stress and the production of reactive oxygen species (ROS) have been implicated as one of several mechanisms to induce toxicity in different organs.1 The erythrocytes are constantly exposed to oxidative injury, but their metabolic activity is capable of reversing the injury under normal conditions.2 Erythrocytes are protected by the powerful action of the endogenous antioxidant enzymes present in its membranes and cytoplasmic compartments against the continuous production of free radicals by preventing the production of ROS, reducing the generated molecules, or repairing the damage caused by them.3 However, following an increase in oxidative stress, irreversible damage to erythrocytes occurs, resulting in their ultimate loss by hemolysis and removal from circulation.4
+
+A rich dietary of phenolic antioxidants is believed to play an important role in the prevention of many oxidative and inflammatory diseases.5 Because plants can represent a source of natural compounds with antioxidant activities, many studies have been conducted searching for the antioxidant activities of many plant extracts and their constituents.6
+
+Among the several medicinal plants, we can highlight Solanum guaraniticum A. St.-Hil (Solanaceae) and Syzygium jambos (L.) (Myrtaceae). The first one has its leaves used traditionally to treat liver and gastric dysfunctions and anemia.7,8 The second one, S. jambos, has its leaves widely used in folk medicine due to their anti-inflammatory and digestive properties9,10 and for the treatment of diabetes, although there are contradictory reports about its anti-hyperglycemic effects.11
+
+Although previous studies already demonstrated some antioxidant properties of these vegetal species, few data are found about their pharmacological and toxic properties. One common problem is their misidentification in popular usage. S. guaraniticum and S. jambos are frequently used without distinction or by replacing the species Solanum paniculatum and Syzygium cumini, respectively, which have pharmacological and toxic properties better clarified in the literature.
+
+Delta-aminolevulinate dehydratase (δ-ALA-D) (porphobilinogen synthase, EC 4.2.1.24) is the first cytosolic enzyme in the heme metabolic pathway, being directly related to the production of red blood cells.4,12 It is a sulfhydryl-containing enzyme, requiring zinc ions for maximum catalytic activity, which is extremely sensitive to the presence of oxidizing agents13 and situations associated with oxidative stress.14,15 Therefore, the inhibition of δ-ALA-D may adversely affect the biosynthesis of heme and iron uptake in erythropoieses and can result in the accumulation of the substrate 5-aminolevulinic acid, which has some pro-oxidant activity.16
+
+Therefore, considering that S. jambos and S. guaraniticum are vegetal species commonly used on folk medicine, mostly under mistaken identification this study aimed to evaluate the effect of their leaf extracts on δ-ALA-D activity and investigate their antioxidant activities (iron ion-chelating activity, reducing power, and hydrogen peroxide (H2O2) scavenging activity) and potential protective action on lipid peroxidation and deformability loss of oxidatively stressed human erythrocytes, in order to demonstrate the safety or toxicity of the plant
+Materials and methods
+Chemicals
+
+5′-Aminolevulinic acid (δ-ALA), thiobarbituric acid (TBA), dithiothreitol (DTT), 5,5′-dithibis(2-nitrobenzoic acid) (DTNB) and 2-4-dinitrophenylhydrazine (DNPH), 2,2′azobis (2-amidinopropane) (AAPH), and ascorbic acid were purchased from Sigma (St. Louis, MO, USA). All other chemicals were of analytical grade.
+Plant material and extracts of S. guaraniticum and S. jambos preparation
+
+Leaves of S. guaraniticum and S. jambos were collected in the cities of Santa Maria and Tupanciretã, Brazil, respectively. The material was authenticated by Prof. Aline S. Pigatto, and a voucher specimen was deposited at the herbarium of the Federal University of Santa Maria. The leaves were dried in a greenhouse, smashed in the knife mill, and submitted to extraction with ethanol 80% in a Soxhlet apparatus. After extraction, the solvent was completely evaporated in a rotavapor and analyzed by high-performance liquid chromatography (HPLC). A reverse phase chromatographic analyses were carried out under gradient conditions using C18 column (4.6 × 250 mm) packed with 5-μm diameter particles. The mobile phases were 2% acetic acid (A) and methanol (B). The composition gradient was: 5% of B until 2 minutes and changed to obtain 25, 40, 50, 60, 70, and 100% B at 10, 20, 30, 40, 50, and 80 minutes, respectively. The flow rate was 0.7 ml/minute, injection volume 40 µl and the wavelength were 271 nm for gallic acid, 325 nm for caffeic and chlorogenic acids, and 365 nm for quercetin, rutin, and kaempferol. All chromatography operations were carried out at ambient temperature and in triplicate. The chromatography peaks were confirmed by comparing their retention times with those of reference standards and by DAD spectra (200 to 500 nm).
+Antioxidant activity of extracts in cell-free systems
+
+Iron ion-chelating activity of both extracts (1–100 µg/ml) was measured based on a published procedure,17 except that 2,4,6-tripyridyl-S-triazine (TPTZ) was used instead of ferrozine. EDTA-2Na (200 µg/ml) was used as the positive control.
+
+The ability of extracts (25–100 µg/ml) to scavenge H2O2 also was determined18 and calculated according to the formula: % scavenged H2O2 = [(A0 − A1)/A0] × 100, where A0 was the control absorbance and A1 the absorbance in the presence of extract or standard (ascorbic acid) at 230 nm.
+
+The extract's reducing power, at the concentrations 50–1000 µg/ml,was determined using a ferric reducing antioxidant power (FRAP) assay and was presented as μM Fe2+/ml extract.19
+Preparation of erythrocytes
+
+Blood samples were collected in heparinized tubes from 10 healthy volunteers (approved bioethical protocol: 0049.0.243.000–08) and used in individual experiments. Samples were centrifuged (10 minutes, 3500 rpm), and plasma and buffy coat were removed. Then, packed cells were washed three times with 0.9% NaCl and suspended in phosphate-buffered saline (PBS) with a pH of 7.4, an isoosmotic buffer.
+Erythrocyte δ-ALA-D activity evaluation
+
+Erythrocyte samples at 25% hematocrit (in PBS) were pre-incubated for 2 hours at 37°C in the presence or absence of S. guaraniticum or S. jambos leaf extracts at different concentrations (50–1000 µg/ml in PBS). Enzyme reaction was initiated by adding the substrate (δ-ALA), and the incubation was carried out. The porphobilinogen, which is formed during the incubation period (1 hour, 37°C), was mixed with modified Ehrlich's reagent, and the color developed was measured spectrophotometrically (555 nm) against a blank. Results were expressed as nmol porphobilinogen (PBG)/mg protein/hour.20
+
+To investigate the possible involvement of sulfhydryl groups or zinc ions in the effect of extract on ALA-D activity, the protective effect of a thiol-reducing agent (dithiothreitol, DTT) or zinc chloride (ZnCl2) was examined. A set of tubes was assayed using a similar incubation medium, except that DTT (2 mM) or ZnCl2 (1 mM) was added when the reaction was started by the addition of substrate (δ-ALA). These effects were measured as the reactivation index (R% DTT and R% Zn) by the formula: A − B/A*100, where A = absorbance of assay with DTT/ZnCl2 and B = absorbance of assay without DTT/ZnCl2.
+H2O2-induced oxidative stress
+
+Erythrocyte suspensions (10% in PBS) were pre-incubated with 2 mM sodium azide for 60 minutes at 37°C to inhibit catalase. Extracts of S. guaraniticum or S. jambos (final concentration 100, 250, 500, and 1000 µg/ml, diluted in PBS) were added at 30 minutes of the pre-incubation period with sodium azide. Subsequently, 20 mM H2O2 were added to the cell suspension and incubated for a further 2 hour at 37°C. At the end of the incubation time, the lipid peroxidation of erythrocyte membranes was measured by TBARS levels21 as well as by the levels of non-protein sulfhydryl groups (NP-SH)22 and protein content.23
+
+The highest concentration of each extract (1000 µg/ml) also was tested alone, without H2O2, to verify its per se effect on SH groups and lipid peroxidation. In case of a positive response, other concentrations (50–1000 µg/ml) were also tested.
+Oxidative hemolysis inhibition assays
+
+Based on the most effective doses on induced oxidative stress tests mentioned above, the protective effect of extracts was also tested against AAPH-induced hemolysis. The thermal decomposition of AAPH generates aqueous peroxyl radicals, which induce free-radical chain oxidation in erythrocytes. Thus, an erythrocyte suspension at 10% hematocrit was pre-incubated with extracts of S. jambos (final concentration 100 and 250 µg/ml, diluted in PBS) and S. guaraniticum (final concentration 500 and 1000 µg/ml, diluted in PBS) at 37°C for 30 minutes, followed by incubation with 50 mM AAPH for 2 hours. A negative control (erythrocytes in PBS) was used. At the end of the incubation time, the percentage of hemolysis was determined on the supernatant at 540 nm and calculated in relation to 100% hemolysis caused by adding deionised water to the erythrocyte suspension.24
+
+To measure osmotic fragility, aliquots (20 µl) of packet erythrocyte were added to buffered saline solutions of decreasing concentrations (0–150 mM), were allowed to stand for 30 minutes, and then were centrifuged. The amount of lysis was determined and expressed as percentage of hemolysis of each saline solution (NaCl mM).25,26 Furthermore, the corresponding NaCl concentration that caused 50% hemolysis of erythrocytes was considered the Mean Corpuscular Fragility Index, which is determined by plotting the percentage of lysis versus NaCl concentrations.27
+Statistical analysis
+
+The analyses were performed using Graph Pad Prism for Windows, version 5.03 (Graph Pad Software, San Diego, CA, USA). Because data had normal distribution, according to the Kolmogorov–Smirnov test, all data were analyzed using one-way analysis of variance, followed by Tukey's Multiple Comparison post hoc test, and were presented as mean ± standard error of mean. A value of P < 0.05 was considered statistically significant for all analyses.
+Results
+HPLC characterization of the extracts
+
+HPLC analyses of S. jambos and S. guaraniticum leaf extract revealed the presence of the gallic acid (tR = 15.6 minutes), chlorogenic acid (tR = 23.39 minutes), rutin (tR = 36.64 minutes), quercetin (tR = 47.88 minutes), and kaempferol (tR = 58.60 minutes). Considering the chromatographic conditions used, caffeic acid (tR = 25.02 minutes) only was detected on S. jambos.
+
+shows the quantity of each compound on extracts.
+
+Table 1. Quantification of phenolic compounds founded by HPLC analyses of extracts studied
+Download CSVDisplay Table
+Chelating activity, scavenging activity, and FRAP assay
+
+Antioxidant activities of the extracts studied and ascorbic acid, used as positive control, as a function of their concentrations, were verified (see Fig. 1). The statistical analyses showed that both extracts showed a similar ferrous chelating activity (at 100 µg/ml, S. jambos = 58.29 ± 1.40% and S. guaraniticum = 62.62 ± 0.19%). However, S. jambos extract exhibited greater H2O2 scavenging activity (at 100 µg/ml, S. jambos = 79.00 ± 0.1% and S. guaraniticum = 59.00 ± 4.00%) and stronger reduction power (as FRAP assay) than S. guaraniticum (at 1000 µg/ml, S. jambos = 5.69 ± 0.18 µM Fe2+/ml and S. guaraniticum = 1.94 ± 0.05 µM Fe2+/ml). Ascorbic acid presented lower chelating and H2O2 scavenging activities and higher reducing power than both extracts.
+
+Figure 1. (A) Iron chelating effect, (B) H2O2 scavenging activity, and (C) Ferric reducing antioxidant power of leaf extracts of Syzygium jambos and Solanum guaraniticum and ascorbic acid as a function of their concentrations. Each value is expressed as mean ± standard error of mean, n = 3. Different letters are significantly different at P < 0.05. Data were analyzed by analysis of variance followed by Tukey's multiple comparison post hoc test.
+Display full size
+Inhibition of erythrocyte δ-ALA-D activity by extracts
+
+All concentrations tested of S. guaraniticum leaf extract (50–1000 µg/ml) were capable of inhibiting erythrocyte δ-ALA-D activity (P < 0.05). In relation to S. jambos extract, the highest concentrations tested (250, 500, and 1000 µg/ml) also caused an inhibition on δ-ALA-D activity (see Fig. 2).
+
+Figure 2. Effect of leaf extracts of Syzygium jambos and Solanum guaraniticum on erythrocyte δ-ALA-D activity. ***P < 0.001, **P < 0.01, *P < 0.05 different from control erythrocytes (0 µg/ml extracts). Data were analyzed by analysis of variance followed by Tukey's multiple comparison post hoc test (n = 10).
+Display full size
+
+As can be seen on
+
+, no concentrations of leaf extract of S. guaraniticum or S. jambos presented DTT reactivation index (R% DTT) different from controls. Furthermore, all concentrations tested from both extracts showed increased reactivation index when ZnCl2 was added (R% Zn) compared with controls.
+
+Table 2. Effect of DTT or Zn on δ-ALA-D inhibition caused by Syzygium jambos and Solanum guaraniticum extracts
+Download CSVDisplay Table
+Protective effects of S. jambos and S. guaraniticum leaf extracts against H2O2-induced oxidative stress
+
+When erythrocyte samples were exposed to 1000 µg/ml of S. guaraniticum or S. jambos extracts, we did not observe any increase in TBARS level, suggesting that the extracts were not able to induce lipid peroxidation by themselves (data not shown). However, in the presence of H2O2, S. guaraniticum extract was able to protect cells from H2O2-induced lipid peroxidation at concentration of 1000 µg/ml, whereas S. jambos extract was effective at all concentrations tested (100–1000 µg/ml) (see Fig. 3A).
+
+Figure 3. Effect of Solanum guaraniticum and Syzygium jambos extract on H2O2 induced TBARS level (A) and on NP-SH content of H2O2 induced (B) or non-induced (C) erythrocytes. ###P < 0.001, ##P < 0.01, #P < 0.05 different from control erythrocytes (incubated with PBS only). ***P < 0.001 different from 20 mM H2O2-exposure erythrocytes (0 µg/ml extracts). Data were analyzed by analysis of variance followed by Tukey's multiple comparison post hoc test (n = 10).
+Display full size
+
+In relation to erythrocytes of the NP-SH, none of the extracts was able to prevent the reduction caused by H2O2 exposure. Meanwhile, unexpectedly, the highest concentration of S. jambos extract was capable of reducing the level of NP-SH by itself (data not shown). After investigating this action, we noted that the other concentrations of this extract tested (50–1000 µg/ml) also presented this effect. In contrast, the NP-SH levels of erythrocytes were not affected by any concentration of S. guaraniticum extract alone (see Fig. 3C).
+Anti-hemolytic effect
+
+When the suspensions of erythrocytes were incubated with 50 mM AAPH, 86.00 ± 4.55% of erythrocytes were hemolysed. The percentage of hemolysis decreased when the suspensions were treated with extracts, whereas S. jambos leaf extract was more effective than S. guaraniticum. At 100 and 250 µg/ml, S. jambos extract reduced 96.34 and 91.66% of AAPH-induced hemolysis, respectively, whereas S. guaraniticum extract promoted 82.75 and 72.19% of hemolysis reduction at 500 and 1000 µg/ml, respectively. There was no significant difference between different concentrations of the same extract (see Fig. 4) and, when the cells were incubated with each extract alone, the hemolysis was maintained at a similar level to the control samples (data not shown).
+
+Figure 4. Protective effect of leaf extracts of Syzygium jambos and Solanum guaraniticum on AAPH-induced hemolysis. ***P < 0.001, different from control erythrocytes (incubated with PBS only); ###P < 0.001, different from AAPH-exposured erythrocytes (incubated with 50 mM AAPH); (A), different from S. jambos 100 µg/ml (P < 0.05); (B), different from S. jambos 250 µg/ml (P < 0.05). Data were analyzed by analysis of variance followed by Tukey's multiple comparison post hoc test (n = 10).
+Display full size
+
+Furthermore, Fig. 5 shows the osmotic fragility profiles of erythrocytes treated with AAPH or AAPH plus extracts. It can be seen clearly that AAPH shifts the osmotic fragility curve, decreasing membrane osmotic resistance against hypotonic pressure, and the pre-incubation of erythrocytes with extracts prevents this effect. The Mean Corpuscular Fragility Index of AAPH-treated cells (132 mM NaCl) was moderately diminished by the exposure of erythrocytes to S. guaraniticum extract (500 µg/ml = 84 mM and 1000 µg/ml = 107 mM NaCl) and, more markedly, by the S. jambos extract (100 µg/ml = 66 mM and 250 µg/ml = 68 mM NaCl).
+
+Figure 5. Alteration of osmotic fragility in erythrocytes treated with AAPH or AAPH plus extracts. Values are mean ± standard error of mean, n = 10. Mean values at 150 mM with different letters are significantly different at P < 0.05. Data were analyzed by analysis of variance followed by Tukey's multiple comparison post hoc test.
+Display full size
+Discussion
+
+In this report, the inhibitory effect of both extracts studied on δ-ALA-D activity can be an indicative of their possible harmful properties. The inhibition of δ-ALA-D activity has been used to evaluate toxic effects of synthetic compounds28,29 and that might be applied to natural compounds. In particular, S. guaraniticum extract presented this effect even at the lower concentrations tested. Brain δ-ALA-D inhibition activity by this same extract already was demonstrated by our workgroup, in vitro30 and this specie, under the name S. fastigiatum, already was related to hepatotoxicity and cattle intoxications.31 It is well known that some alkaloids commonly found in Solanaceae may have toxic effects32 and, considering that this class of pytochemicals already was founded in the specie S. guaraniticum33 and already was related to the inhibition of erythrocyte enzymes metabolism,34 it might had affected the δ-ALA-D enzymatic activity. In contrast, it was already demonstrated that catechins caused δ-ALA-D inhibition35 suggesting that the phenolic content of the both extracts also might have contributed to enzyme inhibition. The oxidation of essential sulfhydryl groups of the active site of the enzyme does not appear to be involved, because DTT was ineffective in counteracting δ-ALA-D inhibition caused by the extracts. Meanwhile, the differences found in R% Zn among erythrocytes exposed to extracts and control erythrocytes may suggest a possible involvement of the zinc ion of the δ-ALA-D structure in the inhibition of the enzyme activity. Furthermore, both extracts presented considerable iron chelating activity, and considering that this effect can be applied to other metallic ions, a zinc chelating activity of S. guaraniticum and S. jambos extracts may also be involved in δ-ALA-D inhibition.
+
+We have also demonstrated that the extracts studied can protect membrane integrity, providing complementary evidence of their antioxidant potency. The extracts improved the fragility of erythrocyte exposure to AAPH and stabilized erythrocyte membrane structures. The high content of phenolic compounds of these vegetal preparations was already described in a previous study with the same extracts of our workgroup30 and might be responsible for this property. Other studies have shown a protective interaction of flavonoids with lipid bilayers increasing membrane fluidity.36 Moreover, besides a probable interaction with erythrocyte membranes, the capacity of the extracts to prevent access of free radicals to the bilayer by trapping radicals should also be considered.
+
+Additionally, this property of S. jambos extract could be related to its beneficial effects on traditional use because diabetes patients with hyperglycemia can disturb the hemorheology, and erythrocyte deformability is an important factor in the cause of organ damage in diabetes.37 Similarly, the folk use of S. guaraniticum leaves to treat anemia may be associated with its anti-hemolytic and membrane stabilizing effect, as disease processes or oxidative stress may act by destabilizing the lipid bilayer of the erythrocyte and by decreasing its deformability in ways that accelerate the removal of red cells from the circulation, shortening their life span and contributing to anemia.38
+
+In addition, the antioxidant activity of S. guaraniticum and S. jambos extracts and their possible mechanisms of action were also investigated. The H2O2 scavenging activity and iron chelating capacity were mechanisms by which extracts can exert their antioxidant effects.39,40 The results of the FRAP assay reveal that polyphenolic compounds of S. jambos and S. guaraniticum extracts may act as electron donors that are capable of neutralizing free radicals by converting them to more stable products and terminating the free radical chain reaction.41
+
+The inhibitory effect of both extracts on erythrocyte H2O2-induced lipid peroxidation was demonstrated. The scavenging capacity of S. jambos extract and its ability to inhibit lipid peroxidation processes may be related to its bioactive properties involved in its traditional use to the treatment of diabetes, since it is well known that diabetic patients have an enhanced level of oxidative damage.14 Likewise, H2O2 is also involved in inflammation and gastric mucosal damage,41 thus, the H2O2 scavenging ability of S. guaraniticum leaf extract may also be related to its indication to treat liver and gastric dysfunctions.
+
+The chemical characterization of S. guaraniticum and S. jambos extracts identified some important phenolic compounds which might be related to the biological properties demonstrated in this study. Previous literature demonstrates that the flavonoid quercetin prevents the oxidative damage induced in the erythrocyte and this protection is due to intracellular chelation of iron.42 Gallic and clorogenic acid, rutin, and quercetin already demonstrated radical scavenger capacities.43,44 In this vein, the greater antioxidant capacity of the S. jambos extract might be related to its higher total phenolic content (108.2 ± 3.44 mg of gallic acid equivalents per gram of extract against 58.76 ± 1.72 mg of gallic acid equivalents per gram of S. guaraniticum extract) founded on previous study of our workgroup.30
+
+Interestingly, all concentrations of the S. jambos extract promoted a decrease in the NP-SH levels of extract-treated erythrocytes. Previous studies have been suggested that phenoxyl radicals, which are oxidation products of dietary polyphenols, are capable of presenting prooxidant in vitro activity,45 but are unlikely to cause problems in vivo due to the concentration range of bioactive compounds found in their diet. We cannot rule out that the prooxidant effects of S. jambos extract may also have affected δ-ALA-D activity due to the sulfhydryl nature of the enzyme and may have modified the enzyme conformation in such a way that DTT could not restore the enzymatic activity.
+
+Another point that needs to be highlighted is the fact that the effective doses of S. jambos extract (in relation to its antioxidant activities, anti-lipid peroxidation, anti-hemolytic, and membrane stabilizing effect) are lower than those that promote δ-ALA-D inhibition, consistently with the absence of reports about toxic reactions involving this specie. However, data presented on this study warn on the need to investigate the safe daily or chronic doses prior to its suggestion as a phytotherapic.
+Conclusions
+
+In summary, one of the most important and novel findings of this study is the effect of the extracts studied on the δ-ALA-D activity, especially the fact that the extract of S. guaraniticum was a more potent inhibitor of δ-ALA-D activity than S. jambos, indicating a possible harmful effect at the concentrations tested and suggesting further exploration regarding their toxicological properties. Furthermore, the results obtained in this study indicated that both extracts bear potent antioxidant property as an important beneficial effect and represent a significant contribution to the knowledge of these plants, both to the scientific community and to the folk medicine.
+

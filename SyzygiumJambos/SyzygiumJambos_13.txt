@@ -1,0 +1,365 @@
+ANTIMICROBIAL ACTIVITY OF SYZYGIUM JAMBOS AGAINST SELECTED HUMAN PATHOGENS
+
+ABSTRACT
+The aim of this study is to evaluate the antimicrobial efficacy of Syzygium jambos (L) Alston (Myrtaceae) against eight different microorganisms
+such as Staphylococcus aureus, Bacillus subtilis, Escherichia coli, Klebsiella pneumoniae, Proteus vulgaris, Pseudomonas aeruginosa, Salmonella typhi
+and Vibrio cholera. S. jambos is a widespread medicinal plant traditionally used in India to treat infectious diseases. Aqueous and acetone extracts of
+bark, leaves and seeds of S. jambos were tested for antimicrobial activity in vitro by the agar well diffusion method in petri dishes. Both extracts
+showed some activity against the tested microorganisms. Among the three different parts, aqueous extracts of bark have exhibited a minimum
+inhibitory effect against S. aureus, E. coli and S. typhi, whereas seeds inhibited the growth of P. aeruginosa and V. cholerae, and leaves exhibited
+inhibitory effect only against S. typhi. Among the acetone extracts, bark was found to be effective against all the test microorganisms, leaves
+inhibited only S. aureus, whereas seed extracts failed to exhibit any inhibitory effect against the test organisms. These properties seem to be related
+to the high tannin content of S. jambos in bark (2.5 mg/ml) than seeds (1.9 mg/ml) and leaves (1.4 mg/ml). Overall the acetone extract of bark was
+found to be more effective. The results of the extracts were compared with the standard antibiotics ampicillin, streptomycin and tetracycline.
+Keywords: Syzygium jambos, Staphylococcus aureus, Bacillus subtilis, Antibiotics, Ampicillin, Streptomycin
+INTRODUCTION
+Infectious diseases account for high proportion of health problems
+in the developing countries like India. Microorganism has developed
+resistance to many antibiotics and this has created immense clinical
+problem in the treatment of infectious diseases. The resistance of
+the organism increased due to the indiscriminate use of commercial
+antimicrobial drugs commonly used for the treatment of infectious
+diseases. This situation forced the scientist to search for new
+antimicrobial substances from various sources including medicinal
+plants 1. Many of the plants used today were known to the people of
+ancient culture throughout the world for their preservative and
+medicinal powers 2 . However several plants are used in India in the
+form of crude extracts, infusions or plaster to treat common
+infections without scientific evidence of efficacy 3 .
+Natural products of plant origin have played significant role in the
+search of therapeutic drugs such as quinine from cinchone 4. Search
+for new antimicrobials is very important in recent time considering
+the escalating levels of antibiotic resistance among pathogenic
+bacteria 5, 6. Many more herbal ingredients are present over the
+counter drugs such as laxatives. Medicines that come from plants
+include aspirin from willow bark. Tannin content present in some
+plants has the ability to act against the microorganisms such as
+S. aureus, Salmonella species, E. coli, Pseudomonas species and so on.
+Tannin is a general descriptive name for a group of polymeric
+phenolic substances capable of tanning leather, or precipitating
+gelatin from solution, a property known as astringency. According to
+Scalbert, tannin can be toxic to filamentous fungi, yeast and bacteria.
+Condensed tannins have been determined to bind cell walls of
+ruminal bacteria 7 .
+Syzygium jambos (L) Alston (Eugenia jambos) is widespread in sub‐
+Saharan Africa (Benin, Democratic Republic of Congo and
+Cameroon) where its bark is traditionally used to treat infectious
+diseases 8, 9. It is also distributed in Reunion Island, Central America
+(Guatemala) and Asia (Malaysia, Nepal) where fruits are eaten 10.
+Besides studies on the fruit volatiles and sugars 11, the only part of
+the plant chemico‐pharmacologically studied was the leaves.
+Aqueous, methanol, and ethyl acetate extracts of S. jambos leaves
+from Guatemala have been shown to posses anti‐inflammatory
+activity in adjuvant carrageenan induced inflammation model in rats
+12. S. jambos may be merely a shrub but is generally a tree reaching
+7.5‐12 m in height and has a dense crown of slender, wide spreading
+branches. In India, the fruit is regarded as a tonic for the brain and
+liver. An infusion of the fruit acts as a diuretic and sweetened
+preparation of the flowers is believed to reduce fever. The seeds are
+employed against diarrhea, dysentery and catarrh. In Nicaragua, it
+has been claimed that an infusion of roasted, powdered seeds is
+beneficial to diabetics 13.
+In spite of the use of bark of this plant to treat infectious diseases, no
+investigation was made on comparison of tannin content of the bark,
+leaves and seeds and their antibacterial properties. Thus we decided
+to investigate the antimicrobial properties of aqueous and acetone
+extracts of bark, leaves and seeds of S. jambos. Hence the present
+study was undertaken in the Post Graduate and Research
+Department of Microbiology, Dr.N.G.P Arts and Science College,
+Coimbatore, Tamil Nadu, India to evaluate the efficacy of
+antimicrobial activity of barks, leaves and seeds of S. jambos. The
+efficacy was compared with the standard antibiotics and the results
+were discussed.
+MATERIALS AND METHODS
+Plant materials
+Plant parts such as barks, leaves and seeds of S. jambos were
+collected from Kannur (Panoor), Kerala, India. Plant materials were
+dried under the shadow. The dried materials were fine powdered
+and stored in polythene bags at room temperature (30±2ºC) until
+use.
+Chemicals
+All chemicals used were of analytical grade and purchased from
+typical chemical companies.
+Extract preparations
+Aqueous extract
+To obtain the aqueous extracts, dried and finely powdered bark,
+leaves and seeds of S. jambos were weighed about 30 grams each
+and homogenized using 150ml of water. They were added to Soxhlet
+apparatus and the boiling point of water was set up at 100ºC. The
+water evaporates continuously and was recycled, thereby extracting
+the compounds present in the samples. They were continuously
+extracted until the solution looses the colour.
+Acetone extract
+To obtain the solvent extracts, dried and finely powdered bark,
+leaves and seeds of S. jambos were weighed about 30 grams each
+and homogenized using 150ml of 70% acetone. They were added to
+International Journal of Pharmacy and Pharmaceutical Sciences
+ISSN- 0975-1491 Vol 3, Issue 2, 2011
+Chavhan et al.
+Int J Pharm Pharm Sci, Vol 3, Issue 2, 2011, 44 47
+45
+Soxhlet apparatus and the boiling point of acetone was set up at
+56.6ºC. The solvent was recycled, thereby extracting the compounds
+present in the samples. They were continuously extracted until the
+solvent looses its colour. The extract was then transferred to a
+sterile petridish and kept for evaporation of acetone at room
+temperature. Residues of extracts were collected and stored in the
+refrigerator.
+Microorganisms used and their growth conditions
+The test organisms included the bacteria Staphylococcus aureus,
+Bacillus subtilis, Escherichia coli, Klebsiella pneumoniae, Proteus
+vulgaris, Pseudomonas aeruginosa, Salmonella typhi and Vibrio
+cholerae were obtained from Microbiology divisions of Kovai
+Medical Center and Hospital (KMCH), a 500 bed multi‐speciality
+hospital, Coimbatore, Tamil Nadu, India. The bacteria were grown in
+nutrient broth at 37°C and maintained on nutrient agar slants at 4°C.
+Antibacterial activity of plant extracts: Well diffusion method
+Antibacterial activity of the aqueous and acetone extracts of barks,
+leaves and seeds of S. jambos were tested using well diffusion
+method. A loop full of culture was inoculated into peptone broth and
+incubated for 2 to 6 hours at 35°C until it achieved the turbidity of
+0.5 McFarland’s standard. The test cultures were swabbed on
+nutrient agar plates, within 15 minutes after adjusting the turbidity
+of the inoculum suspension. The swab was rotated several times and
+pressed firmly on the inside wall of the tube above the fluid level.
+This removed the excess inoculum from the swab. The dried surface
+of a nutrient agar plate was inoculated by streaking the swab and
+the entire sterile agar surface. This procedure was repeated by
+streaking two more times, rotating the plate approximately 60° each
+time to ensure an even distribution of inoculum. As a final step, the
+rim of the agar was swabbed and wells were made using the sterile
+well puncture. Different concentrations (60μg to 100μg) of the
+sterile aqueous and acetone extracts were added to each well. The
+plates were incubated in an upright position at 37°C for 24 hours.
+The diameter of inhibition zones were measured in mm and the
+results are recorded.
+RESULTS AND DISCUSSION
+In traditional medicine, people usually use aqueous decoctions to
+treat patients. That is why we first prepared the extract from an
+aqueous decoction. Preliminary phytochemical analysis of these
+extract by calorimetric reaction showed that tannins were the major
+compounds. Because of the presence of tannins, an extract was
+prepared with acetone 70%, a better solvent for tannin 14. These
+extracts were tested on a panel of Gram positive and negative
+bacteria. The antibacterial activity of aqueous and acetone extracts
+of different parts (bark, leaves and seeds) of S. jambos are presented
+in table 1 and 2. Similarly, the zones of inhibition exhibited by
+standard antibiotics (ampicillin, streptomycin and tetracycline)
+were depicted in table 3.
+When the aqueous extracts of bark, leaf and seed were tested against
+the test microorganisms, bark extracts have exhibited greater
+inhibitory effect against S. aureus, and E. coli than the leaves and
+seeds, showing an inhibitory zone of 15mm. However, the aqueous
+extracts of bark, leaf and seed did not show any antibacterial activity
+against B. subtilis, K. pneumoniae and P. vulgaris. In the case of P.
+aeruginosa, seed extracts possessed anti‐bacterial activity but barks
+and leaves did not show any activity. Both the bark and leaf extracts
+exhibited inhibitory effect against S. typhi, but no activity was
+observed in seed extracts. The aqueous seed extracts showed a
+stronger activity (17mm) against V. cholerae. When compared to the
+standard antibiotics such as streptomycin and tetracycline, seed
+extract had greater effect. Thus the aqueous extracts of bark, leaf
+and seed showed a varying degree of effectiveness against the tested
+microorganisms.
+The acetone extracts of bark, leaf and seed of S. jambos, when tested
+have exhibited different degrees of antibacterial activity against test
+microorganisms. Among them, barks of S. jambos were found to be
+effective against all test microorganisms with inhibition zones
+ranging from 9 to 17 mm. When these results were compared with
+standard antibiotics, it was found that acetone extract is more
+effective than the streptomycin, ampicillin and tetracycline against S.
+aureus. When the acetone extract of leaves tested against S. aureus, 9
+mm zone of inhibition was observed, but no zone of inhibition was
+observed in seed extracts.
+It is also clear from the table‐ 2, that the bark extracts of S. jambos
+has exhibited antibacterial activity against E. coli showing 17 mm
+zone of inhibition. This extract is more effective when compared to
+standard antibiotics ampicillin and tetracycline and have equal effect
+to streptomycin. In the case of B. subtilis, the acetone bark extract
+have exhibited a zone inhibition of 16 mm were same when
+compared to the standard antibiotics and the extracts were found to
+be more effective. Similarly, the acetone bark extracts were highly
+effective against K. pneumoniae, when compared to standard
+antibiotics.
+When P. vulgaris tested against the standard antibiotics, no zone of
+inhibition was observed for tetracycline, 20 and 9 mm for ampicillin
+and streptomycin respectively, but the extract showed 12 mm zone
+of inhibition which was found to be more active than streptomycin.
+P. aeruginosa when tested against standard antibiotics, no zone of
+inhibition was observed for ampicillin and tetracycline and 10 mm
+for streptomycin, whereas the bark extract showed a zone inhibition
+of 15 mm, which is more active than streptomycin.
+When the acetone extracts of bark, leaf and seed of S. jambos tested
+against S. typhi, bark extracts were more effective when compared to
+leaves and seeds. 12 mm zone of inhibition was noticed for acetone
+bark extract, where as the leaves and seeds showed no inhibitory
+effect. When compared with the standard antibiotics, the bark
+extract is less active than the standard antibiotics. The acetone
+extract of bark exhibited a zone of inhibition of 15 mm against V.
+cholerae, which is more effective when compared to the standard
+antibiotic streptomycin.
+The acetone extracts of leaves and seeds tested against E. coli, B.
+subtilis, K. pneumoniae, P. vulgaris, P. aeruginosa and S. typhi, showed
+no significant zone of inhibition. It is clearly evident that the bark
+extract had exhibited stronger antibacterial activity than seed and
+leaf extracts. This may be due to the higher tannin content (2.5
+mg/ml) present in bark than seeds (1.9 mg/ml) and leaves (1.4
+mg/ml). The bark of Syzygium guinease with which, it is often
+confused to treat pernicious attack, amenorrhea, abdominal pain
+and diarrhea 8, 9.
+The acetone extracts of leaves failed to show any activity against the
+tested microorganisms, but the aqueous extract of leaves showed
+antibacterial activity only against S. typhi. An infusion of S. jambos
+leaves has been tested for anti‐diabetic activity by glucose tolerance
+test in a randomized, parallel, double blind clinical trial in non‐
+diabetic subjects, but no significant effect was detected 15.
+Ethanol extracts of S. jambos leaves possessed antiviral activity on
+Herpes Simplex type I and inhibited the replication of vesicular
+stomatitis virus but had no effect on polio virus replication 16 . But in
+the present study, leaves showed an antibacterial activity only
+against S. aureus and S. typhi. Similarly seeds exhibited antibacterial
+activity only against P. aeruginosa and V. cholerae.
+The test organisms S. aureus and P. aeruginosa, included in the study
+were isolated from diabetic foot ulcer patients and they were
+strongly inhibited by barks of S. jambos. So bark extracts/powders
+can be used to treat diabetes patients with foot ulcers to prevent
+amputation. The other organisms included in the study were
+isolated from clinical specimens and this clearly indicates that the
+bark, leaves and seeds could be attributed to the treatment of
+diseases caused by the test microorganisms.
+On comparing the aqueous and acetone extracts of bark, seed and
+leaf of S. jambos, it is confirmed that the acetone extracts are more
+active than the aqueous. Djipa et al. also reported that small
+differences are observed with some strains where the acetone
+extract is often more active than the aqueous one 13. The results of
+the present study are in accordance with earlier findings.
+This limelight’s that the organic solvent acetone has the ability to
+extract the active phytochemicals present in the plant parts. Among
+Chavhan et al.
+Int J Pharm Pharm Sci, Vol 3, Issue 2, 2011, 44 47
+46
+the different parts studied, the effectiveness of these parts are in the
+ranking order; highest by bark, followed by seeds and leaves which
+are intermediate in their action because they could show inhibitory
+action only against few microorganisms like S. typhi and V. cholerae,
+where as the bark exhibited inhibitory effect against all the tested
+microorganisms.
+Tannins are well known to possess general antimicrobial
+properties 6 . Tannins are quite resistant to microbial attack and
+are known to inhibit the growth of some microorganisms. It is
+this antimicrobial effect of tannins that slow down the rate of
+biodegradation of soil organic matter. However, Deschamps et al.
+have found a number of bacteria, fungi and yeast that are
+resistant to tannin 17 .
+The study indicates that even though both extracts do not possess
+the same antibacterial spectrum, the observed activities seem to be
+generally related to the total tannin content. This also shows that
+strains do not seem to have the same sensitivity to the tannins
+present in the bark, leaf and seed extracts and that the antibacterial
+properties of S. jambos extracts can probably be explained by the
+presence of high concentration of antimicrobial tannins. It is evident
+from the present study that the extracts of S. jambos were active
+against the test microorganisms. Further more phytochemical
+studies are required to determine the type of compounds
+responsible for the antimicrobial effect of the plant and toxicity tests
+can be carried out before the drug development process using barks
+of S. jambos. In addition, the results support the use of this plant in
+traditional medicine for the treatment of infections.
+Table 1: Therapeutic use of the medicinal plant Syzygium jambos
+Scientific name Local name Family Parts used Infection / Therapeutic use
+Syzygium jambos Rose apple Myrtaceae Bark Epilepsy, asthma, bronchitis, hoarseness
+Leaves Sore eyes, diuretic rheumatism, powdered leaves rubbed on bodies of
+small pox patients
+Seed Diarrhea, dysentery, catarrh, anesthetic property, diabetic
+Table 2: Antimicrobial activity of aqueous extracts of S. jambos
+Microorganisms Zone of inhibition (mm)
+Bark (μg/ml) Leaf (μg/ml) Seed (μg/ml)
+60 70 80 90 100 60 70 80 90 100 60 70 80 90 100
+S. aureus 7 7 8 9 9 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+B. subtilis ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+E. coli 6 6 9 9 11 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+K. pneumoniae ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+P. vulgaris ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+P. aeruginosa ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 9 9 11 11 11
+S. typhi 8 8 8 9 11 7 7 9 10 10 ‐ ‐ ‐ ‐ ‐
+V. cholera ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 14 14 14 17 17
+‘‐‘– No significant zone of inhibition
+Table 3: Antimicrobial activity of acetone extracts of S. jambos
+Microorganisms
+Zone of inhibition (mm)
+Bark (μg/ml) Leaf (μg/ml) Seed (μg/ml)
+60 70 80 90 100 60 70 80 90 100 60 70 80 90 100
+S. aureus 12 12 12 13 13 7 7 9 9 9 ‐ ‐ ‐ ‐ ‐
+B. subtilis 12 14 15 16 16 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+E. coli 14 14 16 17 17 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+K. pneumoniae 12 13 13 14 15 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+P. vulgaris 9 9 11 11 12 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+P. aeruginosa 12 12 13 14 15 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+S. typhi 9 9 11 12 12 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+V. cholera 12 13 14 14 15 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+‘‐‘– No significant zone of inhibition
+Table 4: Antimicrobial activity of standard antibiotics
+Microorganisms Antibiotics / Zone of inhibition (mm)
+Streptomycin Ampicillin Tetracycline
+S. aureus 10 8 12
+B. subtilis 13 10 13
+E. coli 17 10 15
+K. pneumoniae 10 12 13
+P. vulgaris 9 20 ‐
+P. aeruginosa 10 ‐ ‐
+S. typhi 13 13 17
+V. cholera 10 20 16
+‘‐’ ‐ No significant zone of inhibition
+REFERENCES
+1. Sashikumar JM, Remya M and Janardhanan K, Antimicrobial
+activity of ethanol medicinal plants of Nilgiri Bioshpere reserve
+and Western Ghats. Asian J Microbial Biotechnol 2003; 5:183‐
+185.
+2. Zaika LI, Spices and Herbs, their antimicrobial activity and its
+determination. J Food Safety 1975; 9:97‐118.
+3. Ahmad I, Mehmood Z and Mohammad F, Screening of some
+Indian medicinal plants for their antimicrobial properties. J
+Ethanopharmacol 1998; 62:183‐193.
+Chavhan et al.
+Int J Pharm Pharm Sci, Vol 3, Issue 2, 2011, 44 47
+47
+4. Hora SL, and Nair KK, Pollution of streams and conservation of
+fisheries. Proc Natt Inst Sci India 1944; 10: 147‐166.
+5. Hatha AAM, and Lakshmanaperumalsamy P, Antibiotic
+resistance of Salmonella strains from marketed fish and
+crustaceans. Lett Appl Microbiol 1995; 24: 47‐49.
+6. Srinivasan D, Sangeetha N, Suresh T and
+Lakshmanaperumalsamy P, Antimicrobial activity of certain
+Indian Medicinal Plants used in folkloric medicine. J
+Ethanopharamacol 2001; 74: 217‐220.
+7. Scalbert A, Antimicrobial properties of tannins.
+Phytochemistry, 1991;30(12): 3875‐3883.
+8. Adjanohoun EJ, Contribution aux e ́tudes ethnobotaniques et
+floristiques en Re ́publique Populaire du Congo. Me ́de ́cine
+traditionnelle et pharmacope ́e. Agence de coope ́ration
+culturelle et technique. France 1988.
+9. Adjanohoun EJ, Contribution aux e ́tudes ethnobotaniques et
+floristiques en Re ́publique Populaire du Be ́nin. Me ́de ́cine
+traditionnelle et pharmacope ́e. Agence de. France 1989.
+10. Maskey K, and Shah BB, Sugars in some Nepalese edible wild
+fruits. J Nepal Chemical Society 1982; 2:23–30.
+11. Wong KC, and Lai FY, Volatile constituents from the fruits of
+four Syzygium species grown in Malaysia. Flavour and
+Fragrance 1996; 11 (1): 61–66.
+12. Slowing K, Carretero E and Villar A, Anti inflammatory activity
+of leaf extracts of Eugenia jambos on rats. J Ethanopharmacol
+1994; 43:9‐11.
+13. Djipa CD, Delmee M and Quetin‐Leclercq J, Antimicrobial
+activity of bark extracts of Syzygium jambos (L) Alston
+(Myrtaceae). J Ethanopharmacol 2000; l71: 307‐313.
+14. Bruneton J, Pharmacognosie Phytochimie Plantes me ́dicinales.
+Editions Lavoisier, Paris, pp. 323–325.coope ́ration culturelle
+et technique. France 1993.
+15. Teixeira CC, Fuchs FD and Blotta RM, Effect of tea prepared
+from leaves of Syzygium jambos on glucose tolerance in non‐
+diabetic subjects. Diabetes Care 1990; 13(8): 907‐908.
+16. Abad MJ, Bermejo P and Villar A, Antiviral activity of medicinal
+plant extracts. Phytotherapy Research 1997; 11:198‐202.
+17. Deschamps AM, Otuk G and Lebeault JM, Production of Tannase
+and degradation of chestnut tannins by bacteria. J Ferment
+Technol 1983; 61: 55 – 59.

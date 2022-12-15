@@ -1,0 +1,297 @@
+Phenolic compounds from Syzygium jambos (Myrtaceae) exhibit distinct antioxidant and hepatoprotective activities in vivo
+
+1. Introduction
+Liver plays a central role in filtering and clearing blood received
+from digestive tract prior to pass it to other body tissues and organs.
+Moreover, it is involved in detoxifying the body from xenobiotics,
+toxins, and in mediating drug transformations and metabolism.
+However, despite its physiological role, the liver is highly susceptible to
+damage from different toxins, viruses and reactive oxygen and nitrogen
+species (ROS and RNS, respectively) (De Abajo, Montero, Madurga, &
+Garcia Rodriguez, 2004; Hoek & Pastorino, 2002). Such damage is often
+associated with metabolic and synthetic dysfunctions which can lead to
+fatal complications (Orhan, Orhan, Ergun, & Ergun, 2007).
+Reactive oxygen and nitrogen species are produced as an inevitable
+outcome of cell metabolism and as a result of environmental stress as
+well. Even if ROS and RNS show some beneficial effects, such as cyto-
+toxicity against bacteria and other pathogens, a high concentration of
+these reactive free radical species can cause oxidative damage of cel-
+lular macromolecules, such as lipids, proteins, and DNA, thus, in turn,
+leading to DNA mutations and disrupting cellular functionality that
+enhances the pathogenesis of various disorders affecting liver and other
+organs and systems (Valko et al., 2007).
+Keeping the levels of ROS under control is achieved through some
+enzymatic cellular mechanisms, such as superoxide dismutase (SOD)
+which catalyses the transformation of super oxide radicals into either
+molecular oxygen, or the less reactive hydrogen peroxide which can be
+then destroyed by catalase (CAT) (Fridovich, 1993). The endogenous
+glutathione (GSH) is crucial for cells as it is able to scavenge many free
+radicals, peroxides, lipid peroxides, electrophiles, physiological meta-
+bolites, and xenobiotics forming soluble mercapturates (Rees & Sinha,
+1960).
+In case of enhanced ROS levels, the ingestion of dietary anti-
+oxidants. i.e. carotenoids, vitamin C, anthocyanins, vitamin E and
+several other plant secondary metabolites, such as polyphenolics, can
+support the organism in the defence pathway (Sies & Stahl, 1995). In
+this context, hepatic diseases, often associated with increased in-
+tracellular ROS levels are of special concern, as they can evolve into
+fatal complications. Some plants and their secondary metabolites can
+provide safe, efficacious, antioxidant multi-mechanistic agents that may
+be useful as hepatoprotective drugs (Abbas & Wink, 2014; Youssef
+et al., 2016).
+https://doi.org/10.1016/j.jff.2017.12.055
+Received 2 June 2017; Received in revised form 20 December 2017; Accepted 21 December 2017
+⁎ Corresponding authors.
+E-mail addresses: sobeh@uni-heidelberg.de (M. Sobeh), wink@uni-heidelberg.de (M. Wink).
+Journal of Functional Foods 41 (2018) 223–231
+1756-4646/ © 2017 Elsevier Ltd. All rights reserved.
+T
+brought to you by COREView metadata, citation and similar papers at core.ac.uk
+provided by Archivio della ricerca - Università degli studi di Napoli Federico II
+The genus Syzygium comprises 1200 species occurring in Africa and
+the Pacific region. Syzygium is one of 131 genera belonging to the
+complex, well-studied myrtle family, Myrtaceae (with 5500 species).
+This genus, along with the other strongly aromatic genera (i.e. Myrtus,
+Eugenia, Melaleuca, and Eucalyptus), are rich in essential oils, flavonoids,
+flavonols, anthocyanins, ellagitannins, and phenolic acids (Haron,
+Moore, & Harborne, 1992; Kuo, Yang, & Lin, 2004; Nawwar et al., 2016;
+Sobeh et al., 2016).
+The phytochemistry and pharmacology of several members of this
+genus (including S. cumini, S. aqueum, S. samarangense, S. aromaticum,
+and S. jambolanum) have been extensively investigated. In traditional
+medicine, some of them have been used to treat several disorders, such
+as hemorrhage, dysentery and gastrointestinal disorders, as well as
+diabetes and inflammation as these extracts possess antifungal, anti-
+microbial, antihypertensive, analgesic and antiviral (against herpes
+virus) properties (Kuiate, Mouokeu, Wabo, & Tane, 2007; Kuo et al.,
+2004; Raga et al., 2011; Sharma, Kishore, Hussein, & Lall, 2013).
+The rose apple, Syzygium jambos (syn. Eugenia jambos L.), is a large
+shrub or small to medium in size tree, known to grow originally in
+Southeast Asia, but now widely distributed in the tropics. The plant has
+been traditionally used for its antipyretic and anti-inflammatory prop-
+erties and to treat hemorrhages, syphilis, leprosy, wounds, ulcers, and
+lung diseases. In Indo-China, all plant parts are employed to treat di-
+gestive tract and tooth disorders. The leaves decoction is used as anti-
+rheumatic, diuretic, and to relieve sore eye conditions (Kuiate et al.,
+2007; Nawwar et al., 2016).
+Generally, leaf extracts of S. jambos and isolated flavonoid glyco-
+sides have shown substantial anti-inflammatory activity (Slowing,
+Carretero, & Villar, 1994). A study from Venezuela has reported pro-
+mising anti-inflammatory and analgesic activities for the leaf extract
+when compared to the positive controls diclofenac and morphine, re-
+spectively (Avila-Peña, Peña, Quintero, & Suárez-Roca, 2007). In an-
+other study, leaf extracts from plants grown in Pretoria, South Africa,
+have been subjected to bioassay guided fractionation resulting in the
+isolation of ursolic acid and the anacardic acid analogue, squalene
+(Sharma et al., 2013). Kuiate et al. (2007) have reported anti-
+dermatophytic activity of the ethyl acetate extract of the stem bark and
+its isolated compounds against three dermatophyte species.
+The phytochemical investigation of the plant parts revealed several
+secondary metabolites. For instance, a recent study from plants culti-
+vated in Egypt has reported three unknown compounds from the aqu-
+eous ethanol extract of the whole plant along with 8 known compounds
+including myricetin 3-O-xylosyl-(1 → 2) rhamnoside, quercetin 3-O-
+xylosyl-(1 → 2) rhamnoside and ellagic acid (Nawwar et al., 2016). In
+Taiwan, two hydrolyzable tannins, 1-O-galloylcastalagin and casuar-
+inin, were isolated from the leaf extract; they turned out to exhibit
+potent anticancer activity in vitro (Yang, Lee, & Yen, 2000).
+From plants coming from Sri Lanka, the phytochemical profiling of
+the methylene chloride extract of the leaves revealed three dihy-
+drochalcones, myrigalone G, myrigalone B, and phloretin 4 -O-methyl
+with appreciable radical scavenging properties (Jayasinghe, Ratnayake,
+Medawala, & Fujimoto, 2007). The phytochemical investigation of the
+fruits from Chinese plants revealed seven new phloroglucinol deriva-
+tives (jambone A, B to G) along with four known triterpenoids and two
+known flavones, some of which showed promising cytotoxic activities
+against melanoma cells (Li et al., 2015).
+In the current study, the polyphenols of S. jambos were investigated
+using HPLC-PDA-MS/MS. The potential antioxidant activity of a me-
+thanol extract was evaluated both in vitro using DPPH and FRAP assays,
+on hepatocytes, and in vivo using the well-established nematode
+Caenorhabditis elegans model. Moreover, the potential hepatoprotective
+activity of a methanol extract was demonstrated in stressed hepatic
+cells and in an acute CCl 4 -induced hepatic injury rat model.
+2. Materials and methods
+2.1. Chemicals
+Carbon tetrachloride (CCl 4) was purchased from Sigma Aldrich, St
+Louis, MO, USA. All colorimetric kits for biochemical parameters were
+obtained from Biodiagnostic Co, Cairo, Egypt. All other chemicals and
+kits were of the highest analytical grade.
+2.2. Plant material and extraction
+During the spring season (April-May 2015), fresh mature plant
+leaves were collected from trees grown in a private garden in El Obour
+city (Egypt). A voucher specimen is kept under accession number
+P8617 at IPMB, Heidelberg, Germany. Air dried leaves (50 g) were
+ground and exhaustively extracted with 100% methanol at room tem-
+perature during an overall extraction period of 3 d. The combined ex-
+tracts were evaporated under vacuum at 40 °C until dryness. The re-
+sidues were further dissolved in methanol, centrifuged, and then only
+the methanol soluble extract was evaporated under vacuum at 40 °C
+until dryness. After freezing at −70 °C, the extract was lyophilized
+yielding fine dried powder (8 g).
+2.3. High performance liquid chromatography (HPLC-PDA-MS/MS)
+HPLC-PDA-MS/MS system was Thermofinnigan (Thermo electron
+Corporation, USA) coupled with an LCQ–Duo ion trap mass spectro-
+meter with an ESI source (ThermoQuest). The separation was achieved
+by using a C18 reversed-phase column (Zorbax Eclipse XDB-C18, Rapid
+resolution, 4.6 × 150 mm, 3.5 μm, Agilent, USA). A gradient of water
+and acetonitrile (ACN) (0.1% formic acid each) was applied from 5% to
+30% ACN in 60 min in flow rate of 1 mL/min with a 1:1 split before the
+ESI source. The sample was injected automatically using autosampler
+surveyor ThermoQuest. The instrument was controlled by Xcalibur
+software (Xcalibur™ 2.0.7, Thermo Scientific). The MS conditions were
+set as described before (Sobeh et al., 2017). The ions were detected in
+the negative mode, a full scan mode and mass range of 50–2000 m/z. In
+brief, to quantify the concentration of phenolic compounds, gallic acid
+was used as a standard and expressed as its equivalents, whereas the
+diglucoside flavonoid rutin was used for flavonoids.
+2.4. Biological activity experiments
+2.4.1. Antioxidant activities in vitro
+Determination of total phenolic contents was investigated using the
+Folin-Ciocalteu method (Ghareeb et al., 2017). The antioxidant activ-
+ities were investigated by DPPH radical scavenging activity and FRAP
+assay as previously described (Ghareeb et al., 2017).
+2.4.2. Biocompatibility of SJE extracts on HepG2 cells
+Human hepatic carcinoma cells (HepG2) were from ATCC and were
+cultured in Dulbecco's Modified Eagle's Medium (EuroClone), supple-
+mented with 10% foetal bovine serum (HyClone), 2 mM L-glutamine
+and antibiotics (EuroClone) in a 5% CO 2 humidified atmosphere at
+37 °C. Every 48–72 h the culture medium was removed and cells were
+rinsed with PBS (EuroClone), detached with trypsin-EDTA (EuroClone)
+and diluted in fresh complete growth medium.
+The influence of SJE on proliferation of HepG2 cells was assessed by
+MTT assay. In this set of experiments, cells were seeded in 96-well
+plates at a density of 2 x 10 3
+/well, and 24 h after seeding, increasing
+concentrations of the methanolic extract (from 25 to 200 μg/mL) were
+added to the cells for 24 and 48 h. Cell viability was assessed by the
+MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide)
+assay, as described in Guglielmi et al. (2009). Cell survival was ex-
+pressed as the percentage of viable cells in the presence of the extract
+compared to controls. Two groups of cells were used as control, i.e. cells
+M. Sobeh et al. Journal of Functional Foods 41 (2018) 223–231
+224
+untreated with the extract and cells supplemented with identical vo-
+lumes of methanol. Each sample was tested in three independent ana-
+lyses, each carried out in triplicates.
+2.4.3. Oxidative stress
+To study the antioxidant effect of SJE, cells were plated at a density
+of 5 x 10 4 cells/cm 2
+. After 24 h, cells were incubated for 2 h in the
+presence or absence of 50 μg/mL of the extract and then exposed to
+300 μM sodium arsenite (SA) for 2 h.
+2.4.4. Intracellular reactive oxygen species measurement
+The 2′,7′-dichlorofluorescein diacetate (H2-DCFDA, Sigma-Aldrich)
+method was used to measure the intracellular levels of ROS by using the
+protocol described by Del Giudice et al. (2017). Briefly, at the end of
+incubation, cells were incubated with the DCFDA probe (20 μM).
+Fluorescence intensity was measured by a Perkin-Elmer LS50 spectro-
+fluorimeter (525 nm emission wavelength, 488 nm excitation wave-
+length, 300 nm/min scanning speed, 5 slit width for both excitation and
+emission). ROS production was expressed as percentage of DCF fluor-
+escence intensity of the sample under test, with respect to the untreated
+sample. Each value was assessed by three independent experiments,
+each with three determinations.
+2.4.5. Intracellular GSH levels measurement
+DTNB assay was performed as described by Petruk et al. (2016) and
+it was used to analyze total GSH levels. Briefly, at the end of the ex-
+periment, cells were detached by trypsin, centrifuged at 1000g for
+10 min and resuspended in lysis buffer (0.1 M Tris HCl, pH 7.4 con-
+taining 0.3 M NaCl, 0.5% NP-40 and protease inhibitors (Roche). Upon
+30 min incubation on ice, lysates were centrifuged at 14,000g for
+30 min at 4 °C. Protein concentration was determined by the Bradford
+assay and 50 μg of proteins were incubated with 3 mM EDTA, 144 μM
+5,5′-dithiobis-2-nitrobenzoic acid (DTNB) in 30 mM Tris HCl pH 8.2,
+centrifuged at 14,000g for 5 min at 4 °C and the absorbance of the su-
+pernatant was measured at 412 nm by using a multiplate reader
+(Biorad). Total GSH content in the lysate was expressed as the per-
+centage of TNB, as its production is directly related to the rate of this
+recycling reaction, which, in turn, is directly related to the concentra-
+tion of GSH in the sample. Values are the mean of three independent
+experiments, each with triplicate determinations.
+2.4.6. Western blot analyses
+To investigate the activation of MAPK cascade, cells were plated at a
+density of 5 x 10 4 cells/cm2 in complete medium for 24 h and then
+treated as described above. After treatment, cells were lysed and then
+analyzed by Western blotting by using protocol described by Galano,
+Arciello, Piccoli, Monti, and Amoresano (2014). Phosphorylation levels
+of p38 and MAPKAPK-2 were detected by using specific antibodies
+purchased from Cell Signal Technology (Danvers, MA, USA). To nor-
+malize protein intensity levels, specific antibodies against internal
+standards were used, i.e. anti-GAPDH (Thermo Fisher, Rockford, IL,
+USA). The chemiluminescence detection system (SuperSignal® West
+Pico) was from Thermo Fisher.
+2.4.7. Antioxidant activity in vivo
+2.4.7.1. Caenorhabditis elegans strains and maintenance. Nematodes
+were maintained under the following conditions: 20 °C, on nematode
+growth medium (NGM), fed with living E. coli OP50. Age synchronized
+cultures were obtained by treating gravid adults with sodium
+hypochlorite. The eggs were kept in M9 buffer for hatching and the
+larvae were transferred to S-media seeded with living E. coli OP50
+(O.D. 600nm = 1.0). The C. elegans strains such as Wild type (N2), TJ375
+[hsp-16.2: GFP (gpls1)] and TJ356 were obtained from the
+Caenorhabditis Genetic Center (CGC). The in vivo assays, including
+survival rate and ROS concentration, were done according to our
+previous description (Sobeh et al., 2018).
+2.5. Hepatoprotective activity in vivo
+2.5.1. Animals
+The study was conducted with male Sprague-Dawley rats, weighing
+200–250 g, obtained from the animal facility, King Abdulaziz
+University, Geddah (KSA). Rats were kept under air-conditioned en-
+vironment at 22 ± 2 °C, with a 12 h light–dark cycle. They were sup-
+plied with rodent chow and water ad libitum. Animal care and experi-
+ments were conducted in accordance with the protocols approved by
+the Unit of Biomedical Ethics Research Committee, Faculty of Medicine,
+King Abdulaziz University, following the Institutional Animal Care and
+Use Committee guidelines.
+2.5.2. Experimental design
+Rats were divided into 4 groups of 6 rats each. The first group
+served as a control and took water orally followed by intraperitoneal
+(IP) injection of corn oil after 4 h. The second group was injected once
+with 1 mL/kg of CCl 4 -corn oil 50% mixture. Group 3 was pretreated
+with the known hepatoprotective lignan silymarin (200 mg/kg orally)
+as a positive control. Group 4 was pretreated with S. jambos extract
+(200 mg/kg orally). Four hours after the pretreatment, groups 3 and 4
+have received an IP injection of CCl 4-corn oil 50% mixture.
+After 24 h, blood samples were collected by cardiac puncture and
+allowed to clot. The sera were obtained by centrifugation for 10 min at
+3000 rpm, and then kept at −80 °C till analysis. The sera were used to
+measure hepatotoxicity parameters: alanine aminotransferase (ALT),
+aspartate aminotransferase (AST), total bilirubin (TB), total cholesterol
+(TC), and triglycerides (TG). Rats were then sacrificed and liver tissues
+were dissected. Representative tissue from each lobe was cut and fixed
+in 10% formalin/saline and then embedded in paraffin for histo-
+pathological examination. The remaining liver tissues were re-weighed,
+washed, and homogenized in ice-cold PBS to yield 10% w/v homo-
+genates and then stored at −80 °C till analyses.
+2.5.3. Biochemical analyses
+Activities of serum ALT and AST, serum levels of TB, TC, and TG
+were determined colourimetrically using Mindray BS-120 clinical
+chemistry auto-analyzer (Shenzhen Mindray Bio-medical Electronics
+Co. Ldt., Shenzhen, China). Levels of glutathione (GSH), lipid perox-
+idation marker malondialdehyde (MDA) and the activity of the anti-
+oxidant enzyme superoxide dismutase (SOD) were determined using
+the commercially available kits (Biodiagnostics, Cairo, Egypt).
+2.5.4. Histopathological examination
+Storage of tissue samples was done in 10% buffered neutral formalin
+for 24 h and tap water was used for washing. For dehydration, serial
+dilutions of methyl, ethyl and absolute ethyl alcohols were used.
+Specimens were embedded in xylene for clarification, immersed in
+paraffin, and kept for 24 h at 56 °C inside hot air oven. Slide microtome
+was used to prepare paraffin bee wax tissue sections at 4 μm thickness
+that were placed on glass slides, had the paraffin cleared, and stained
+either with eosin and hematoxylin for histopathology. Glass slides were
+examined through the light electric microscope (Olympus BX-50
+Olympus Corporation, Tokyo, Japan) (Banchroft, Stevens, & Turner,
+1996).
+2.6. Statistical analysis
+Statistical analyses for biological data were carried out three times
+unless otherwise mentioned in the procedure. Data are presented as
+mean and S.D. One way analysis of variance (ANOVA) was used to carry
+out the comparisons that were followed by post hoc analysis using
+Tukey’s test. A level of p < .05 was taken as cut off to accept statistical
+significance. GraphPad Prism software, version 5.00 (GraphPad
+Software, Inc. La Jolla, CA, USA) and (SigmaPlot® 11.0) were used to
+perform all the required statistical analyses.
+M. Sobeh et al. Journal of Functional Foods 41 (2018) 223–231
+225

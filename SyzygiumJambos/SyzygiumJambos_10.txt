@@ -1,0 +1,64 @@
+Chemical variability in the essential oils from leaves of Syzygium jambos
+
+Syzygium jambos (L.) Alston, Myrtaceae, occurs in tropical regions and is a widespread medicinal plant used to treat several diseases, such as hemorrhage, dysentery, diabetes, inflammation, diabetes and gastrointestinal disorders. Leaf essential oils of ten specimens of S. jambos collected from two localities of Central Brazilian Cerrado were investigated by GC-MS. Soil and foliar nutrients were analyzed to determine the mineral compositions. The aims of this study was to evaluate the influence of environmental factors on chemical composition of leaf essential oils of S. jambos. Studies on the influence of environmental factors over composition of essential oils are important because they contribute data for its cultivation, harvest and establish parameters to essential oil components. The data were analyzed using stepwise Multiple Regression and Cluster Analysis, and the results suggest that the main factor capable to influence the chemical composition of leaf essential oils was the collection period and the collection site had a minor effect. The results also suggest that the leaf essential oils composition was influenced mainly by foliar nutrients (N, Mn, Co, Fe, S and Mg) and soil nutrients (Na, Al, S and H+Al). The compound with the best model obtained was the (E)-caryophyllene, with a coefficient of determination equal 0.8113.
+
+medicinal plants; Myrtaceae; seasonality; mineral nutrients; statistical analysis
+
+Chemical variability in the essential oils from leaves of Syzygium jambos
+
+Wilma P. RezendeI; Leonardo L. BorgesI; Nilda M. AlvesII; Pedro H. FerriIII; José R. PaulaI
+
+ILaboratório de Pesquisa de Produtos Naturais, Faculdade de Farmácia, Universidade Federal de Goiás, Brazil
+
+IIEscola Superior de Ciências da Saúde, Departamento de Farmácia e Bioquímica, Universidade de Rio Verde, Brazil
+
+IIILaboratório de Bioatividade Molecular, Instituto de Química, Universidade Federal de Goiás, Brazil
+
+Correspondence
+
+ABSTRACT
+
+Syzygium jambos (L.) Alston, Myrtaceae, occurs in tropical regions and is a widespread medicinal plant used to treat several diseases, such as hemorrhage, dysentery, diabetes, inflammation, diabetes and gastrointestinal disorders. Leaf essential oils of ten specimens of S. jambos collected from two localities of Central Brazilian Cerrado were investigated by GC-MS. Soil and foliar nutrients were analyzed to determine the mineral compositions. The aims of this study was to evaluate the influence of environmental factors on chemical composition of leaf essential oils of S. jambos. Studies on the influence of environmental factors over composition of essential oils are important because they contribute data for its cultivation, harvest and establish parameters to essential oil components. The data were analyzed using stepwise Multiple Regression and Cluster Analysis, and the results suggest that the main factor capable to influence the chemical composition of leaf essential oils was the collection period and the collection site had a minor effect. The results also suggest that the leaf essential oils composition was influenced mainly by foliar nutrients (N, Mn, Co, Fe, S and Mg) and soil nutrients (Na, Al, S and H+Al). The compound with the best model obtained was the (E)-caryophyllene, with a coefficient of determination equal 0.8113.
+
+Keywords: medicinal plants; Myrtaceae; seasonality; mineral nutrients; statistical analysis
+
+Introduction
+
+The Brazilian Cerrado stands out as the richest source of biodiversity, with about 6500 plant species cataloged and approximately 220 of which have medicinal uses (MMA, 2009). Several studies by authors suggest that, the percentage of species present in this biome may represent 20 to 50% of the total found in the country (Machado et al., 2004). The Myrtaceae family is one of the principal floras, with 23 genera and about 130 species, and many species are used popularly against gastrointestinal disorders, infectious diseases and hemorrhagic conditions. This family also includes many species that are characterized by the presence of essential oils (Rodrigues & Carvalho, 2001; Holetz et al., 2002; Amaral et al., 2006; Gondim et al., 2006; Sá et al., 2012). Among the species of this family, Syzygium jambos (L.) Alston (syn Eugenia jambos) stands out due its medicinal properties.
+
+This genus has been reported for their different medicinal uses. Syzygium cumini, S. aromaticum, Syzygium jambolanum and Syzygium jambos are the most pharmacologically studied species, and have been recommended to treat haemorrhage, dysentery and gastrointestinal disorders (Moreira, 1978; Cruz, 1979), diabetes (Kelkar & Kaklij, 1996; Stanely Mainzen et al., 1998) and inflammation (Kim et al., 1998; Muruganandan et al., 2001). They have also been employed as sedative and anticonvulsivant (De Lima et al., 1998), as antihypertensive (Bhargava et al., 1968), against herpes virus (Kurokawa et al., 1998) and as inhibitor of histamine release ((Kim et al., 1998). Djipa et al., (2000) tested acetone and aqueous extracts from the barks of S. jambos for antimicrobial activity in vitro by the agar dilution method in petri dishes, and both extracts showed activity against Staphylococcus aureus, Yersinia enterocolitica and coagulase negative staphylococci among which Staphylococcus hominis, Staphylococcus cohnii and Staphylococcus warneri. The leaves of S. jambos are widely used in folk medicine to inflammation, digestive ulcers and high fever (Kan, 1987; Slowing et al., 1994a; 1994b; 1996; Rodrigues & Carvalho, 2001; Souza et al., 2002; Di Stasi et al., 2002; Pessini et al., 2003; Fiuza et al., 2008).
+
+One property known of essential oils is their antimicrobial activity, particularly antibacterial and antifungal activities. Some of these species include the following: Syzygium aromaticum (L.) Merrirl et L. M. Perry, Thymus sp., Lavandula sp., Origanum vulgare L., Rosmarinus officinalis L. and Eucalyptus globulus Labill (Simões & Spitzer, 2004; Cunha, 2005).
+
+It is important consider the chemical variations in essential oils caused by genetic, physiological or environmental variables when domesticating and improving plants of medicinal interest. Therefore, it is necessary studies that demonstrate that the chemical composition of the essential oils, although genetically determined, can suffer influence as a result of several environmental factors especially when referring to vegetal material used in chemical, pharmacological and agronomic studies that aim to obtain herbal medicines, because pharmacological properties can differ due to differences in essential oil composition (Lorenzi & Matos, 2002; Bergo et al., 2005; Lima et al., 2006; Potzernheim et al., 2006; Paula et al., 2011). The aim of our investigation was to study the chemical variability and environmental influence of the essential oil of S. jambos leaves in two samples collected from two different sites.
+
+Materials and Methods
+
+Plant material
+
+Leaves of five specimens of Syzygium jambos (L.) Alston, Myrtaceae, were collected in the municipality of Rio Verde, Goiás state, Brazil (17º 48' 33,9" S; 50º 56' 39,1" W; 710 m), (17º 46' 33,6" S; 50º 54' 13,2" W; 688 m), (17º 46' 27,1" S; 50º 54' 52,2" W; 750 m), (17º 46' 09,6" S; 50º 54' 52,6" W; 781 m), (17º 46' 41,2" S; 50º 56' 43,1" W; 758 m) and five specimens in the municipality of Nova América, Goiás state, Brazil (15º 01' 12" S; 49º 52' 33,4" W; 782 m), (15º 01' 48,7" S; 49º 51' 27,9" W; 657 m), (15º 01' 48,6" S; 49º 51' 29,9" W; 652 m), (15º 02' 58,5" S; 49º 51' 53,4" W; 614 m). All samples were collected twice, in January and July 2011. The plants were identified by Prof. José Realino de Paula and a voucher was deposited at the Herbarium of the Federal University of Goiás under code number 47579. The leaf samples air-were dried in a chamber at 40 ºC and ground into a powder.
+
+Essential oil extraction
+
+The essential oils from leaves of S. jambos were submitted to hydrodistillation in a modified Clevenger-type apparatus (2 h). Each essential oil was dried over anhydrous sodium sulfate and stored at - 20 ºC for further analysis.
+
+Essential oil analyses
+
+Leaf essential oils obtained were analyzed using a gas chromatograph coupled to a mass selective detector (GC-MS), Shimadzu QP5050A, using an ionization voltage of 70 eV. A fused silica capillary column was utilized (CBP - 5; 30 m x 0.25 mm x 0.25 µm) and helium was used as the carrier gas at a flow rate of 1 mL min-1. The temperature program used was as follows: ramp up from 60 to 240 ºC at 3 ºC min-1, increase to 280 ºC at 10 ºC min-1, and complete with 10 min at 280 ºC. The injection volume was 1 µL diluted with CH2Cl2 at a ratio 1:5. The essential oil constituents were identified by comparing their mass spectra with those from the National Institute of Standards and Technology (NIST, 1998), as well as by comparing the mass spectra and calculated linear retention indices (RI) with values in the literature (Adams, 2007). Retention indices were obtained by co-injection with a mixture of linear hydrocarbons, C9-C22 (Sigma, USA) and calculated using the equation of Van Den Dool & Kratz (1963). The percentage of each component was calculated to normalize for the area in the chromatogram obtained using a Varian gas chromatograph (FID) equipped with a ZB-5 fused silica capillary column that was 30 m X 0.25 nm with 0.25 µm film thickness (5% phenylmethylpolysiloxane). The following temperature program was used: increase from 60 to 240 ºC at 3 ºC min-1, followed by an increase to 280 ºC at 10 ºC min-1, and complete with 10 min at 280 ºC. The carrier gas was N2, at a flow rate of 1.0 mL/min; the injector port and detector temperatures were 220 and 240 ºC, respectively. Samples were injected by splitting, and the split ratio was 1:20.
+
+Chemical analysis of leaves and soil
+
+Chemical analysis of soil and leaf samples were performed at the Solocria Agricultural Laboratory, School of Agronomy, Federal University of Goiás, following standard procedures (Silva, 2009). For the analysis of foliar nutrients, the nitrogen (N) was extracted by digestion with H2SO4 and catalysts. The minerals phosphorus (P), potassium (K), calcium (Ca), magnesium (Mg), sulfur (S), copper (Cu), iron (Fe), manganese (Mn) and zinc (Zn) were extracted by digestion with HClO4 and HNO3. For the analysis of nutrients in the soil samples were collected at a depth of 0-20 cm in four locations around each specimen of S. jambos, subsequently homogenized and then air dried. A mass of 500 g was packed in plastic bags. The pH was determined in a volume of water-soil at 1:1. Ca, Mg and Al were extracted with KCl 1M, and P, K, Zn, Cu, Fe and Mn were extracted with Mehlich's solution. Organic matter (OM), cation exchange capacity (CEC), potential acidity (H+Al), base saturation (V) and aluminum saturation (m) were determined by standard methods (Silva, 2009). The quantitative determination of minerals in leaves and soil was performed according to the methodology described by (Silva, 2009). Nitrogen was determined by distillation (semi-micro Kjeldahl method), phosphorus by colorimetry, potassium by flame photometry and sulfur by turbidimetry. Calcium, magnesium, copper, iron, manganese and zinc were determined by atomic absorption.
+
+Climate data
+
+The monthly climate data (average temperature and average daily precipitation) for the collection months were collected from the official site of the National Institute for Space Research (Instituto Nacional de Pesquisas Espaciais).
+
+Statistical analysis
+
+The relationship between the components found in leaf essential oils (dependent variables) from S. jambos and the environmental factors (independent variables) were investigated by stepwise Multiple Regression and Pearson's Correlation Analysis implemented using SAS GLM and SAS CORR procedure, respectively (Draper & Smith, 1981). Cluster Analysis was also applied to the study of similarity of samples on the basis of constituent distribution and hierarchical clustering was performed according to Ward's variance minimizing method (Ward, 1963). Prior to the Cluster Analysis, the data were preprocessed by auto-scaling and mean centering. All procedures were performed using the software SAS (Statystical Analysis System) and Statistica 7 (Inc, 2002; Stat Soft, 2004).
+
+Results and Discussion
+
+The environmental variables are presented in Tables 1, 2, 3 and 4. The compounds of leaf essential oils analyzed are shown in Table 5.
+
