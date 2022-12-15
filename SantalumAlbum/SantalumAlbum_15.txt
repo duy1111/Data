@@ -1,0 +1,282 @@
+Anti-ulcer Activity of Sandalwood (Santalum album L.) Stem Hydro-alcoholic Extract in Three Gastric-Ulceration Models of Wistar Rats
+
+INTRODUCTION
+Peptic Ulcer Disease (PUD) encompasses both gastric
+and duodenal ulcers. Persisting erosions cause damage
+to the stomach wall becoming perforated and
+developing peritonitis and massive haemorrhage as a
+result of mucus, bicarbonate and prostaglandins
+synthesis inhibition (Wallace, 2008). Several factors
+influence in the formation of gastric ulcers such as the
+stomach infection produced by Helicobacter pylori
+(Phillipson et al., 2002), the frequent use of non-
+steroidal anti-inflammatory drugs (NSAIDs) (Bighetti
+et al., 2005) and consumption of alcohol
+(Bandyopadhyay et al., 2002). PUD is a serious
+gastrointestinal disorder that requires a well targeted
+therapeutic strategy (Dharmani and Palit, 2006).
+Nowadays, there are two main approaches for treating
+peptic ulcer. The first deals with reducing the
+production of gastric acid and the second by
+reinforcing gastric mucosal protection (Valle, 2005;
+Hoogerwerf and Pasricha, 2001). The therapeutic
+efficacy of commercially available anti-ulcer drugs in
+the treatment of gastric ulcer is usually accompanied
+by various side effects (Khan et al., 2011), for
+example, H2-receptor antagonists (e.g. cimetidine)
+may cause gyneacomastia in men and galactorrhoea in
+women (Feldman and Burton, 1990), while proton-
+pump inhibitors (e.g. omeprazole and lansoprazole)
+can cause nausea, abdominal pain, constipation and
+diarrhea (Reilly, 1999; Franko and Richter, 1998). Due
+to these problems, there is a need to find new anti-
+ulcer agents that are highly effective with potentially
+less or no side effects. Medicinal plants have always
+been the main source of new drugs for the treatment of
+gastric ulcers (Rates, 2001; Borrelli and Izzo, 2000).
+Santalum album (L.) is one of the most
+important Indian medicinal plants. Traditionally,
+Sandalwood is used as an astringent, antipyretic, blood
+purifier, disinfectant in bronchial and genitourinary
+tract infections, diuretic, expectorant, memory
+enhancer, and sedative, tonic for heart, liver and
+stomach. Furthermore, it is used in perfume industry.
+Various uses mentioned in Ayurveda about
+sandalwood include its utilization in the treatment of
+several ailments like bleeding piles, diarrhea with
+internal bleeding, eye infections, hemorrhage,
+hiccoughs, inflammation of umbilicous, poisoning,
+initial phase of pox, urticaria and vomiting (Desai and
+Hirenath, 1991; Kirtikar and Basu, 1933). It is
+reported to possess anti-bacterial activity against
+Staphylococcus aureus (Shankaranaryana, 1986) and
+anti-fungal activity against Microsporum canis,
+Trichophyton mentagrophytes and T. rubrum
+(Chaumont and Bardey, 1989). The essential oil of S.
+album was tested for in-vitro anti-viral activity against
+Herpes simplex viruses-1 and -2. It inhibited the
+replication of these viruses in a dose-dependent
+manner and was more effective against HSV-1. The
+oil did not exhibit virucidal and cytocidal activities at
+the concentrations tested (Benencia and Courrèges,
+1999).
+The phytochemical and pharmacological
+investigations proved the presence of antioxidant
+principles that justify their traditional medicinal values
+(Scartezzini and Speroni, 2000). S.album and other
+Indian medicinal plants were tested in-vitro for their
+possible regulatory effect on nitric oxide (NO) levels
+using sodium nitroprusside as NO donor. Most of the
+plant extracts demonstrated significant direct dose
+dependant scavenging activity on NO (Jagetia and
+Baliga, 2004). α-Santalol, an active component of
+sandalwood essential oil has been studied for skin
+cancer preventive efficacy in murine models of skin
+carcinogenesis employing human epidermoid
+carcinoma A-431 cells. α-santalol at concentrations of
+25-75 μl resulted in concentration and time dependant
+decrease of cell number, which was largely due to cell
+death. Mechanistic studies showed involvement of
+caspase-3 activation and poly (ADP-ribose)
+polymerase cleavage, disruption of the mitochondrial
+membrane potential and cytochrome-C release into the
+cytosol, thereby suggesting involvement of both
+caspase-dependant and independent pathways (Kaur,
+2005).
+The sandalwood oil at a dose of 200 mg/kg
+showed highly significant antipyretic effect against
+yeast induced pyrexia in albino rats; 0.2% of Tween
+80 and Paracetamol 100 mg/kg were used as control
+and standard respectively (Desai and Hirenath, 1991).
+Santalols have been reported to possess a significant
+anti-inflammatory property, in several experimental
+models (Sindhu et al., 2010). Experimental assays also
+revealed the anti-inflammatory effect of sandalwood
+oil and HESP (Hydrolyzed Exhausted Sandalwood
+Powder) oil against formalin induced paw oedema in
+albino rats at a dose of 200 mg/kg, using 0.2% tween
+80 as control and phenylbutazone 150 mg/kg as
+standard. A significant reduction in oedema was
+observed in case of HESP (Sivaramakrishnan and
+Shankaranarayana, 1990; Shankaranarayana and
+Kamala, 1989; Shankaranaryana and Parathasarthi,
+Ahmed et al. Anti-ulcer activity of Santalum álbum L. stem hydro-alcoholic extract in gastric-ulceration models
+Boletín Latinoamericano y del Caribe de Plantas Medicinales y Aromáticas/83
+1985). Sandalwood oil (8 mg/kg) and HESP (10
+mg/kg) produced prolonged decrease in carotid blood
+pressure, increase in heart rate and respiration in
+healthy adult mongrel dogs (10-12 kg) anaesthetized
+with pentobarbitone (35 mg/kg) (Sindhu et al., 2010).
+The sandalwood oil as well as HESP oil was studied
+for sedative effect on albino mice of either sex at
+500/600 mg/kg as well as 600/800 mg/kg respectively
+using 0.2% Tween 80 as control. Severe depression
+occurred with death at LD50 of 558.0 and 747.6 mg/kg,
+respectively (Shankaranarayana and Kamala, 1989).
+Some clinical studies were also conducted
+with S. album. Kuan- Xiong aerosol containing
+sandalwood oil along with oils of Piper longum,
+Dryobalanops aromatica, Asarum seiboldi, and
+Alpinea officinarum. They produced an immediate and
+quick relief in anginal pain in 69 cases of angina
+pectoris in comparison with nitroglycerine. Further
+studies revealed a different mechanism of action from
+that of nitroglycerine (Guo et al., 1983). A polyherbal
+eye drop preparation containing S. album Linn.,
+Azadirachta indica A. Juss., Eclipta alba Hassk., Vitex
+negundo Linn., Moringa oleifera Lam., Boerhaavia
+diffusa Linn., Rosa moschata Mill, Macuillamia
+rotundifolia (Michx.) were studied in refractive error
+or cataract situations for six months. Some
+improvements were noted in the associated symptoms
+and subjective improvements of vision were reported
+by some patients. No side effects of the drug were
+reported by any patient (Mrinal, 1985).
+S. album is one of the potential anti-ulcer
+plants used in Unani system of medicine (Jamal et al.,
+2006). Recently a polyherbal preparation, UL-409
+containing six medicinal plants namely Santalum
+album L., Glycyrrhiza glabra L., Saussurea lappa CB
+Clarke, Aegle marmelos Corr., Foeniculum vulgare
+Mill., Rosa damascena Mill. at a dose of 600 mg/kg,
+significantly prevented the occurrence of ulcerations
+induced by stress, aspirin and alcohol in albino wistar
+rats (Venkataranganna et al., 1998). In another study,
+UL-409 increased the stomach mucus and decreased
+the acid volume, the free and total acid contents in
+rats. Moreover, significantly prevented the occurrence
+of cold-restraint stress induced ulcerations. Also,
+significantly inhibited gastric ulceration induced by
+alcohol and aspirin, as well as cysteamine and
+histamine induced duodenal ulcers in rats and guinea
+pigs, respectively. (Mitra et al., 1996; Kulkarni and
+Goel, 1996). Though S. album is one of the
+traditionally used anti-ulcer plants in Unani medicine
+and a component of certain polyherbal preparations for
+prevention and healing of gastric ulcers, no attempts
+were made to assess anti-ulcer potential of
+Sandalwood alone.
+MATERIALS AND METHODS
+Extraction of Plant material and Phytochemical
+Screening
+S. album Stem was collected from forest area around
+Yelhanka Railway Station in January (2011) and
+authenticated at the Department of Botany, Bangalore
+University. Approximately 1000 g of S. album stem
+powder was extracted in 40% ethanol in water by
+soxhletion. The plant material and solvent were taken
+in 1:5 ratio. S. album stem hydro-alcoholic Extract
+(SASE) was processed at Green Chem Laboratory,
+Bangalore. The extracted material was delivered as
+gift sample (Batch No: SWSE/RD/01). SASE was
+later subjected to preliminary phytochemical screening
+to identify the presence of phyto constituents (Kokate
+et al., 2007; Khandelwal, 2004; Harborne, 1978).
+Experimental Animals
+Albino Wistar rats of either sex weighing 150-200 g
+were housed under standard conditions at 25 ± 5 ºC in
+a well-ventilated animal house approved by
+Committee for the Purpose of Control and Supervision
+on Experiments on Animals (CPCSEA Nº
+IAEC/37/10) under 12:12 h light - dark cycle. The
+experimental protocol (IAEC/NCP/37/10) was
+approved by Institutional Animal Ethical Committee,
+Nargund College of Pharmacy, Bangalore.
+Oral Acute Toxicity Study and Selection of test doses
+A safe oral dose of SASE was determined through the
+acute oral toxic test in rats as described by the
+Organization of Economic Co-Operation and
+Development (OECD) as per 423 guidelines (OECD
+Guidelines for the Testing of Chemicals, 2010). The
+SASE at a limit dose of 5000 mg/kg was administered
+orally to three rats and observed for behavioral
+changes, any toxicity and mortality up to 48 h. The
+extract was prepared by dissolving the commercial
+extract in distilled water and the concentration was not
+to exceed the dose of 1 ml/100 g by weight. The test
+doses for evaluation of anti-ulcer activity were
+selected based on the oral acute toxicity testing.
+Evaluation of anti-ulcer activity
+Acute water immersion restraint stress (CRS)
+(Kulkarni and Juvekar, 2008)
+Low (250 mg/kg p.o.) and high dose (500 mg/kg p.o.)
+of SASE and Omeprazole 10 mg/kg p.o. were
+Ahmed et al. Anti-ulcer activity of Santalum álbum L. stem hydro-alcoholic extract in gastric-ulceration models
+Boletín Latinoamericano y del Caribe de Plantas Medicinales y Aromáticas/84
+administered 1 hour prior subjecting the rats to stress
+(Surendra, 1999). The ulcers were induced in animals
+by keeping in a plastic restrainer at a temperature of
+20 ̊C, making them immobile and placing vertically
+with heads facing upwards in holes of stainless steel
+water bath of dimensions (12.7 cm × 45.7 cm × 45.7
+cm) consisting of 12 holes at its top having a diameter
+of 3 inches, filled with water up to the xiphoid level
+for a period of 3 hours daily. Same procedure was
+followed for 10 day. Animals were fasted for 24 hours
+until the ninth day. On day 10 after subjecting the rats
+to the stress, stomachs were isolated and cut opened
+along the greater curvature. The ulcer index and ulcer
+score were determined. Later, the stomachs were
+subjected to histopathological examination.
+A. Ulcer scoring and ulcer index determination: For
+ulcer scoring, the stomachs were washed with saline
+water to look for ulcers in the glandular portion of the
+stomach. The number of ulcers per stomach was noted
+and severity of the ulcers was scored microscopically
+with the help of the hand lens (10 X) and scoring was
+done as per (Vogel, 2008).
+0 = no ulcer
+1 = superficial ulcer
+2 = deep ulcer
+3 = perforation
+The Ulcer index (UI) was calculated by the following
+formula:
+UI = UN +US +UP×10-1
+UN = average number of ulcer per animal
+US = average severity score
+UP = percentage of animal with ulcers
+The percentage inhibition was calculated by the
+following formula:
+% Inhibition = [(UI control – UI treated) / UI control] x 100
+B. Histopathological studies: The isolated stomachs
+were kept in formalin solution (15%) then sent to
+pathologist for histological examination by
+Haematoxylin and Eosin staining and morphological
+observations with 100 X and 400 X.
+Experimental Design: Briefly, the animals were
+divided into five groups (n = 6) and treated with the
+respective test solutions as given below:
+Group I: (Normal control): Received distilled water.
+Group II: (Negative control): Received stress three
+hours a day for a period of 10 days.
+Group III: (Standard drug + Stress). Received
+standard drug Omeprazole 10 mg/kg p.o. one hour
+before three hours of stress for a period of 10 days.
+Group IV: (Test drug Dose I + Stress). Received test
+drug (SASE 250 mg/kg) one hour before three hours
+of stress for a period of 10 days.
+Group V: (Test drug Dose II + stress). Received test
+drug (SASE 500 mg/kg) one hour before three hours
+of stress for a period of 10 days.
+Acute Ethanol (Et-OH) induced ulcer
+(Majumdar, 1999)
+Animals were treated with distilled water,
+Omeprazole, SASE 250 mg/kg and 500 mg/kg orally
+for 10 days and kept for 24 hours fasting until the
+ninth day. Animals were treated with test extract and
+standard drug, Omeprazole (10 mg/kg p.o.) one hour
+before ethanol administration on 10th day. Ethanol
+(60%) was administered to every animal at a dose of 1
+ml/200 g by weight on day 10. One hour later all the
+animals were sacrificed, the stomachs were isolated
+and ulcer index, ulcer score was determined and
+histopathological studies were performed as
+mentioned earlier. Briefly, the animals were divided
+into five groups (n = 6) and treated with the respective
+test solutions as given below:
+Group I: (Normal control): Received distilled water.
+Group II: (Negative Control): Received Ethanol 1
+ml/200 g by weight on day 10.
+Group III: (Ethanol + Omeprazole): Received
+Omeprazole 10 mg/kg for 10 days and Ethanol 1
+ml/200 g by weight on day 10.

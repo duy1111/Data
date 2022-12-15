@@ -1,0 +1,152 @@
+Santalum Album - Overview
+
+Perfumery, Essential Oils, and Household Chemicals Affecting Reproductive and Sexual Health
+
+Suresh C. Sikka, Alma R. Bartolome, in Bioenvironmental Issues Affecting Men's Reproductive and Sexual Health, 2018
+Sandalwood (Santalum album)
+
+Sandalwood is a precious plant grown in India that yields fragrant sandalwood oil, which was among the first few items traded to Middle East and other countries. Sandalwood oil is an excellent base and fixative for other high-grade perfumes and, by itself, is an excellent, mild, long-lasting, and sweet perfume. There are several hundred products that use sandalwood and its oil. Sandalwood has antipyretic, antiseptic, antiscabetic, and diuretic properties. It is also effective in treatment of bronchitis, cystitis, dysuria, and diseases of the urinary tract [17].
+
+The main ingredient of sandalwood oil is α-santalol that has many therapeutic properties. Sandalwood oil has been used in Indian Ayurvedic system for centuries. It is renowned for its sublime, aphrodisiac, diuretic, and urinary antiseptic properties. It has been found to help remove negative programming from the cells and increases oxygen around the pituitary and pineal glands. α-Santalol and β-santalol and santenone are main constituents of the sandalwood oil [18,19].
+
+It has been found to enhance the activity of glutathione S-transferase, increasing the level of acid-soluble sulfhydryl groups. Effects on the central nervous system showed that the two ingredients α-santalol and β-santalol (fragrances) could be considered as neuroleptics with some resemblance to the chlorpromazine. The transdermal absorption of East Indian sandalwood oil also shows physiological relaxing, as well as mental and emotional effects in otherwise healthy human subjects [20]. Low concentrations of α-santalol and β-santalol, and only traces of α-santalene could be detected in the serum after inhalation and transdermal absorption [21].
+Chemical Ecology
+
+Masashi Ishikawa, ... Yasutaka Ohkubo, in Comprehensive Natural Products II, 2010
+4.15.4.6 Aroma Materials from Wood
+
+Sandalwood has been highly appreciated since prehistoric ages. The oil serves as base note, offers fixative properties, and harmonizes with various other materials, making it one of the most fundamental ingredients. The essential oil of cedarwood is steam distilled from the sawdust and other waste wood from the lumber mills while essential oil from its leaves is also produced. Camphor, native to Japan and Taiwan, was considered as a precious wood having high concentration of (1R)-camphor (42), which is used in medicine, although synthetic camphor introduced in the 1920s rapidly replaced the natural oil (Table 9).
+
+Table 9. Aroma extract from wood
+Oil	Source plant	Aroma-active constituents	Reference(s)
+Sandalwood	Santalum album	(+)-α-Santalol (70), (−)-β-Santalol (71)	95,96,111
+Cedarwood	Juniperus virginiana	(+)-Cedrol (72), (+)-α-cedrene (73), (−)-thujopsene (74)	95,96
+Camphor	Cinnamomum camphora	(+)-Camphor, safrole (75), 1,8-cineole	95
+Rosewood (Bois de Rose)	Aniba rosaeodora	(±)-Linalool	95
+
+Sign in to download full-size image
+Synthetic Biology and Metabolic Engineering in Plants and Microbes Part B: Metabolism in Plants
+
+J.M. Celedon, J. Bohlmann, in Methods in Enzymology, 2016
+11.1 Yeast In Vivo Assays
+
+Initial screening of sandalwood candidate P450s was done using in vivo assays in the yeast strain AM94 (Ignea et al., 2012) coexpressing sandalwood FPP Synthase (SaFPPS), SaSSy, and cytochrome P450 reductase (SaCPR2) (Celedon et al., 2016; Diaz-Chavez et al., 2013). The host yeast strain was engineered for improved production of sesquiterpenes and resulted in intracellular accumulation of SaSSy products, facilitating the functional screening of P450 candidates. Synthetic, codon-optimized P450 sequences were subcloned into the expression vector pYEDP60, which has been successfully used for yeast expression of many plant P450s (Duan & Schuler, 2006; Hamann & Møller, 2007). SaFPPS, SaSSy, and SaCPR2 were expressed in standard pESC vectors. All vectors were transformed into yeast following the procedure listed below:
+Yeast transformation
+
+1.
+
+    Grow 5 mL overnight (ON) cultures from 3–5 yeast colonies in YPD media at 28°C.
+2.
+
+    Dilute cultures to OD600 ~ 0.2 in a total volume of 50 mL YPD and adenine. Grow yeast at 28°C to an OD600 0.6–0.8.
+3.
+
+    Pellet the cells by centrifugation at 2000 × g for 2 min and discard supernatant.
+4.
+
+    Resuspend pellet in 25 mL sterile water.
+5.
+
+    Pellet the cells by centrifugation as before and discard supernatant.
+6.
+
+    Resuspend in 1 mL 100 mM LiAc and transfer to an Eppendorf tube.
+7.
+
+    Pellet the cells by centrifugation at 1000 × g for 1 min and discard supernatant.
+8.
+
+    Resuspend cells in 400 μL 100 mM LiAc.
+9.
+
+    Aliquot 50 μL of resuspended cells into Eppendorf tubes.
+10.
+
+    Pellet cells as before and remove supernatant.
+11.
+
+    In the following order add:
+
+        240 μL PEG (MW 3350, 50% w/v)
+
+        35 μL 1.0 M LiAc
+
+        25 μL denatured Salmon sperm DNA (2.0 mg mL− 1, average size 5–7 kb)
+
+        50 μL water with 0.5 μg plasmid DNA
+
+12.
+
+    Vortex cells vigorously until in suspension or for up to 1 min.
+13.
+
+    Shake tubes slowly at 28°C for 30 min.
+14.
+
+    Heat shock cells at 42°C, 15–25 min (optimal time may vary with strain).
+15.
+
+    Pellet cells by centrifugation at 1000 × g for 1 min and discard supernatant carefully.
+16.
+
+    Gently resuspend in 500 μL sterile water.
+17.
+
+    Apply 50 μL or more to selective medium (SD—selective aa) and incubate plates at 30°C for 3–4 days in order to see transformed colonies.
+
+Depending on the number and the length of the genes to be transformed, options are to cotransform all of them at the same time or to perform sequential transformations. In the case of long genes and large plasmids, sequential transformation may be advised. Once all pathway genes are transformed into AM94 cells, expression cultures are prepared, and extraction of metabolites, as read out of the candidate P450 activities, is performed according to the following two consecutive protocols:
+Expression cultures for in vivo assays
+
+1.
+
+    Start 5 mL ON culture from a single colony in selection media at 28°C, 220 RPM
+2.
+
+    Inoculate 50 mL culture (in 250-mL baffled flask) to a starting OD600 of 0.2
+3.
+
+    Incubate at 28°C, 220 RPM to an OD600 of 0.6–0.8
+4.
+
+    Centrifuge cultures in 50-mL Falcon tubes at 1000 × g for 5 min at RT
+5.
+
+    Resuspend cell pellet in 50 mL SG selective media to induce expression and incubate ON (12–16 h) at 28°C, 220 RPM
+6.
+
+    Centrifuge the cultures as before and transfer the supernatant to a new falcon tube for analysis of products potentially released to the media
+7.
+
+    Resuspend the pellet in 5 mL sterile water and transfer to ice
+8.
+
+    Transfer resuspended cells to preweighed a glass test tube and keep cells on ice
+9.
+
+    Centrifuge resuspended cells at 1000 × g for 5 min at 4°C
+10.
+
+    Remove and discard the supernatant and weigh pellets for normalization of metabolite amounts
+
+Extraction of terpenoid metabolites
+
+11.
+
+    Start extraction of metabolites from weighted cell pellets by adding 250 μL of small acid-washed glass beads followed by 2 mL of organic solvent
+12.
+
+    Vortex for 1 min and decant the solvent to a new glass tube
+13.
+
+    Repeat the extraction a second time and pool the solvent fractions in the same tube
+14.
+
+    Add 250 μL sodium sulfate (anhydrous) to the tube containing the pooled solvents to remove residual water in the sample
+15.
+
+    Concentrate to ~ 1 mL under gentle flow of nitrogen gas and transfer to a GC vial
+16.
+
+    Store concentrated extracts at − 80°C or proceed to GC–MS analysis
+
+Extracts from in vivo assays are analyzed by GC–MS as described in Section 6.
