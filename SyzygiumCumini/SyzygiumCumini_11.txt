@@ -1,0 +1,348 @@
+Recent advances in pharmacological potential of Syzygium cumini: A review
+
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+2
+Pelagia Research Library
+INTRODUCTION
+Syzygium cumini (S. cumini) (L.) Skeels (family: Myrtaceae), synonyms- Syzygium jambolana
+DC., Eugenia cumini (Linn.) Druce., Syzygium jambolanum (Lam.) DC., Myrtus cumini Linn.,
+Eugenia djouant Perr., Eugenia caryophyllifolia Lam., Calyptranthes jambolana Willd.,
+commonly known as Black Plum in English, Jamun in Hindi, Jambu in Sanskrit and Jaman in
+Urdu is a large evergreen tree indigenous to India, though Syzygium cumini (SC) trees are found
+throughout the Asian subcontinent, South America, Eastern Africa, Madagascar and so on [1].
+Different plant parts have been reported to contain a variety of components. The fruit pulp
+contains Vitamin A & C, nicotinic acid, riboflavin, folic acid, maleic acid, choline, sugar, amino
+acid, K, Ca, Na, P, Fe, Mn, Zn. Gallic acid is said to be responsible for the sourness of the fruit
+while anthocyanins for the colour. The leaves are enriched with acylated flavonol glycosides,
+myricetin, myricitin, quercetin, galloyl carboxylase, esterase and tannins. The flowers are rich in
+quercetin, kaempferol, myricetin, oleanolic acid, quercetin-3-D-galactoside, eugenol-triterpenoid
+A & B. The roots contain flavonoid glycosides and isorhamnetin 3-O-rutinoside. The stem bark
+has betulinic acid, β-sitosterol, quercetin, kaempferol, ellagic acid, gallic acid, myrecetin etc. The
+seeds contain glycoside jambolin, gallic acid, essential oils and so on [2]. The various parts of
+the tree have been used traditionally for the treatment of various human ailments. SC find its
+place in numerous traditional systems of medicine like Ayurveda, Siddha, Unani and
+Homeopathic systems of medicine. It was one of the best remedy for diabetes before the
+discovery of insulin [3]. As per Ayurveda, the barks of SC possess astringent, acrid, digestive
+and wound healing properties. They are beneficial for the treatment of biliousness, dysentery,
+sore throat, bronchitis, thirst, asthma and ulcers. According to Siddha system of medicine, it
+supposed to be semen promoting, haematinic and hypothermic. Unani System of medicine
+characterizes it to be a tonic for liver, to enrich blood, reinforce teeth and gums [4].
+PHARMACOLOGICAL ACTIONS OF SYZYGIUM CUMINI
+1.Anti-allergic
+Allergy is an abnormal reaction of the body to the allergen introduced by ingestion, injection,
+inhalation or skin contact. A novel, safe and effective remedy is required for this ailment. In an
+investigation, the aqueous extract of SC leaves (25-100mg/kg, p.o.) inhibited the rat paw edema
+induced by 48/80 (allergenic compound), histamine and 5-HT. However, the extract could not
+produce any beneficial effects against the platelet aggregating factor-induced paw edema [5].
+2.Antibacterial
+Now a days, people have started using antibiotics as OTC (Over The Counter) drugs which has
+led to antibiotic resistance, thus safer novel antibacterial agents are required. In case of SC, its
+stem, leaf and fruit extracts were found to be effective against all the bacterial strains used in the
+study. Best results were observed against Roultella plantikola (zone of inhibition-25 mm) [6].
+Microbroth dilution and Agar well diffusion assays were utilized to study the antibacterial effects
+of SC seeds against multidrug-resistant human bacterial pathogens and it was found that the ethyl
+acetate fraction from the ethanol extract was most effective. Then, the ethyl acetate fraction was
+subjected to phytochemical analysis and TLC-bioautography which exhibited the phenolics to be
+the main component responsible for the activity [7].
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+3
+Pelagia Research Library
+Ethyl acetate, petroleum ether and methanolic extracts of the SC leaf were found to be effective
+against Salmonella typhimurium, Bacillus subtilis, Pseudomonas aeruginosa, Staphylococcus
+aureus and Enterobacter aerogenes [8].
+Acetone, aqueous and ethanolic bark extracts were evaluated for their antibacterial effects
+against twelve strains of Vibrio cholera, of which the ethanolic extract was found to be most
+effective [9].
+Aqueous leaf extract of SC has shown beneficial effects against Klebsiella sp., Salmonella
+paratyphi A & B, Citrobacter sp., Proteus mirabilis, Escherichia coli, Staphylococcus aureus,
+Shigella sonnei, Pseudomonas aeruginosa, Salmonella typhimurium, Shigella boydii,
+Streptococcus faecalis, Shigella flexneri and Salmonella typhi [10].
+3.Anti-cancer
+Various treatment strategies for cancer involve surgery, hormonal therapy, chemotherapy,
+radiation therapy and targeted therapy (e.g. monoclonal antibody therapy and immunotherapy).
+Apart from killing cancerous cells, some normal, healthy cells may be destroyed and may affect
+many vital organs such as kidney, heart, lungs, nervous system etc. Many herbal anti-cancer
+drugs are being used to avoid the unwanted side effects.
+Ellagitannins isolated from SC have shown to inhibit Wnt signaling in a transfected human 293T
+cell line [11].
+A few of the current investigations have proved the selective cytotoxic activity of jamun fruit
+extract after studying its pro-apoptotic and antiproliferative effects on estrogen independent
+(MDA-MB-231) breast cancer cells, estrogen dependent/aromatase positive (MCF-7aro)and
+normal/nontumorigenic (MCF-10A) breast cell line [12] [1].
+Anti-cancer effects of 40% SC extract have been studied on human cervical cancer cells (11.8%
+growth inhibition observed in SiHa (HPV-16 positive) cells and 14.4% in HeLa (HPV-18
+positive) cells) [13].
+4.Anticlastogenic
+Anticlastogenic agent is one which protects the disruption or breakages of chromosomes. SC
+extract has exhibited its utility in mutagenesis prevention and carcinogenesis initiation. The
+alcoholic seed extract decreased the hydroxyl radical induced strand breaks in pBR322 DNA in
+vitro and the aqueous extract was found to reduce the chromosomal aberrations in mice (induced
+by DBMA and urethane) [14].
+5.Anti-diabetic
+Various preclinical and clinical studies have been performed to evaluate the anti-diabetic
+potential of SC [15].
+Numerous investigations performed in the past have indicated that SC seeds [16] [17] [18] [19]
+[20] [21], fruit pulp [22] [23] [24], whole fruit [25] [26], bark [27] [28], leaves [29] and flowers
+[30] possess anti-diabetic activity.
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+4
+Pelagia Research Library
+Mycaminose (50 mg/kg) - a compound isolated form SC seeds and ethyl acetate & methanol
+fraction at the doses of 200 and 400 mg/kg showed a significant (p<0.05) decrease in blood
+glucose level when evaluated for the anti-diabetic activity in streptozotocin (STZ)-induced
+diabetes in rats [31].
+The aqueous and alcoholic SC extracts were evaluated for their anti-diabetic potential in alloxan
+induced diabetic rabbits. It was found that the aqueous extract was more effective in improving
+blood glucose in glucose tolerance test and in decreasing fasting blood glucose [24].
+Numerous studies have been performed to show the beneficial effects of SC extract in
+normalizing the elevated lipid profiles of diabetic rats [16] [22] [32], elevating the serum insulin
+[16] [32] and increasing SOD and GPx activities [16]. The SC seeds possess protective effect
+against diabetes related complications like neuropathy [33], gastropathy [33], nephropathy [33],
+diabetic cataract [34] and also reduced peptic ulceration [35].
+SC possesses the potential to inhibit the carbohydrate hydrolyzing enzymes [36]. A polyherbal
+formulation (ADJ6) containing SC and some other antidiabetic herbs have shown a significant
+inhibitory action against α-glucosidase and α-amylase [37]. SC seeds have shown the pancreatic
+islet cells regeneration potential in streptozotocin [38] and alloxan [39] diabetic rats.
+Various clinical studies have been performed to validate the use of SC in diabetes [40] [26]. In a
+recent open labeled randomized parallel designed controlled study, Type II diabetic individuals
+were administered the standardized SC seed powder which exhibited a reduction in fasting blood
+sugar, insulin resistance and elevation in HDL cholesterol at the end of 3rd month [41].
+6.Anti-diarrheal
+Natural products are a drug of choice for diseases like diarrhea. SC ethanolic extract (400 mg/kg)
+administered orally has exhibited a reduction in gastrointestinal activity in PGE2 induced
+enteropooling and castor oil induced diarrhea in rats [42].
+7.Anti-fertility
+A review has stated that oleanolic acid – a phytoconstituent isolated from the flowers of SC has
+the potential to arrest spermatogenesis, thus exhibiting the anti-fertility action in the male albino
+rats [4].
+8.Antifungal
+The indiscriminate utilization of medicines has led to resistance against some fungal species,
+thus there is a requirement of a safer remedy.
+The methanolic fruit extract of SC has shown excellent antifungal action against the targeted
+pathogenic fungi - Fusarium oxysporium, Rhizoctonia solani and Sclerotium rolfsii [43].
+A research investigation utilized different concentrations of n-hexane, alcohol and aqueous
+extracts of different plant parts of SC (barks of stem and roots, fruits and leaves) to study their
+antifungal potential against Ascochyta rabiei-the causative agent for blight disease of Cicer
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+5
+Pelagia Research Library
+arietinum. All the aqueous extracts, n-hexane extract of stem-bark and alcoholic extracts of both
+the barks exhibited significant antifungal activity [44].
+The aqueous, benzene, chloroform, ethanol, methanol and petroleum ether extracts of SC leaf
+were evaluated against various species of Aspergillus i.e., A. tamari, A. niger, A. ochraceus, A.
+flavus, A. columnaris, A. fumigates, A. candidus and A. flavipes. The results revealed that the
+methanolic extract was most potent [10].
+9.Anti-hyperlipidemic
+Of the various lipid-lowering drugs available in the market, the herbal drugs are found to be
+more safe and efficacious. The anti-hyperlipidemic potential of SC fruit pulp was evaluated in
+diet induced hyperlipidaemic rats. The results revealed that the fruit pulp was as potent as
+simvastatin in reducing serum LDL cholesterol, triglycerides & total cholesterol and elevating
+HDL cholesterol [45].
+Flavonoids isolated from the seeds have exhibited hypolipidemic effects in diabetic rats [21]
+[20].
+The ethanoilc extract of SC kernels (100 mg/kg b.w.) was evaluated for its hypolipidemic
+potential for the levels of triglycerides, cholesterol, phospholipids, free fatty acids in the plasma,
+kidney and liver tissues of STZ (55 mg/kg b.w.) induced diabetic rats. The results showed that
+the extract was able to restore all the parameters to their normal range [46].
+10. Anti-inflammatory
+The anti-inflammatory drugs are those which help to overcome a localized physical condition in
+which part of the body becomes reddened, swollen, hot, and often painful, especially as a
+reaction to injury or infection.
+Ethyl-acetate and methanolic extracts of SC leaves and seeds (both at the doses of 200 and 400
+mg/kg p.o.) showed a significant anti-inflammatory activity in carrageenan induced paw oedema
+in wistar rats [47] [48].
+11. Antilieshmanial
+Antilieshmanial agents are those that destroy protozoa of the genus Leishmania. The essential oil
+of SC and its main component α-pinene was evaluated for its antilieshmanial action against
+Leishmania amazonensis. α-pinene showed its efficacy with IC50 of 19.7 mg/ml.
+Immunomodulatory action was considered as the most probable mechanism of action [49].
+12. Antinociceptive
+Antinociceptive activity is a process of blocking the detection of a painful or injurious stimulus
+by sensory neurons. With SC, the hydro-alcoholic leaf extract was evaluated for its analgesic
+potential in rats. To assess the cutaneous nociception, hot plate and formalin tests were used
+while for muscular nociception, forelimb grip force was measured. The extract at the dose of
+100–300 mg/kg i.p. exhibited a significant decrease in the pain scores in all the phases of the
+formalin test but extract even at the dose of 300 mg/kg was not able to modify the grip force in
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+6
+Pelagia Research Library
+intact rats. Therefore, the extract exhibited an excellent analgesic activity (on cutaneous and deep
+muscle pain) [50].
+The methanolic extract of SC fruits exhibited a significant central analgesic activity which was
+investigated using the Eddy’s Hot Plate method [43].
+13. Antioxidant
+Generation of free radicals initiates/aggravates various diseases like cancer, AIDS, arthiritis,
+Alzheimer and diabetic complications. Thus, there is a requirement of safer drugs that have
+property of scavenging the free radicals.
+With regard to SC fruit, polyphenols have shown outstanding antioxidant capacity when
+compared to the standard polyphenols [51].
+The methanolic extract of leaves, bark and seeds of SC were fractionated in different solvents: n-
+hexane, chloroform, ethyl acetate, butanol and water. These fractions were studied for their
+antioxidant and free radical scavenging activities. Of all the fractions, the polar ones i.e., ethyl
+acetate and water fractions showed excellent results [52].
+The leaf and seed extract of SC exhibited a significant antioxidant activity when they were
+assessed by various in vitro methods such as Ferric reducing antioxidant power (FRAP) assay,
+2,2-diphenyl-1-picrylhydrazyl (DPPH) scavenging assay, Nitric oxide radical scavenging, ABTS
+Assay, Total Reducing antioxidant potential, Total antioxidant activity, Reducing power and
+Hydroxyl radical scavenging activity[53].
+RSC (Radical Scavenger Capacity) of SC was determined by using DPPH (2, 2-diphenyl-1-
+picrylhydrazyl radical) assay. The second order rate constants-k2 was evaluated to determine
+RSC and then these were compared to natural and synthetic antioxidants. The k2 value of SC
+was determined to be 15.60 L/mol g s in methanol at 25°C proving that it has a excellent anti-
+oxidant potential [54].
+14. Antiviral
+With the changing environment, new viral diseases are being identified, so there is a demand for
+a safer, non-toxic remedy. The cold and hot aqueous extracts of leaves and barks of SC were
+evaluated for their antiviral potential against H5N1 (avian influenza virus which causes a highly
+contagious disease of poultry) using CPE reduction assay to establish virucidal, pre-exposure and
+post-exposure potential of these extracts. With hot and cold aqueous bark extracts and hot
+aqueous leaf extracts, 100% inhibition of the virus was observed in virus yield reduction assay
+and in egg based in ovo assay. CC50/EC50 (selective index) for cold aqueous extract (43.5) and
+hot aqueous extract (248) of bark exhibited their potency against H5N1 virus [55]. The aqueous
+extract of leaves was also found to inhibit the goatpox virus [56] and the buffalopox virus [57].
+15. Ascaricidal
+Different SC extracts were used to study their ascaricidal action against Tetranychus urticae
+Koch. The results showed the inhibition rate of 98.5%, 94% and 90% respectively for ethanolic,
+hexane and ethyl acetate extracts [58].
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+7
+Pelagia Research Library
+16. Cardioprotective
+In case of SC, the hydroalcoholic extract of leaves was evaluated in spontaneously hypertensive
+and normotensive wistar rats. The findings of the research investigation revealed that the extract
+decreased the blood pressure as well as the heart rate. Extracellular calcium influx and inhibition
+of arterial tone were suggested as the most probable mechanism of action [59]. The
+hydroalcoholic extract of SC was evaluated for its antihypertensive, and vasorelaxant effect.
+Polyethylene catheters were inserted into the inferior vena cava and lower abdominal aorta in the
+anaesthetized rats for dosing and measuring blood pressure. The extract at the doses of 0.5; 1; 5;
+10; 20 and 30 mg/kg, i.v. was able to induce hypotension (due to reduction in endothelium
+mediated peripheral resistance) and bradycardia (due to meandering cardiac muscarinic
+activation) [60].
+The elevated serum levels of alanine transaminase (ALT), serum creatine phosphokinase (CPK),
+aspartate transaminase (AST), lactate dehydrogenase (LDH), HDL-cholesterol due to
+Doxorubicin(1.5 mg / kg/b.w., 15 days) induced cardiotoxicity were brought to normal range
+after the administration of aqueous suspension of SC seed extract (100 mg/kg/b.w. for 15 days)
+[61].
+The oral administration of the methanolic extract of SC at the doses of 250 mg/kg and 500 mg/kg
+consecutively for 30 days reversed and retained the activity of AST, ALT, LDH and CPK to
+normal levels against the isoproterenol- induced myocardial infarction [62].
+17. Chemoprotective
+Various herbal drugs have proved their beneficial effect in protecting healthy tissues from the
+toxic effects of anti-cancer drugs. The aqueous and ethanolic SC seed extracts have shown
+chemoprotective action in the in vivo oxidative stress and genomic damage [63].
+It has been reported that SC extract in the doses of 125 and 250 mg/kg/b.w./animal/day exhibited
+the cancer chemopreventive properties in the DMBA-induced croton oil promoted two stage skin
+carcinogenesis in Swiss albino mice. It was found that the extract was able to decline the tumor
+incidence, cumulative number of papillomas and elevate the average latency time as compared to
+the control group [64] [65].
+The tumor burden, tumor incidence and cumulative number of gastric carcinomas induced by
+benzo-a-pyrene were found to decrease after the treatment with 25 mg/kg b.w./day of the SC
+extract exhibiting its broad spectrum chemoprotective effects [66].
+The genotoxic effects caused by of the carcinogens urethane and DMBA in mice were also found
+to decline after the administration of SC seed extract [14].
+18. Diuretic
+The Diuretics are used for the treatment of various human ailments such as heart failure, high
+blood pressure, liver disease, some types of kidney disease and also in cases overdose or
+poisoning. Now day’s herbs are a better option as diuretics.
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+8
+Pelagia Research Library
+Petroleum ether, chloroform, methanolic and aqueous extracts of SC bark were evaluated for
+their diuretic activity in Wistar albino rats at the dose of 500mg/kg body weight. The methanolic
+and aqueous extracts were found to be active as diuretic as depicted by an elevation in total urine
+output and in the excretion of electrolyte concentration of sodium and potassium ions [67].
+19. Gastroprotective
+Natural products provide a safer remedy to protect the gastric mucosa of aggressive or irritating
+agents.
+Seed kernel extract of SC (200 mg/kg) was evaluated for its antiulcer activity. First, the diabetes
+was induced using low dose streptozotocin (35mg/kg) in combination with high fat diet. Then,
+the gastric ulceration was produced in diabetic rat’s ethanol and indomethacin models. It was
+observed that there was a significant decrease in the gastric ulcer index after the administration
+SC extract alone and as well as in combination with Acarbose (5mg/kg) [68].
+In another research investigation, the hard liquor (48% ethanol- 1ml/150gm b.w.) and aspirin
+(200 mg/kg, orally) were used to induce gastric ulcer in rats. The aqueous extract of SC leaves at
+the doses of 200 and 400 mg/kg produced ulcer inhibition (%) of 32.17% and 61.09%
+respectively in hard liquor model and 23.01% and 70.33% respectively in aspirin model [69].
+SC fruit extract at the dose of 200mg/kg b.w. was administered orally for 10 days to
+streptozotocin induced diabetic and to rats exposed to ulcerogens (like aspirin, 95% ethanol,
+cold-resistant stress and pylorus-ligation). The observations of the study revealed that there was
+a decrease in acid-pepsin secretion, cell shedding and LPO while an increase in the GSH (in
+gastric mucosa), mucosal glycoprotein and mucin [35] [70] [71].
+20. Hepatoprotective
+Hepatoprotective agents are those that provide protection to the liver (which performs important
+functions like metabolism, secretion, storage, and detoxification of endogenous and exogenous
+substances).
+The alcoholic extract of the pulp of SC (100 and 200mg/kg/day) exhibited a significant
+hepatoprotective action on paracetamol (PCM)-induced hepatotoxicity in albino rats. The
+elevated serum levels of ALT, AST, AP were decreased and histopathological studies depicted a
+reduction in fibrosis and necrosis [72].
+The anthocyanins rich SC pulp extract (50 to 500 ppm) has shown its beneficial effects in
+preventing the CCl4 induced liver damage by declining the lipid peroxidation, suppressing the
+CCl4-induced release of LDH, and elevating the GPx (antioxidant enzyme) activity [73].
+Aqueous leaf extract [74] and methanolic seed extract [75] have also shown hepatoprtective
+effects through biochemical estimations and histopathological studies.
+21. Hypothermic
+In an research investigation, after insertion of a mister probe into the rectum of rats , the basal
+body temperature was recorded and then pyrexia was induced by Brewer’s yeast (Sacchromyces
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+9
+Pelagia Research Library
+cerevisiae)( 10mL/kg of 20% suspension, subcutaneous). After 18 hours, the rectal temperature
+of the rats was again recorded and the test group was treated with SC methanolic fruit extract
+(100 mg/kg, orally). The standard group was administered oral dose of 33mg/kg of paracetamol
+and control group was given 0.2 ml normal saline. Upto 3 hours, temperature was recorded
+hourly and % reduction in temperature was recorded. The extract exhibited a significant
+antipyretic activity as compared to standard [43]. The chloroform and methanolic extracts of SC
+have also shown antipyretic activity [76].
+22. Inhibits lipid peroxidation
+Some enzymatic and non-enzymatic reactions lead to lipid peroxidation associated with
+mutagenesis and cellular damage. The fruit pulp, seed coat and kernel extracts were evaluated for
+their lipid peroxidation inhibition activity and was seen that the seed and coat and the pulp
+extracts were less active than the kernel [77].
+An research investigation utilized the pulp extract (enriched with anthocyanins) to study its
+potential to inhibit the iron (FeSO4)-induced lipid peroxidation in different organs of rat (Liver,
+liver mitochondria, brain, testes etc.) in vitro. A concentration of 5ppm was found to show
+beneficial results with highest lipid peroxidation inhibition in liver mitochondria (86%), followed
+by liver (83%), testes(72%) and brain(68.3%) [78].
+SC seed extract when administered orally for 15 days to alloxan treated rats, exhibited an
+elevated antioxidant the enzyme level and declined lipid peroxidation activity [79].
+23. Neuropsychopharmacological
+Neuropsychopharmacological agents include the studies of anxiety disorders, affective
+disorders, psychotic disorders, degenerative disorders, eating behavior, and sleep behavior. The
+methanolic SC extract has exhibited the antiamnesic activity against scopolamine induced spatial
+impairments in rats [80]. The methanolic and ethyl acetate SC seed extracts at the doses of 200
+mg/kg and 400 mg/kg were evaluated for their CNS activity utilizing rota rod and
+actophotometer. A significant CNS activity was observed for both the extracts [81].
+24. Radioprotective
+Radioprotective agents are those that reduce the effect of radiation on tissues. SC leaf extract
+provided protection against radiation induced intestinal mucosal damage due to exposure of
+different doses of gamma radiations [82].
+Dichloromethane extract of SC leaf and Hydroalcoholic seed extract when administered
+intraperitoneally exhibited radioprotective effects [83] [84]. SC leaf extract in various
+concentrations (0.0, 1.56, 3.125, 6.25, 12.5, 25, 50 and 100 μg/ml) was found to reduce the
+radiation induced DNA damage in the cultured human peripheral blood lymphocytes [85].
+CONCLUSION
+The present article has focused on the recent research investigations carried out on the diverse
+pharmacological actions of Jamun. Various parts of the plant and their extracts have been used
+for anti-diabetic action, but very less study has been performed on its isolated phytoconstituents
+Deepti Katiyar et al Adv. Appl. Sci. Res., 2016, 7(4):1-12
+_____________________________________________________________________________
+10
+Pelagia Research Library
+and very few clinical trials have been carried out. Apart from its utility in diabetes, it is a very
+useful drug as anti-bacterial, anti-fungal, anti-viral, anti-cancer, anti-hyperlipidemic,
+hepatoprotective, cardioprotective, gastroprotective and so on. Its potential as anti-fertility agent
+needs to be explored in order to establish its safety on long term use. Thus, further studies need
+to be performed with respect to pharmacological action of its isolated constituents, its
+mechanism of action and clinical studies.
+Acknowledgements
+The authors are thankful to the Principal, KIET School of Pharmacy for motivation. Authors are
+also thankful to KIET LIBRARY and NISCAIR, New Delhi for providing the literature
