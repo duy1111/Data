@@ -1,0 +1,84 @@
+Evaluation of antipsoriatic activity of gel containing Pongamia pinnata extract on Imiquimod-induced psoriasis
+
+Abstract
+Background
+Pongamia pinnata (Fabaceae) is among those categories of plants mentioned in Ayurveda and traditionally known to use in several types of disease and disorders. The objective of the present work was to investigate the anti-psoriatic activity of Pongamia pinnata leaves extracts in Herbal gel formulation.
+
+Results
+Hydroalcoholic leaves extract of Pongamia pinnata was first subjected to phytochemical screening and quantification of phytoconstituents. Herbal gel was prepared containing Pongamia pinnata extracts using Carbopol 934 as gelling agent. The prepared gel formulations were studied for pH, viscosity, Spreadability and in vitro diffusion studies. The imiquimod-induced psoriatic mouse model, showed a prominent anti-psoriatic activity of the extract as evident through index grading. Treatment with extract confirmed a noteworthy reduction in psoriasis in the treated groups as there was a considerable diminution in the thickness and scaling of skin.
+
+Conclusions
+Lack of proper treatment and disadvantages associated with allopathic medicines pave the way to extensive research in natural products with anti-psoriatic activity. The present research scientifically justified the anti-psoriatic activity of the Hydroalcoholic extracts of Pongamia pinnata leaves.
+
+Background
+Psoriasis is a hyper proliferative neutrophilic skin disorder affecting around 5–6% of the world population, with prevalence rate in adult from 0.5%–11.4% [23]. The pathogenesis of psoriasis is associated with increased production of inflammatory cytokines that cause hyperkeratosis [13, 19]. Psoriasis is a multifactorial with numerous key factors such as, genetic vulnerability, environmental triggers, skin barrier distruption and immune dysfunction [18]. On the basis of extent of inflammation, localization of rash and severity, psoriasis can be categorized as, Vulgaris (plaque), guttate, inverse, pustular and erythrodermic [6, 15]. Vulgaris (plaque) has reported to affects around 85%–90% of psoriatic patients affecting physically and mentally a lot [7, 12].
+
+Traditional medicines are gaining importance on account of the associated side effects of synthetic medicines [25]. Pongamia is a genus having one species only Pongamia pinnata (Linn.) [Syn. Pongamia glabra (Vent); Derris indica (Lamk.)] which belongs to family Fabaceae and subfamily Papilionaceae is native in tropical and temperature regions of Asia. It is among that category of plants which has wide applicability in the treatment of diseases such as for treatment of piles, ulcers, skin diseases, and wounds and rheumatic joints [20]. Most scientist and researchers have worked on various extracts and chemical constituents, and reported the antioxidant, antimicrobial, antiparasite, anti-inflammatory, anti-convulsant, anti-diabetic, antihyperammnonemic, cytotoxicity, anthelminthic, insecticidal and immunomodulatory activities [1].
+
+Materials and methods
+Imiquimod was obtained from Glenmark Pharmaceutical, Mumbai, India. Carbopol 934 was procured from Loba chemie LTD, Mumbai. All other chemicals used were of analytical grade.
+
+Plant material and extraction
+The leaves of Pongamia pinnata were procured from the local herbal habitat of Nagpur region, Maharashtra, India and were authenticated from Department of Botany, Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur, Maharashtra, India (voucher specimen No.: 1017). The collected stems of the plant (500 g) were shade dried, coarsely powdered and macerated with water and ethanol (7:3). After 7 days the solvent was filtered and subsequently concentration to dryness at a room temperature to obtained extract. The extract (yield: 5.98% w/w) was then kept in a desiccator until use.
+
+Phytochemical standardization
+Preliminary phytochemical screening of the hydroalcohlic extract of Pongamia pinnata (EPP) for the presence of various phytoconstituents such as, alkaloids, phenolic compounds, flavonoids, tannins, terpenoids and diterpenoids were carried out as per standards procedure [3]. Total alkaloid content was estimated as per the usual gravimetric analysis [5] while anthrone reagent was used to determine the total carbohydrate content in EPP [22]. Total phenolic and tannin content in EPP was estimated according to the reported method [24] using Folin- ciocalteau reagent. Total flavonoid and saponin content were estimated by the reported methods [8, 10].
+
+Formulation and characterization of Pongamia pinnata gel
+Accurately weighed quantity of gelling agent Carbopol 934 was dispersed in distilled water under constant stirring of 800 rpm for 30 min at temperature of 37 °C until a gel like mass was observed. After reaching the gel like consistency required amount of Methyl parabens were dissolved in propylene glycol whereas EPP (0.5 g) was dissolved in ethanol, and both solutions were mixed with the aqueous phase with continuous stirring until a homogenous gel was formed. The gel was further rendered alkaline using 1to 2 drops of Triethanolamine (TEA) and subsequently 0.5 ml of glycerin was added as a humectant.
+
+Various pharmaceutical parameters of the formulated gel were evaluated which included, physical appearance, pH, viscosity, Spreadability [11] in vitro diffusion studies. The skin biocompatibility of the gel was done by measuring pH using digital pH meter (ELICO) at room temperature and a Brookfield viscometer to determine the Viscosity of the gel [2]. The spreadability of the Pongamia pinnata gel was determined using glass slides (7.5 × 2.5 cm), where gel (1 g) was applied within the two slides, which was retained for 1 min. Spreadability of the formulation indicates the ability of the formulation to eject from tube in uniform way and desired quantity when squeezed.
+
+S=M.L/T
+(1)
+Where,S = spreadability,M = weight tied to upper slide,L = length of glass slides,T = time taken to separate the slides completely from each other.
+
+In vitro release study
+The in vitro drug release profile of the PPE gel was determined by dispersing 1 g of the gel in 25 mL of phosphate buffer saline (PBS, pH 7.4), placed in the dialysis bag (cutoff 14 kDa) with continuous stirring on a magnetic stirrer at 100 rpm at 37 ± 1 °C. One mL of the dispersion was withdrawn from the medium and replaced with the same amount of medium at a definite time interval and drug release was analyzed at 210 nm (Shimadzu-1700 UV visible spectrophotometer). The experiments were carried out in triplicate.
+
+Drug content
+The drug content of PPE gel was determined by dissolving an accurately weighed quantity of formulation in about 50 mL of pH 6.8 phosphate buffer, from the resulting solution 5 ml of solution was pipetted and was diluted to 25 ml. The subsequent was filtered and absorbance was measured at 210 nm using Shimadzu-1700 UV visible spectrophotometer [4].
+
+Ex-vivo permeation study
+Skin permeation study was performed on dorsal skin of the rats by means of modified Franz diffusion cell following same method as described in the in- vitro drug release study of gel. The skin was judiciously checked through an amplifying glass to make sure that the test was free from any surface inconsistency like tiny gaps or hole [21].
+
+Acute skin irritation test for gel
+PPE gel was checked for acute skin irritation as per standard protocol. Dorsal side of rat. A 500 mm2 area of dorsal hair of mice were shaved and cleaned. 5%w/w of gel formulation was applied to three different groups of animals and fourth group was kept control. The skin of animal was then checked for erythema, inflammatory reactions and edema after 4 h and for 48 h of application of topical gel preparation.
+
+Anti-psoriatic activity
+Imiquimod-induced psoriatic mouse model
+As per the guidelines of the Committee for the Purpose of Control and Supervision of Experiments on Animals (CPCSEA, Government of India) all experiments were carried out with Reference no- 853/IAEC/17–18/23. And all the study protocols were approved by the Animal Ethical Committee of the Central Animal Facility, Smt. Kishoritai Bhoyar college of pharmacy, Kamptee, Nagpur, India.
+
+Rats were procured from National institute of Nutrition, Hyderabad, India. Rats of 8–11 weeks old were used in the study. In each experimental group (disease free/ control/disease), animals were smoothly and clean shaven along their back part. Psoriasis in mouse was induced using imiquimod-induced psoriasis, the animal’s dorsal part was shaved and commercially available 5% (IMQ) cream (Aldara; 3 M Pharmaceuticals) with dose of 62.5 mg of imiquimod was topically applied for 7 consecutive days and translating in a daily dose of 3.125 mg of the active compound. Control rat were treated similarly with a control vehicle cream. After 7 days skin biopsies were taken immediately, fixed in 10% formalin and embed in paraffin. The tissue section (4 μm thick) was taken and stained with haematoxylin and eosin. The number of keratinocytes layers including the basal layer was counted by direct microscopy (Nikon Trinocular Microscope, Model E-200) [9, 16].
+
+Scoring severity of skin inflammation
+Antipsoriatic activity of the PPE herbal gel was evaluated on the basis of PASI (Zero, Slight, Moderate, Very marked) score along with the histopathology of skin [17].
+
+Statistical analysis
+The experimental results are expressed as mean ± SEM, with six animals in each group followed by one-way analysis of variance (ANOVA). Newman-keuls test for multiple comparisons was applied for determining the statistical significance between different groups. All the statistical analysis were performed using, Graph Pad Prism software. P values < 0.05 were considered to be significant.
+
+Results
+Phytochemical standardization
+Preliminary phytochemical analysis of the EPP revealed the presence of mainly alkaloids, carbohydrate, flavonoid, saponins, amino acid as a major component.
+
+Evaluations of formulated gel
+The gel was evaluated for physical appearance and it was found to be uniform, creamy white, homogenous and non-sticky. The pH of prepared gel with extract was found to be 6.5 which is suitable for topical application. The viscosity of the gel was found to be 2100 cps to 1400 cps at 1 rpm to 20 rpm. The spreadability was found to be 9.6 ± 0.53 g/sec. The drug content was found to be uniform throughout the formulated gel with the range are 92.32% ± 0.43 and average value is assuring the process adopted to prepare the gel is capable of giving reproducible results. From the data of % drug diffusion, we observed that, the prepared topical gel formulation with PP extract released a maximum of 59.11% ±0.512% of extract over a period of 6 h which shows that the gel formulation can control the release of drug for a longer period of time.
+
+The formulation of gel shows 67.270% ± 0.304 of drug permeated in 6 h. The gel was subjected to accelerated stability testing as per ICH guidelines. The gel was stored at a temperature of 40 ± 2 °C and 75 ± 5% RH for 90 days (3 months). The results showed no significant changes in physical appearance, viscosity, spreadability, and drug content.
+
+Antipsoriasis activity
+Imiquimod-induced psoriasis mouse model
+Imiquimod-induced psoriasis mouse model was used to induce psoriasis in rat within period of 7 days. The grading was given to each rat before and after treatment with test, and psoriatic control along with naive control [14].
+
+Figure 1 represents the effect of topical treatment of EPP on PASI grading on IQM-induced psoriatic mice (Table 1).
+As shown in Fig. 1, two-way ANNOVA followed by post hoc Bonferroni multiple comparison test reveals that, there was significant increase in psoriasis after applying (topically) imiquimod, (erythema and scaling) day by day (#p < 0.0001IMQ induced animal) [F = 5166.14].
+
+Daily treatment with extract (Combination with PEG topical) starting from post day-8 following IMQ, progressively reduced the psoriasis score in rats as compared to the standard tested animals  as shown in Figs. 2 and 3. Application of two-way ANOVA showed the significant interaction [F(4.26, 26), P < 0.05] between test treatment and STD [F(49.33), P < 0.001]]. Application of post hoc Bonferroni multiple comparison test revealed significant recovery of adjuvant psoriasis on post-psoriasis days 12 (P < 0.001) of the protocol.
+
+Discussion
+The prepared gel was evaluated for its pH, spreadability, drug content and % drug diffusion. All parameters were found to be satisfactory is capable of giving reproducible results. The data of % drug diffusion clearly indicated that, the gel formulation can control the release of drug for a longer period of time. Various kinetic models viz., zero order, first order, Higuchi, Matrix and Korsmeyer-Peppas model were explored to determine the model-fit of the release profile of gel. Based on the obtained value of the regression coefficient (R2 = 0.9985), first order model was found to be the best representative model describing the diffusion of gel. Additionally, the release exponent value (n) was estimated to be 0.7533, thus indicating a non-Fickian Diffusion release. Ex vivo permeation profiles of extract follow zero-order kinetics model (R2 = 0.9985). The release exponent value (n) was estimated to be 0.6517, thus indicating a non-Fickian super case II Diffusion release. Thus, gel was found to significantly enhance both the rate and the extent of drug Permeation through rat Skin. Stability study results indicated that there were no any significant changes in physical appearance, % viscosity, % spreadability, and drug content and thus confirms the stability of gel.
+
+Imiquimod-induced psoriasis mouse model was used to induce psoriasis in rat. Application of IQM drug for seven successive days to the mice showed development of erythema, scaling and thickening of the skin. Treatment with EPP confirmed a marked recovery from psoriasis in the treated groups as there was a considerable diminution in the thickness and scaling of skin, which was also confirmed through reduced grading of the PASI scale of treated groups. The result of histopathology clearly shows that, on treatment with EPP topically, regeneration in the tissue integrity was observed with greater collagen content, angiogenesis, keratinization, fibroblast proliferation as compared to control groups.
+
+Conclusion
+Lack of feasible treatment and disadvantages associated with allopathic medicines to cure psoriasis has led to extensive research in herbal products with anti -psoriatic activity. Literature survey revealed that Pongamia pinnata was used for the treatment of psoriasis by traditional therapist. The present research scientifically justified the anti-psoriatic activity of the Hydroalcoholic extracts of Pongamia pinnata leaves.

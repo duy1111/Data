@@ -1,0 +1,75 @@
+Plectranthus amboinicus (Indian borage)
+
+Abstract
+This datasheet on Plectranthus amboinicus covers Identity, Overview, Distribution, Dispersal, Diagnosis, Biology & Ecology, Environmental Requirements, Impacts, Uses, Further Information.
+Notes on Taxonomy and Nomenclature
+The Lamiacae, or mint family, is a family of herbs, shrubs, and trees comprising about 200 genera and 3200 species, many with a long history of medicinal and food use (University of Hawaii, 2014). This family includes some of the most well-known herbs containing essential oils including lavender, sage, basil, mint and oregano. Many Lamiaceae species have square stems (although square stems are also found in other families), aromatic aerial parts when crushed, simple opposite leaves, and two-lipped flowers.
+Plectranthus is a paleotropical genus comprising around 300 species of annual or perennial herbs or subshrubs, often succulent (Wagner and Lorence, 2014). Its name derives from the Greek words ‘plectron’, meaning ‘spur’, and ‘anthos’, meaning ‘flower’, in reference to the spur-shaped flowers of some members of the genus (Stearn, 1992). Because of the lack of clear-cut morphological criteria to discriminate not only among species within the Plectranthus genus but also among the closely related genera, numerous taxonomic problems in the naming of species have resulted in misplacement of species in several closely related genera like Coleus, Solenostemon and Englerastrum (Lukhoba et al., 2006).
+The species P. amboinicus was originally classified under the genus Coleus by Loureiro in 1790 but was moved to the Plectranthus genus by Sprengel in 1825, although both names are sometimes seen in the literature today. P. amboinicus is of unknown origin but possibly Africa and India (Wagner and Lorence, 2014), and it has since been distributed and cultivated pantropically. The type specimen of the species was collected in Amboina, Moluccas, resulting in its species name amboinicus (Roux, 2003). 
+Plant Type
+Herbaceous
+Perennial
+Seed propagated
+Shrub
+Vegetatively propagated
+Summary of Invasiveness
+P. amboinicus is an aromatic herb listed in the Global Compendium of Weeds (Randall, 2012) as “cultivation escape, environmental weed, naturalised, weed” and is known to be invasive outside of its native range including Cuba (Oviedo Prieto et al., 2012) and the Pacific Islands (PIER, 2014). The species reproduces both by seeds and vegetatively (Wagner and Lorence, 2014) and forms dense carpets in shaded dry forest (PIER, 2014). It is considered a common weed in South Africa (Roux, 2003). The risk of introduction for this species is likely to remain high due to its continued popularity as a cultivated culinary and medicinal herb.
+Description
+Sprawling and somewhat succulent aromatic herb to 1 m high, sometimes subligneous and prostrate at base, the branchlets ascending, densely spreading-hirsute. Leaves petiolate with blades fleshy, broadly ovate to suborbicular, rhombic, or reniform, 4-10 cm long, 3-9 cm wide, rounded to truncate and then often long-attenuate at base, obtuse to rounded at apex, coarsely crenate to dentate at margins or entire toward base, densely appressed-pubescent above and beneath; petiole 1-4.5 cm long. Flowers terminal, spicate, 10-20 cm long, densely pubescent, the verticils 10-20(or more)-flowered, subglobose, the bracts 3-4 mm long, hirsute and glandular; pedicels slender, hirsute, to 5 mm long; calyx campanulate, 1.5-4 mm long, hirsute and glandular, the upper lip erect, broadly ovate-oblong, the other teeth narrow, acute; corolla pale blue or mauve to pink, 8-12 mm long, the tube declinate, 3-4 mm long, expanding distally, pubescent without, the upper lip to 4.5 mm long, 3 mm wide, erect, puberulent, the lower lop to 5-6 mm long, 4 mm wide, concave; stamens with filaments mostly fused into a tube around the style. Fruit nutlets smooth, pale brown, ca. 0.7 mm long, 0.5 mm wide. [Wagner and Lorence, 2014]
+In the USA, the species occurs as a perennial shrub (USDA-NRCS, 2014).
+List of Pests
+Host of (source-data mining):
+Spodoptera litura (taro caterpillar)
+Distribution
+The origin of P. amboinicus is unknown, but it may be native to Africa and possibly India (Wagner and Lorence, 2014). It has been widely cultivated and naturalized in the Indo-Malesian region and other tropical regions around the world, as demonstrated by some of its common names including Mexican Mint, Cuban Oregano, Spanish Thyme, and French Thyme (USDA-ARS, 2014).
+According to Roux (2003), it occurs naturally in Africa from Kenya southwards to Angola in the west and, in the east, to Mozambique, Swaziland and northern Natal.
+Although it is known to be cultivated in South America, the species was not included in Funk et al.’s (2007) work on the Guiana Shield or the Brazilian flora of Forzza et al. (2010).
+History of Introduction and Spread
+The origin of P. amboinicus is thought to be tropical Africa, from whence it was introduced into India and then various parts of Asia by early explorers (Hanelt et al., 2001; Roux, 2003; Wyk, 2005; USDA-ARS, 2014; Wagner and Lorence, 2014).). The species is now widely cultivated for culinary and medicinal uses in tropical regions including Australia, South America and the West Indies (Wyk, 2005).
+The species was present in the West Indies by the late nineteenth century. It was growing in the Virgin Islands by 1881, Puerto Rico by 1886, Guadeloupe by 1892, Jamaica by 1897, and Cuba by 1912 (Smithsonian Herbarium collections).
+Risk of Introduction
+Risk of introduction for P. amboinicus is high, as the species is listed in the Global Compendium of Weeds as weedy and an environmental weed (Randall, 2012), and is known to be invasive outside of its native range including Cuba (Oviedo Prieto et al., 2012) and the Pacific Islands (PIER, 2014). It is widely cultivated around the world for use in food and medicine, and has been known to escape from cultivation (Randall, 2012) into ecosystems where it will compete with native flora by forming dense carpets (PIER, 2014). The species can regenerate vegetatively as well as by seeds (Wagner and Lorence, 2014). It is shade tolerant (PIER, 2014). It is considered a common weed in South Africa (Roux, 2003). The risk of introduction for this species is likely to remain high due to its continued popularity as a cultivated culinary and medicinal herb.
+Means of Movement and Dispersal
+P. amboinicus has spread to most tropical parts of the world through intentional human introduction for cultivation. Accidental introduction to the wild has also occurred; the species can regenerate by both seeds and vegetative fragments, and is known to be a cultivation escape (PIER, 2014). Plectranthus species are also used for dry season fodder (Lukhoba et al., 2006), which might also result in further spread.
+Similarities to Other Species/Conditions
+This species has many vernacular names, most of them inaccurately associating P. amboinicus as a mint, thyme, or oregano. P. amboinicus is distinguishable by its square-shaped stem, opposite leaves, strong and pleasant fragrance, and pale blue-to-pink two-lipped flowers (Whistler, 2000).
+Habitat
+P. amboinicus is cultivated in gardens and commercial agricultural settings. In Africa it is found at low altitudes in woodland or coastal bush, on rocky slopes and loamy or sandy flats (Roux, 2003). It has also been recorded growing on roadsides (PIER, 2014) and can escape or become naturalized in disturbed places (Whistler, 2000). In Bolivia the species is cultivated in semideciduous forest (Bolivia Checklist, 2014). 
+Biology and Ecology
+P. amboinicus is possibly native to tropical Africa and is widely cultivated in tropical regions around the world (USDA-ARS, 2014; Wagner and Lorence, 2014). It is known to grow in rocky, loamy or sandy soil (Roux, 2003). The species is tolerant of some shade (PIER, 2014), preferring fertile, well-drained soils in partially shaded areas (Whistler, 2000). P. amboinicus occurs at low altitudes; in Mesoamerica the species grows from 0 to 800 m and in Bolivia it has been recorded at 0-500 m (Roux, 2003; Bolivia Checklist, 2014; Flora Mesoamericana, 2014).
+Impact: Environmental
+P. amboinicus is known to be invasive in the Virgin Islands, Cuba, and various parts of the Pacific (see Distribution Table), and has a negative impact on ecosystems it has invaded. It competes with native flora by forming dense thickets (PIER, 2014) and can regenerate both vegetatively and by seed (Whistler, 2000; Wagner and Lorence, 2014). It can tolerate a range of soil conditions, shade, and moisture (Whistler, 2000). 
+Risk and Impact Factors
+Invasiveness
+Proved invasive outside its native range
+Abundant in its native range
+Highly adaptable to different environments
+Tolerates, or benefits from, cultivation, browsing pressure, mutilation, fire etc
+Tolerant of shade
+Long lived
+Has high reproductive potential
+Has propagules that can remain viable for more than one year
+Reproduces asexually
+Impact outcomes
+Monoculture formation
+Soil accretion
+Impact mechanisms
+Competition - monopolizing resources
+Competition (unspecified)
+Likelihood of entry/control
+Highly likely to be transported internationally deliberately
+Uses
+P. amboinicus is widely cultivated as a medicinal plant, potherb, ornamental, and condiment in tropical regions around the world. The aromatic leaves are used as a food additive or spice, flavouring meat, soups, fish, and local beer (Hanelt et al., 2001; Wyk, 2005). The leaves are also eaten as a vegetable, as well as for washing clothes, hair, and laundry due to its fragrance (Whistler, 2000; Wyk, 2005; Lukhoba et al., 2006). The herb is used as a folk remedy for burns and bites, internally as a carminative and antiasthma, and applied externally as an insect repellant, and is also often grown as an ornamental plant for its attractive leaves and flowers (Whistler, 2000; Hanelt et al., 2001). Plectranthus species are also used for dry season fodder (Lukhoba et al., 2006).
+In Brazil, the species is often grown in subsistence agriculture (Wyk, 2005). It is used medicinally in Brazil for the treatment of skin ulcerations caused by Leishmania braziliensis, in Malaysia to treat burns and as a poultice for centipedes and scorpion bites, and in India, the juice of the leaves is used to treat skin allergies (Lukhoba et al., 2006). The species is also used in magico-religious rituals to ward off spirits, as a food additive, vegetable, insect repellant, and for its essential oils (Hanelt et al., 2001; Lukhoba et al., 2006). P. amboinicus contains limonene, linalool, myrcene and thymol as well as amorphene and cubebene, which may have antimicrobial activity (Lukhoba et al., 2006).
+Uses List
+General > Ritual uses
+Materials > Essential oils
+Materials > Pesticide
+Medicinal, pharmaceutical > Source of medicine/pharmaceutical
+Medicinal, pharmaceutical > Traditional/folklore
+Human food and beverage > Spices and culinary herbs
+Human food and beverage > Vegetable
+Animal feed, fodder, forage > Fodder/animal feed
+Ornamental > Potted plant
+Gaps in Knowledge/Research Needs
+Further research is recommended on control of the species. Since it is a popular and widely used herb, it may continue to escape cultivation and invade native ecosystems.

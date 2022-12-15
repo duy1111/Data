@@ -1,0 +1,152 @@
+Guava
+
+Clinical Overview
+Use
+Clinical trials are lacking to recommend the use of guava for any indication. Very limited evidence exists for guava's use in treating diarrhea, type 2 diabetes, dysmenorrhea, hyperlipidemia, and hypertension.
+
+Dosing
+Limited clinical trials are available to recommend use or guide dosage recommendations.
+
+Diarrhea: Capsules containing 500 mg of a phytodrug developed from guava leaves (standardized concentration of flavonoids [estimated as 1 mg of quercetin per 500 mg]) every 8 hours for 3 days was used in one clinical trial of adults with acute diarrheic disease; 10 mL of Psidium guajava tincture dissolved in water taken every 8 hours has also been used in a study of adults with acute diarrhea.
+
+Dysmenorrhea: 6 mg/day of a guava leaf extract (standardized to 6 mg of flavonol per day) for 4 months was used to decrease menstrual pain intensity in a study of patients with primary dysmenorrhea.
+
+Hyperlipidemia and hypertension: 0.4 to 1 kg/day of guava fruit added to the diet for 4 to 12 weeks has been studied in healthy individuals and in patients with hypertension. Guava leaf tea 200 mL with every meal for 8 weeks was evaluated in a clinical study of subjects with hypercholesterolemia.
+
+Contraindications
+Specific contraindications have not been identified; however, hypersensitivity should be considered a contraindication.
+
+Pregnancy/Lactation
+Information regarding safety and efficacy in pregnancy and lactation is lacking.
+
+Interactions
+None well documented.
+
+Adverse Reactions
+No serious adverse reactions have been reported in limited clinical trials.
+
+Toxicology
+No data.
+
+Scientific Family
+Myrtaceae (myrtle)
+Botany
+P. guajava is a large evergreen shrub or small tree that grows up to 15 m in height. It is native to and widely distributed in Mexico and Central America and is common throughout all warm areas of tropical America and the West Indies. The plant is cultivated from Asia to the west coast of Africa, with varieties introduced over the past 300 years to the United States. The guava berry, also known as guava, is an important tropical fruit that is primarily consumed fresh. The berry contains several small seeds and consists of a fleshy pericarp and seed cavity with pulp.(Pérez Gutiérrez 2008, USDA 2021)
+
+History
+The young leaves of the plant have been used as a tonic to treat digestive conditions such as dysentery and diarrhea in the indigenous medical systems of Brazil and Mexico. Mexican medicinal data document the treatment of acute diarrhea, flatulence, and gastric pain by using a guava leaf water decoction for oral administration 3 times daily. A decoction of young leaves and shoots has been prescribed as a febrifuge and a spasmolytic. In Bolivia and Egypt, guava leaves have been used to treat cough and pulmonary diseases; they have also been used to treat cough in India and as an anti-inflammatory and hemostatic agent in China.
+
+Guava bark has been used medicinally as an astringent and to treat diarrhea in children, while the flowers have been used to treat bronchitis and eye sores and to cool the body. The fruit has been used as a tonic and laxative and for treatment of bleeding gums. The plant has been used in Africa and Asia to prevent and treat scurvy and to treat hypertension in western Africa. Ethnomedicinal reports document use of the plant in treating malaria. Scientific investigations of the medicinal properties of guava leaf products date back to the 1940s.
+
+Pakistan, India, Brazil, and Mexico are the major commercial producers of guava fruit. Hawaii is the largest producer in the United States. Processed guava products include beverages, cheese, ice cream, jams, jellies, juice, syrup, toffee, wine, and dehydrated and canned products.(Olajide1999, Pérez Gutiérrez 2008)
+
+Chemistry
+Phytochemical analyses of guava leaf reveal alkaloids, anthocyanins, carotenoids, essential oils, fatty acids, flavonoids (especially quercetin), lectins, phenols, saponins, tannins, triterpenes, and vitamin C (80 mg per 100 g of guava).(Begum 2002a, Begum 2002b, Chen 2010a, Ghosh 2010, Latza 1996, Metwally 2010, Olajide1999)
+
+The essential oil contains alpha pinene, caryophyllene, cineol, D-limonene, eugenol, and myrcene. The major constituents of the volatile acids include (E)-cinnamic acid and (Z)-3-hexenoic acid.(Conde 2003, Latza 1996) The guava fruit has a high water content with lesser amounts of carbohydrates, proteins, and fats. The fruit also contains iron, vitamins A and C, thiamine, riboflavin, niacin, and manganese. The characteristic fruit odor is attributed to carbonyl compounds. Unripe fruits are high in tannins. The major constituent of the fruit skin is ascorbic acid, which is largely destroyed by canning and processing.(Pérez Gutiérrez 2008)
+
+The bark of the plant contains tannins (12% to 30%) and calcium oxalate crystals, while the seeds contain glycine-rich proteins, starch, and phenolic and flavonoid compounds.(Pelegrini 2008, Pérez Gutiérrez 2008)
+
+Uses and Pharmacology
+Anti-inflammatory activity
+In vitro data
+Guava leaf extracts have been evaluated in vitro in models of allergy and inflammation.(Choi 2008, Han 2011, Ojewole 2006, Pérez Gutiérrez 2008)
+
+Clinical data
+A double-blind, placebo-controlled, parallel pilot study (N=53) evaluated the effects of guava leaf extract 1 g daily for 12 weeks on knee pain and stiffness according to Japanese Knee Osteoarthritis Measure (JKOM) scores. No difference was found for JKOM scores between guava leaf extract and placebo; the intervention group reported decreased pain based on visual analog scale scores.(Kakuo 2018)
+
+Antimicrobial activity
+In vitro data
+Leaf and bark extracts have demonstrated in vitro antimicrobial activity, mostly associated with flavonoids such as morin glycosides, quercetin, and quercetin glycosides.(Arima 2002, Chah 2006, Qadan 2005) Activity has been demonstrated against a wide range of gram-positive and gram-negative human pathogens, including Escherichia coli, Vibrio cholera, Giardia lamblia, and Shigella species, as well as Staphylococcus aureus and Pseudomonas aeruginosa.(Abdelrahim 2002, Anas 2008, Birdi 2010, Brandelli 2009, Deo 2003, Ghosh 2010, Metwally 2010, Pelegrini 2008, Pérez Gutiérrez 2008, Rahim 2010)
+
+Clinical data
+Clinical studies have evaluated guava leaf extract as a mouthwash with antibacterial and antiplaque activity. In a small clinical study (N=48), subjects receiving 200 g/day of guava fruit and refraining from oral hygiene measures (n=16) experienced a preventive effect on the development of experimental gingivitis.(Amaliya 2018) A similar study noted antimicrobial efficacy lower than the comparator (chlorhexidine 0.2% mouth rinse) but greater than placebo.(Nayak 2019) In a study that investigated and compared mouthwashes prepared from various fruit extracts (including mouthwash prepared from guava extract, 15 mL twice daily) in school children, the aqueous extracts demonstrated acceptable antibacterial efficacy against oral streptococci.(Singla 2018)
+
+Antisebum activity has been demonstrated in a small clinical study (N=10) using guava leaf extract (up to 6% as a toner); although suggested applications include use in acne, no antimicrobial or other tests were performed.(Pongsakornpaisan 2019)
+
+Antioxidant activity
+In vitro data
+Aqueous extracts from P. guajava have antioxidant or radical scavenging activity; most activity is associated with polyphenols; however, guava extracts also contain antioxidants, such as ascorbic acid and carotenoids.(Jimenez-Escrig 2001, Qian 2004, Yamashiro 2003)
+
+Cancer
+In vitro data
+Guava leaf extracts, leaf oil, seed, and whole plant extracts have been evaluated for potential chemotherapeutic applications. Activity has been demonstrated against various human cancer cell lines including prostate, colon, and epidermal cancers, as well as leukemia and melanoma.(Chen 2007, Chen 2010a, Kawakami 2009, Manosroi 2006, Pérez Gutiérrez 2008)
+
+Cardiovascular effects
+Animal and in vitro data
+In an animal model, a water-alcohol extract of P. guajava depressed guinea pig atrial contractility in a concentration-dependent manner. The negative inotropic effect of the extract was blocked by atropine sulfate. In hypertensive rats, intravenous administration of guava leaf aqueous extracts produced a dose-dependent reduction in systemic arterial blood pressure and heart rate.(Conde 2003, Ojewole 2005) The effect of guava leaf extract on isolated vascular smooth muscle and aortic rings has also been evaluated.(Chiwororo 2008, Olatunji-Bello 2007)
+
+Clinical data
+The addition of guava fruit at various dosages (0.4 to 1 kg daily) for up to 12 weeks or single administration of guava fruit juice 500 mL has resulted in decreased systolic and diastolic blood pressure in several clinical studies.(Rahmat 2004, Singh 1992, Singh 1993, Thaptimthong 2016)
+
+CNS effects
+Animal data
+Quercetin has induced a reduction in acetylcholine-evoked release. The mechanism of action may be associated with an interaction with presynaptic calcium channels. In animal models, P. guajava extracts exhibited dose-dependent antinociceptive effects in chemical and thermal tests of analgesia in mice. In one study, the antinociceptive effect of P. guajava extracts was similar in potency to the nonsteroidal anti-inflammatory drug mefenamic acid and 10 times less potent than the opioid analgesic morphine.(Kumari 2013, Lutterodt 1988, Pérez Gutiérrez 2008, Shaheen 2000)
+
+Diabetes
+Animal and in vitro data
+Extracts of guava bark, leaves, and fruit containing tannins, flavonoids, triterpenes, and quercetin have been evaluated in rats with induced diabetes. In some, but not all, experiments, no effect was observed in either normal rats or normal glucose-loaded rats. A polyphenolic effect may be responsible for the observed inhibition of LDL glycation.(Chen 2010b, Diaz 2017, Pérez Gutiérrez 2008, Rai 2009, Shen 2008) Inhibition of protein tyrosine phosphatase 1B,(Oh 2005) as well as increased glucose uptake in rat hepatocytes, has also been described.(Cheng 2009)
+
+Extracts of guava are reported to inhibit sodium-dependent glucose cotransporter 1 (SGLT1)− and glucose transporter 2 (GLUT2)−mediated glucose transport in mice.(Muller 2018)
+
+Clinical data
+Limited evidence from a few clinical trials suggests guava fruit(Bakr 1997) and leaf tea extracts may be of benefit in type 2 diabetes.(Deguchi 2010, Owen 2008, Pérez Gutiérrez 2008, Soman 2010) Lower reductions in postprandial serum glucose levels compared with chlorpropamide and metformin have been demonstrated, and inhibition of alpha-glucosidase enzymes has been suggested to play a role in the mechanism of action.(Deguchi 2010)
+
+In a small double-blind, randomized clinical study of young healthy adults (N=31), a reduction in postprandial glucose response was observed after 30 and 90 minutes in the group receiving a glucose solution containing guava fruit extract as an oral glucose tolerance test versus the control group (usual glucose solution). A nonsignificant reduction in insulin secretion was also observed.(Konig 2019)
+
+Diarrhea
+Animal and in vitro data
+Guava leaf extracts decreased spasms associated with induced diarrhea in rodents. Reduced defecation, reduced severity of diarrhea, and reduced intestinal fluid secretion have also been demonstrated.(Lozoya 2002, Lutterodt 1992, Morales 1994, Ojewole 2008, Olajide 1999, Pérez Gutiérrez 2008, Zhang 2003) Activity is generally associated with the ability of quercetin and its derivatives to affect smooth muscle fibers via calcium antagonism, inhibit intestinal movement, and reduce capillary permeability in the abdominal cavity.(Lozoya 2002, Zhang 2003) In vitro studies suggest leaf and bark extracts are bactericidal against a range of pathogens causative of diarrhea.(Pérez Gutiérrez 2008)
+
+Clinical data
+Data from controlled clinical trials regarding bactericidal activity against pathogens causative of diarrhea are limited, and few of the trials have been published in peer-reviewed journals. Trials have evaluated guava leaf extract in infantile viral enteritis,(Lozoya 2002) infectious gastroenteritis,(Wei 2000) and acute diarrhea,(Pérez Gutiérrez 2008) with improvement in outcome measures including number of daily stools, time to cessation, stool composition, and abdominal pain and spasms for P. guajava–treated patients.
+
+Dysmenorrhea
+Animal and in vitro data
+An in vitro study using uterine tissue from rats demonstrated a spasmolytic effect of guava leaf extract. Activity is postulated to be due to an estrogenic effect of the flavonoids or to anti-inflammatory effects.(Chiwororo 2009)
+
+Clinical data
+In a study of 197 women with primary dysmenorrhea, significant decreases in menstrual pain intensity were reported after 4 months of guava leaf extract 6 mg/day (standardized to 6 mg of flavonol content per day).(Daswani 2017, Pérez Gutiérrez 2008) A Cochrane systematic review and meta-analysis of dietary supplements for dysmenorrhea identified only low- or very low−quality studies with very small sample sizes. No consistent evidence of effectiveness was found for guava in the treatment of primary dysmenorrhea compared with placebo or no treatment; however, no difference was identified between guava extract 3 mg and 6 mg compared with ibuprofen 400 mg (1 randomized clinical trial; N=155).(Pattanittum 2016)
+
+Hypolipidemic effects
+Animal data
+Hypolipidemic activity has been demonstrated in rats administered raw guava fruit peel.(Rai 2010)
+
+Clinical data
+Limited evidence from a few clinical trials suggests that the addition of guava fruit or guava leaf tea to the diet can improve lipid profile. Trials with fruit were conducted with a range of doses (0.4 to 1 kg/day) and durations (from 4 to 12 weeks).(Deguchi 2010, Rahmat 2004, Singh 1992, Singh 1993)
+
+Wound healing
+Animal data
+Sooner reductions in swelling and earlier scar formation of surgical incisions have been documented in mice treated topically with 100% guava leaf extract compared to those treated with povidone iodine or placebo.(Delorino 2020)
+
+Dosing
+Guava is commercially available in capsules, liquids, powders, and tablets. The authors of a study using a guava fruit extract observed a negative influence of storage time and repeated freeze-thawing operations on the reparation efficacy.(Konig 2019)
+
+Limited clinical trials are available to recommend use or guide dosage recommendations.
+
+Diarrhea
+Capsules containing 500 mg of a phytodrug developed from guava leaves (standardized concentration of flavonoids [estimated as 1 mg of quercetin per 500 mg]) every 8 hours for 3 days was used in one clinical trial of adults with acute diarrheic disease(Lozoya 2002); 10 mL of P. guajava tincture dissolved in water taken every 8 hours has also been used in a study of adults with acute diarrhea.(Pérez Gutiérrez 2008)
+
+Dysmenorrhea
+6 mg/day of a guava leaf extract (standardized to 6 mg of flavonol per day) for 4 months was used to decrease menstrual pain intensity in a study of patients with primary dysmenorrhea.(Pérez Gutiérrez 2008)
+
+Hyperlipidemia and hypertension
+0.4 to 1 kg/day of guava fruit added to the diet for 4 to 12 weeks has been studied in healthy individuals and in patients with hypertension.(Rahmat 2004, Singh 1992, Singh 1993) Guava leaf tea 200 mL with every meal for 8 weeks was evaluated in a clinical study of subjects with hypercholesterolemia.(Deguchi 2010)
+
+Pregnancy / Lactation
+Information regarding safety and efficacy in pregnancy and lactation is lacking.
+
+Interactions
+Case reports of interactions are lacking.
+
+A small clinical study noted that 500 mL of freshly prepared guava juice attenuated ex vivo collagen−induced platelet aggregation. Clinical data is lacking.(Thaptimthong 2016)
+
+Adverse Reactions
+No serious adverse reactions have been reported in patients taking guava extracts. Constipation was reported by a small percentage of patients in 1 study.(Lozoya 2002, Pérez Gutiérrez 2008)
+
+Toxicology
+Acute toxicity tests in rats and mice have found the median lethal dose of guava leaf extracts to be more than 5 g/kg. In vitro genotoxicity and mutagenicity tests on P. guajava in human peripheral blood lymphocytes found no disturbances in cell division or hemolysis.(Anas 2008, Jaiarj 1999, Pérez Gutiérrez 2008, Roncada 2004)
+
+Despite experiments suggesting hepatoprotective effects,(Pérez Gutiérrez 2008, Rai 2009, Sambo 2009) intraperitoneal administration of ethanolic leaf extracts in rats has resulted in increases in serum liver enzymes, an effect that may be dose dependent.(Adeyemi 2011, Pérez Gutiérrez 2008, Sambo 2009) No histological evidence of hepatotoxicity has been observed.(Pérez Gutiérrez 2008)
+
+References

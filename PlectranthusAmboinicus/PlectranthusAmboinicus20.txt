@@ -1,0 +1,47 @@
+Plectranthus amboinicus leaves stimulate growth of probiotic L. plantarum: Evidence for ethnobotanical use in diarrhea
+
+Abstract
+Ethnopharmacological relevance
+Leaves of Plectranthus amboinicus are consumed in India along with buttermilk (a probiotic source) during pathogen induced diarrhea. This treatment is known to reduce the number of episodes as well as duration of diarrhea.
+
+Aim of the study
+In the background of its ethnobotanical use, the present investigation was carried out to determine whether, apart from having an antimicrobial activity on pathogens, the leaves could possibly also have a positive effect on the beneficial microflora of the gut resulting in accelerated microbial ecological balance.
+
+Materials and methods
+The growth stimulating activity of the hot water extract (HWE) of P. amboinicus leaves on probiotic Lactobacillus plantarum was determined by microbroth dilution technique and viable plate count method in selective medium (MRS) as well as in fermented milk. The ability of the bacteria to utilize the phytoconstituents of HWE primarily phenolic acids and sugars was determined by assaying for phenolic acid decarboxylase by SDS-PAGE and β-galactosidase activity by β-gal ONPG assay.
+
+Results
+HWE of P. amboinicus leaves inhibited growth of pathogens (Escherichia coli and Salmonella typhimurium) while stimulated the growth of L. plantarum. SDS-PAGE gel showed the presence of phenolic acid decarboxylase enzyme induced in the presence of HWE in L. plantarum indicating the utilization of polyphenols by the bacteria. Cells grown on HWE also showed β-galactosidase activity indicating their ability to utilize sugars present in HWE.
+
+Conclusion
+Indian borage leaves have a prebiotic effect on the probiotic bacteria (L. plantarum) which utilizes the phytoconstituents of the leaves by producing necessary metabolic enzymes. This work provides evidence in the traditional use of the leaves in the alleviation of diarrhea by accelerating microbial gut balance during infection.
+
+Graphical abstract
+
+Download : Download high-res image (168KB)Download : Download full-size image
+
+Introduction
+Plectranthus amboinicus (Lour.) Spreng also called Indian borage is a member of the family Lamiaceae (Kirtikar and Basu, 1999). The herb is widely used in India for culinary purposes as well as for their medicinal properties. The leaves of the plant are often eaten raw, are used as flavoring agents or incorporated as ingredients in the preparation of traditional food. The chopped leaves are also used as substitute for sage (Salvia officinalis) in stuffings (Khare et al., 2011). It finds place in many households in India as a medicinal plant. A decoction of its leaves is used in treatment of respiratory disorders like asthma and cough and also popular in the treatment of digestive diseases like dyspepsia (Jain and Lata, 1996), dysentery, diarrhea (Sivarajan and Balachandran, 2006, Dash and Padhy, 2006, Rout et al., 2012), colitis (Soni and Singhai, 2012), and as a carminative in India and Africa (Morton, 1992, Gurib-Fakim et al., 1996). Many pharmacological properties such as to prevent urolithiasis,antiepileptic, antitumorogenic, antimutagenic, radioprotective, neuropharmocological and antimicrobial have also been reported for its leaves. The leaves have been reported to have an inhibitory effect on both Gram positive and Gram negative organisms as well as methicillin resistant Staphylococcus aureus (Gurgel et al., 2009, Chandrappa et al., 2010, Bhatt and Negi, 2012).
+
+Phytochemical profiling for the active constituents in the leaves has shown the presence of chlorogenic, caffeic, coumaric and rosmarinic acid (Kumaran and Karunakaran, 2007, Rasineni et al., 2008). Carvacrol, thymol, β-caryophyllene, α-humulene, γ-terpinene, ρ-cymene, α-terpineol, and β-selinene have been identified as the volatile constituents in the essential oil fraction of the leaves (Murthy et al., 2009, Senthilkumar and Venkatesalu, 2010). A detail description on the phytochemistry of the plant is discussed in a review by Khare et al. (2011) and Rout et al. (2012)
+
+In India, the leaves of P. amboinicus are consumed along with buttermilk, yogurt etc. (probiotic sources) during pathogen induced diarrhea. In the background of its ethnobotanical use, the aim of the present investigation was to evaluate whether the leaves and its phytoconstituents especially polyphenols could inhibit growth of selected food pathogens and at the same time have a positive effect on the growth and metabolism of probiotic Lactobacillus plantarum, a representative organism of the gut flora.
+
+Section snippets
+Plant material and extraction
+The leaves of P. amboinicus were collected from the campus of CSIR-Central Food Technological Research Institute (CFTRI), Mysore, India. The plant material was identified by Mr. A. S. Chauhan, Scientist, Fruit and Vegetable Technology Department, CFTRI, Mysore, and a specimen voucher was deposited in the Institution departmental herbarium (FVT DH no. LGMGHCC-PA-8/2011). The hot water extract (HWE) of the leaves was prepared by a method described by Kumaran and Karunakaran (2006).
+
+Bacterial strains and media
+The strains
+
+Effect of HWE on growth of E. coli, S. typhimurium and L. plantarum
+The effect of HWE was studied on E. coli; an opportunistic pathogen, S. typhimurium; an enteropathogen and L. plantarum; a probiotic. These microorganisms were chosen as candidates to investigate whether P. amboinicus leaves have an antimicrobial property against pathogens while at the same time may have a prebiotic effect on beneficial microbes like L. plantarum. The study was carried out using the MTT assay. This assay is based on a linear relationship between the number of viable bacteria
+
+Discussion
+Plethora of information on the antimicrobial property of Indian borage is available (Lukhoba et al., 2006, Wellsow et al., 2006) but its effect on beneficial microorganisms is not reported. Leaves of P. amboinicus are consumed in India along with buttermilk (a probiotic rich source; Agrawal and Bhasin, 2002) during pathogen induced diarrhea. This treatment is known to reduce the number of episodes as well as duration of diarrhea. In the background of its ethnobotanical use, it was hypothesized
+
+Conclusion
+Hot water extract of Indian borage leaves stimulates growth of L. plantarum and inhibits growth of selected foodborne pathogens. It has possible prebiotic effects on the probiotic bacteria which utilizes the phytoconstituents of P. amboinicus leaves by producing necessary metabolic enzymes. L. plantarum produced phenolic acid decarboxylase and β-galactosidase and utilized the polyphenolic and sugar component respectively of HWE. The work provides evidence in the traditional use of the leaves
+
+Acknowledgments
+The authors would like to thank the Director, CSIR-CFTRI for his encouragement and Science and Engineering Research Board (SERB), DST, New Delhi, India (Grant no. SR/FT/LS-63/2012) for financial support.

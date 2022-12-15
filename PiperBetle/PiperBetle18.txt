@@ -1,0 +1,337 @@
+Phytotoxic effects of Piper betle L. extracts on germination of
+Eclipta prostrata L. and Chloris barbata Sw. weeds 
+
+ABSTRACT
+Weeds are the major problem in agricultural crop fields. To control weeds
+nowadays, tremendous hazardous herbicides have been applied into fields, causing harm to
+farmers, consumers and environment. Alternatively, nature products have been evaluating for
+allelopathic property and using as clean weed management. In this work, the effect of betel
+extracts on weed germination was investigated and their potential allelochemicals were
+identified. Betel oil, hexane, dichloromethane (DCM), ethanol (EtOH) and ethyl acetate
+(EtOAc) crude extracts were derived from Piper betle leaf. The chemical constituents of the
+extracts were determined using Gas chromatography/Mass spectrometry (GC/MS). Then, the
+extracts were applied to 2 species of weeds, a broadleaf (Eclipta prostrata L.) and a
+narrowleaf (Chloris barbata Sw.), and 3 crop species (Oryza sativa L., Lactuca sativa L. and
+Brassica alboglabra L.H. Bailey) on filter paper. The results demonstrated that yields of oil,
+hexane, DCM, EtOAc and EtOH extracts were 0.25%, 1.86%, 8.14%, 11.21% and 9.57%
+respectively. All extracts contained mainly phenylpropanoids approximately 65% and
+sesquiterpenoids approximately 13% including β-caryophyllene. All betel extracts had
+allelopathic effect with different activities. Betel oil at 1 mg/mL was suitable for weed
+control, since it had a slight effect on crops, but completely inhibited germination of weeds.
+Hexane extract at 0.5 mg/mL significantly inhibited weeds germination with a little effect on
+crops germination. EtOH extract and EtOAc extract at 1 mg/mL unaffected crop
+germination, but totally inhibited weed germination. Taken together, EtOH and EtOAc were
+the choice of solvents for betel extraction for weed control. These extracts had high recovery
+yields and had selective action only to weeds without crops interference. Interestingly, the
+extracts affected more to the narrowleaf weed, the main problem in paddy, than to the
+broadleaf. The finding suggested P. betle as a potential source of natural herbicide.
+Keywords:Piper betle L., Allelopathy, weed control, betel extracts, natural herbicide
+INTRODUCTION
+Weeds are defined as useless plants in agricultural fields. They are the main
+problem for agriculture everywhere worldwide. They reduce the productivity of
+economic crops. In order to get rid of weeds, farmers must depend on synthetic
+chemical herbicides which are hazardous compounds. In 2014 farmers spent plenty 
+12 NU. International Journal of Science 2015; 12(1) : 11 – 24
+of money about 11,294 million bath for herbicides imported from United State of
+America (Office of Agricultural Economics, 2014). Moreover, those toxic
+compounds make a lot of problems to users, consumers and environment. They
+deposit in land and run to river. To avoid toxicity of chemical herbicides, natural
+ones were considered as an alternative clean way. Moreover, natural products also
+alleviate weed tolerance due to commercial herbicide. The natural products with
+allelopathic property have the ability to control other plant germination and growth.
+This ability is from allelochemicals in the plant. Many works have been studied on
+plant extracts and allelochemicals. The Juniperus oxycedrus L. sub sp. Macrocarpa
+oil completely inhibited seed germination and seedling growth of 3 common weeds:
+Phalaris paradoxa, Trifolium campestre and Lolium rigidum (Amri, Hamrouni et al
+2011). Water extract of sunflower (Helianthus annuus L.) could affect noxious weed
+spp. such as H. spontaneum, L. rigidumand A. retroflexus (Nikneshan, Karimmojeni
+et al 2011). Pine oil (Thuja orientalis L.) that contained terpenoids inhibited seed
+germination and seedling growth of weeds Sinapis arvensis L., Phalaris paradoxa
+L. and Lolium rigidum Gaud. (Ismail, Mohsen et al 2014). The crude ethyl acetate
+extract of Suregada multiflorum Baill inhibited seed germination and seedling
+growth of weeds Amaranthus tricolor (Armradit P, Chotsang P et al. 2008).
+Interestingly, plants in Piperaceae family also had allelopathic activity. The
+methanolic extract of Piper samentosum Roxb. 0.01 g/mL inhibited seedling growth
+of Medicago sativa L. (Pukclai and Kato-Noguch 2011). The powder of Kava (Piper
+methylsticum L.) inhibited seed germination of Lectuca sativa L. and paddy weeds
+(Echinochloa crus-galli) and Monochoria vaginalis Presl. (Hong, Xuan et al. 2002).
+The allelochemicals in extracts was identified and reported (Amri, Hamrouni et al.
+2013). β-Caryophyllene at  3.0 mg/L significantly inhibited the germination rates
+and seedling growth of Brassica camperstris and Raphanus sativus (Wang, Peng et
+al. 2009).
+Piper betle L. is a perennial dioecious, climber. It belongs to the family
+Piperaceae, commonly known as “Plu”. It is extensively grown in South East Asian
+countries including Thailand. Their leaves and fruits possess a strong pungent and
+aromatic flavor. It was widely used as medicinal ingredients in traditional Thai
+pharmacopoeia. The main active compounds in P.betle were phenylpropanoids and
+particularly sesquiterpenes (Choopayak C, Laksuk H et al. 2011).
+The objective of this study was to determine the phytotoxic effect of oil,
+hexane, dichloromethane, ethyl acetate and ethanol extracts of P.betle on seed
+germination of Chloris barbata Sw. and Eclipta prostrata L. weeds, and Oryza
+sativa L., Lactuca sativa L. and Brassica alboglabra L.H. Bailey crops. Moreover,
+the chemical constituents in the betel extracts were determined. The gained
+knowledge would promote the better understanding of allelopathic mechanisms in
+plants.
+NU. International Journal of Science 2015; 12(1) : 11 –24 13
+MATERIALS AND METHODS
+PLANT MATERIALS
+The leaves of P. betle were collected from Phitsanulok during February
+2015.
+Weeds collection and Identification
+The seeds of narrowleaf weed Chloris barbata Sw. “swallen fingergrass”
+and broadleaf weed Eclipta prostrata L. “false daisy” were collected from paddy in
+Sukhothai and Phitsanulok. The seeds were identified by plant taxonomist and
+voucher specimens were deposited at plant specimen collection room at Faculty of
+Science, Naresuan University. Before using, the seeds were incubated at 60 oC for
+3 days for breaking seed dormancy.Rice seeds (Oryza sativa L.) were provided from
+Phitsanulok rice seed center, Thailand. The seeds of Lactuca sativa L. “Lettuce” and
+Brassica alboglabra L.H. Bailey “Chinese Kale” were purchased from Chiatai,
+Thailand.
+EXTRACTION OF BETEL LEAF
+Essential oil extraction
+The betel fresh leaves were weighted to 1500 gram and then were blended
+by electronic blender to tiny pieces. The leaf was subjected to hydrodistillation for
+4 hr using a Clevenger type apparatus. The upper layer was partitioned with hexane.
+The solvent then was evaporated using rotary evaporator, anhydrous sodium sulfate
+and gas nitrogen. The oil was collected, weighted and stored at 4 oC in dark.
+Percentage of recovery yield (% yield) was calculated and reported as extracts
+weight to fresh-leaf weight.
+Solvent extraction
+The betel leaves were washed with tap water, dried at 40 oC for 3 days and
+grounded to rough powder. One hundred gram dried powder was incubated with 1 L
+of different solvents, including hexane, dichloromethane (DCM), ethyl acetate
+(EtOAc) and ethanol (EtOH) at 4 oC for 48 hr with interval shaking. Afterwards, the
+suspension was filtered through Whatman paper No.1. The filtrate was collected and
+evaporated with a rotary evaporator at 40 oC. The crudes were collected, weighted
+and stored at 4 oC in dark. Percentage of recovery yield (% yield) was calculated and
+reported as extracts weight to dried-leaf weight.
+COMPOUND COMPONENTS IDENTIFICATION IN EXTRACTS
+The betel oil and solvent extracts of were further analyzed for chemical
+components identification using Gas-chromatography/Mass spectrometry (GC/MS).
+The extracts were dissolved in ethanol at a ratio of 1:100 (v/v), filtered through
+0.2 M and then subjected to GC/MS (Perkin-Elmer Sigma-115). The analysis was
+carried out using HP-5MS, 19091S-433 column (30 m x 0.25 mm i.d.; film
+thickness 0.25 µm). The operating conditions were as follows: injector and detector
+temperatures, 150 and 280 C, respectively; carrier gas, helium; oven temperature
+program, 5 min isothermal at 40 C, then at 2 C/min up to 250 C and finally held
+isothermally for 20 min. The identity of components was established from their GC
+retention times, by comparison of their mass spectra with those reported in literature
+(Eight Peak Index of Mass Spectra) and by computer matching with the Wiley 5 
+14 NU. International Journal of Science 2015; 12(1) : 11 – 24
+mass spectra library, as well as, by co-injection with authentic available standards.
+The amount of compounds reported as percentage of area which represented the
+percentage of peak area of the compound to total compounds in each extract.
+ALLELOPATHIC ACTIVITY ASSAY
+Solvent toxicity on seed germination
+The solvent toxicity was tested on seed germination. Three solvents at
+various concentrations including dimethyl sulfoxide, (DMSO 0.2%), Tween 20
+(0.5% and 1.0%) and Tween 80 (0.1%, 0.5% and 1.0%) were tested in paper plates.
+Four mL of each solvent was added to Whatman No.1 paper in 9 cm petri dish.
+Distilled water was used as negative control. Afterwards, 30 seeds were placed on
+the paper and kept at 25 ±2°C, 12 hr photoperiod under cool-white fluorescent light
+(20 μmol m–2
+s
+–1
+). The number of germinated seeds was counted every day to 7 days.
+Seeds with minimal root length of 1 mm were considered as germinated seeds. The
+solvents which inhibited seed germination more than 70% comparing with seed
+germination in water were considered as toxic solvent. The non-toxic solvents were
+selected and used for betel extracts preparation. Experiments were conducted for
+three replications.
+Betel extracts solubility
+The crude extracts 1 mg/mL were tested for solubility in different solvents
+including 0.2% DMSO, 0.1% Tween 20, 0.5% Tween 20, 1.0% Tween 20, 0.1%
+Tween 80, 0.5% Tween 80 and 1.0% Tween 80. The solvents that could completely
+dissolve extracts were selected for betel extract dissolution.
+Bioassay
+Four mL of extracts at different concentrations (0.5, 1.0 and 2.0 mg/mL)
+was added to Whatman paper No.1 in glass petri dish (9 cm diameter). Distilled
+water was used as control of seed germination and solvents were used as negative
+controls of bioassay. Consequently, 30 seeds were placed on paper and incubated at
+25 ±2 °C and 12 hr photoperiod under cool-white fluorescent light (20 μmol m–2
+s
+–1
+).
+After 7 days of incubation, the number of seed germination was recorded.
+Experiments were conducted for 3 replications.
+STATISTICAL ANALYSIS
+All experiments were done for three replications. Data were subjected to
+analysis using Duncan’s New Multiple Range Test (DMRT) by SPSS Statistics
+version 17.0. The significant difference was at the 0.05 probability level.
+RESULTS AND DISCUSSION
+Extracts yield and chemical constituents in extracts
+The essential oil from the fresh leaf of P. betle leaf was transparent, lightyellowish liquid with pungent smell. For the solvent extracts, all were extracted
+from dried leaf. The extracts obtained were opaque semisolid with green or brown
+color. Dicholoromethane extract was dark brown; ethyl acetate extract was dark
+green, whereas hexane and ethanol extracts were light green. The yields of oil
+hexane, dichloromethane, ethyl acetate and ethanol extracts were 0.25%, 1.86%,
+8.14%, 11.21% and 9.57% (w/w) respectively (Table 1). 
+NU. International Journal of Science 2015; 12(1) : 11 –24 15
+Table 1.Yield and physical appearance of betel extracts
+Extracts Physical appearances % yield (w/w)
+Betel oil transparent, light-yellowish, liquid 0.25
+Hexane opaque, light green, semisolid 1.86
+Dichloromethane opaque, dark brown, semisolid 8.14
+Ethyl acetate opaque, dark green, semisolid 11.21
+Ethanol opaque, light green, semisolid 9.52
+Compounds components in extracts were identified by GC-MS. Main
+compounds were phenylpropanoids and terpenoids. The top-ten most of compounds
+in betel oil were shown in chromatogram and list in Figure1. The majority of
+compounds were phenylpropenoids approximately 65.9% including isoeugenol
+acetate (21.2%), eugenol (20.2%), 4-allylpyrocatechol diacetate (14.4%), transpropenyl guaiacol (4.8%), eugenol acetate (4.3%) and isoeugenol (1.0%). The
+second most ones were sesquiterpenoids approximately 13.2% including βcaryophyllene (6.8%), α-humulene (2.4%), α-gurjunene (2.3%) and δ-cadinene
+(1.7%) (Figure1).
+
+16 NU. International Journal of Science 2015; 12(1) : 11 – 24
+Figure 2. Main compounds found in betel oil were phenylpropanoids and
+sesquiterpenoids.
+The kind of compounds found in betel solvent extracts were similar to in
+betel oil, but the amount of the compounds was quite different. All of extracts
+contained plenty of phenylpropanoids and some sesquiterpenoids. Hexane, DCM
+and EtOH extracts had profoundly high phenylpropanoids 80-90%, whereas EtOAc
+extract had them about 50%. The main compounds found in solvent extracts were
+eugenol acetate, isoeugenol acetate and 4-allylpyrocatechol diacetate.
+Sesquiterpenes including α-copaene, β-caryophyllene, α-humulene, α-amorphene, δcadinene also were found in solvent extracts (Figure 3).
+Comparing between solvent extracts, the different numbers of compounds in
+each extract lead to the difference in percentage of the compound, even though the
+same amount. The more number of compounds lead to lesser percent of each
+compound in the extract. For example, among betel solvent extracts, hexane extract
+had the highest amount of β-caryophyllene (Figure 4), but the percentage of the
+compounds in hexane extract (2.27%) was less than in EtOAc extract
+(3.27%)(Figure 3).
+
+diacetoxybenzene
+51.96 48.79 40.28 30.59
+Figure 3. GC/MS Chromatogram of main compounds found in different solvent
+extracts; hexane, dicholoromethane (DCM), ethyl acetate (EtOAc) and ethanol
+(EtOH). Retention time was set between 10.5 to 15 min. Percentage of compounds
+represented the percentage of peak area of the compound to total compounds in each
+extract.
+Many reports showed that phenylpropenes and sesquiterpenes were found in
+betle oil with difference kinds and quantities depend on habitat of betel. Among
+many reports, the study on chemical composition of betle oil in Thailand showed the
+same pattern with our study (Sukatta, Haruthaithanasen et al. 2003). The major
+components from betel oil is phenylpropenoids and sesquiterpenoids including
+isoeugenol, eugenol acetate, 4-allyl-1,2-diacetoxybenzene, copaene, βcaryophyllene, β-gurjunene, isoledene, chavicol acetate, cineole, α- caryophyllene,
+chavicol, linalool, elemene and eugenol. Another report, P. betle leaf oil from Sri
+Lankan contained safrole (52.7%), allylpyrocatechol diacetate (15.4%), eugenol
+(6.4%) and eugenol acetate (5.8%) as the major components followed by sabinene
+(2.2%), myrcene (1.1%), β-caryophyllene (1.2%), α-selinene (1.4%), β-selinene
+(1.2%) (Mohottalage, Tabacchi et al. 2007). While the essential oil of P. betle leaves
+from India contained 5(2-propenyl)-1,3-benzodioxole (32.79%), eugenol (16.17%),
+18 NU. International Journal of Science 2015; 12(1) : 11 – 24
+2-methoxy-4-(2propenyl)-acetate-phenol (8.01%), gurjunene (4.14%), sabinene
+(3.43%) and germacrene D (3.19%) (Sugumaran, Poornima et al. 2011). However,
+Philippine betel oil had chavibetol (53.1%), chavibetol acetate (15.5%),
+caryophyllene (3.79%) as the major composition (Rimando, Han et al. 1986).
+Essential oil of P. nigrum in India contained β-caryophyllene (29.9%), limonene
+(13.2%), β-pinene (7.9%) and sabinene (5.9%). Whereas, the major component of
+both ethanol and ethyl acetate extracts contained piperine (63.9 and 39.0%), βcaryophyllene (1.0% and 6.7%), piperolein (5.3% and 5.5%) and piperanine (4.0%
+and 5.1%) (Kapoor, Singh et al. 2009).
+Figure 4. GC/MS Chromatogram of main compounds found in different solvent
+extracts; hexane, dicholoromethane (DCM), ethyl acetate (EtOAc) and ethanol
+(EtOH). Retention time was set between 10.5 to 12.5 min.
+Allelopathic activity of betel extracts
+Toxicity of solvents and solubility of extracts
+To test the effect of betel extracts on seed germination, all five extracts were
+diluted to different concentrations. The solvent for extract dissolution was selected
+from 2 criteria. 1) It was not toxic on seed germination and 2) it could dissolve betel
+extracts very well. To complete the criteria for solvent of choice, toxicity of solvents
+and solubility of extracts were tested.
+First of all, toxicity of candidate solvents were tested on seed germination
+comparing to distilled water (Table 2). Percentage of germination more than 70%
+was defined as non-toxic. The result showed that 0.2% DMSO and 0.5% Tween 80
+was non-toxic solvents and could be used for germination assay. 0.2% DMSO had
+no effect on seed germination at all (85-90% germination). 0.5% Tween 80 had no
+effect on O. sativa, B. alboglabra and E. prostrata germination (90% germination),
+NU. International Journal of Science 2015; 12(1) : 11 –24 19
+but a little effect on L. sativa (71.11% germination) and C. barbata germination
+(73.33% germination).
+In addition to toxicity test, the solvent of choice have to completely dissolve
+the extracts (Table 3). The results showed that 0.2% DMSO could dissolve only
+betel oil, but not others. 0.1% Tween 20 could not dissolve any extract at all. 0.1%
+Tween 80 could dissolve only ethanol extract, 0.5% Tween 20 and 0.5% Tween 80
+could dissolve all extracts except DCM. 1.0% Tween 20 and 1.0% Tween 80 could
+dissolve all extracts.
+Using 2 criteria, 0.2% DMSO was used for betel oil preparation at 0.1, 0.5,
+1.0, 2.0 mg/mL for bioassay, since it could totally dissolve oil and it was no toxic on
+all seed tested. 0.1% Tween 20 and 0.1% Tween 80 was not suitable because they
+could not dissolve extracts well. 1.0% Tween 20 and 1.0% Tween 80 was not
+selected because they were toxic to seed tested. 0.5% Tween 20 was also toxic due
+to completely inhibited E. prostrate seed germination. Then the solvent of choice for
+crude extracts dissolution was 0.5% Tween 80, since it could dissolve all extracts
+except DCM and there was a little effect on seed germination. For bioassay, extracts
+of hexane, EtOAc and EtOH was diluted in 0.5% Tween 80 to 0.5, 1.0 and
+2.0 mg/mL.
+The allelopathic potentials of P. betle oil and solvent extracts on seed
+germination was evaluated against 5 plant species; 3 crops and 2 weeds, including a
+monocot (O. sativa), dicot crops (L. sativa and B. alboglabra), a narrowleaf weed
+(C. barbata) and a broadleaf weed (E. prostrata). Betel extracts were tested at
+different concentrations including 0.1, 0.5, 1.0 and 2.0 mg/mL of betel oil, and 0.5,
+1.0 and 2.0 mg/mL of hexane extract, ethyl acetate extract and ethanol extract, using
+distilled water as seed germination control, 0.2% DMSO as betel oil solvent control
+and 0.5% Tween 80 as solvent control. After treatment for 7 days, the germination
+of seeds was counted. Percentage of seed germination under extracts treatment was
+calculated as normalized value to seed germination in the solvent. The results
+demonstrated that all betel extracts had allelopathic activity at different
+concentrations (Table 4).
+Inhibitory effect of betel extracts were tested on crops and weeds seeds
+germination. The results revealed that 1.0 and 2.0 mg/mL of betel oil inhibited all
+tested seeds (Figure 5a). Betel oil at concentration of 0.1 and 0.5 mg/mL did not
+affect or slightly affected on crops seeds but oil at 0.5 mg/ml could completely
+inhibited seed germination of both weeds. Hexane extract at 0.5 and 1.0 mg/mL
+completely inhibited C. barbata, but not E. prostrata (70% inhibition) and no
+inhibitory effect on crops. Hexane 2.0 mg/mL inhibited 2 weeds and a lettuce, but
+had a little effect on rice (20% inhibition) and chinese kale and (30% inhibition)
+(Figure 5b). Ethyl acetate and ethanol extracts acted similarly on phytotoxic effect
+(Figure 5c-d). At 0.5 mg/mL, they completely inhibited C. barbata with some effect
+on E. prostrata (60% inhibition) and no inhibitory effect on crops. At 1.0mg/mL,
+they perfectly inhibited both weeds, and no effect on crops. At 2.0 mg/mL, both
+extracts inhibited all weeds, but had some inhibitory effect on crops. Taken together
+ethyl acetate and ethanol extracts at 1.0 mg/mL were choices of weed control, since
+they unaffected crop seed germination, but totally inhibited weed germination.
+Our study demonstrated that betel oil and solvent extracts had phytotoxic
+activity, especially selectively more effect on narrowleaf weed than on broadleaf
+weed and no effect on crops. There were several reports about allelopathic property
+in plants. Methanol extract from hexane fraction of lettuce (Lactuca sativa L.)
+showed the most inhibition on alfalfa root growth and followed by ethyl acetate,
+butanol and water fractions (Chon, Jang et al. 2005). Moreover, plants in Piperaceae
+(the same family with P.betle) also had allelopathic activity. P. methysticum L. had
+allelopathic effect by inhibiting germination and growth of lettuce (Lactuca sativa
+L), barnyardgrass (Echino chloacrus-galli Beauv var. formosensis Ohwi.), and ducktongue weed (Monochoria vaginalis Presl var. plantaginea Solms-Laub.) (Hong,
+Xuan et al. 2002). The ethyl acetate and n-butanol extracts of P. nigrum showed
+inhibitory activity on Zea mays, Glycine max, Cucurbita moschata, Echinochloa
+crus-galli and Digitarias anguinalis (Yan, Zhu et al. 2006). Moreover, P.
+sarmentosum Roxb. inhibited growth of narrowleaf (Echinochloa crus-galli Beauv,
+Echinochloa colona Link., Festucamyuros L., Lolium multiflorum Lam., Lolium
+rigidum Gaud., Digitaria sanguinalis L., Leptochloa chinensis L. Nees.) and
+broadleaf (Eriogonum compositum Douglas ex Benth.) (Pukclai and Kato-Noguch
+2011).
+NU. International Journal of Science 2015; 12(1) : 11 –24 21
+Table 4. Effects of betel extracts on seed germination
+The main components in extracts, phenylpropanoids or sesquiterpenoids,
+might act as allelopchemicals. Our results presented the moderate amount of βcaryophyllene in all extracts. It is well-known volatile with allelopathic activity. It
+was reported as inhibitor of growth and development of seedlings of various plants.
+β-Caryophyllene from hexane extraction of Senecio salignus inhibited Physalis
+ixocarpa and Echinochloa crus-galli growth (Sanchez-Munoz, Aguilar et al. 2012).
+Another report, β-caryophyllene had allelopathic effect by inhibiting the 
+22 NU. International Journal of Science 2015; 12(1) : 11 – 24
+development of crops seedlings such as Raphanus sativus, Lactuca sativa and
+Brassica campestris (Wang, Staehelin et al. 2010).
+NU. International Journal of Science 2015; 12(1) : 11 –24 23
+Figure 5. Effects of essential oil and solvents extracts at different concentrations on
+crops and weeds germination. a) betel oil b) Hexane c) EtOAc d) EtOH Distilled
+water, 0.2% DMSO and 0.5% Tween 80 were used as control. The statistic values
+were compared between different concentration of betel extracts within a plant
+species at p-value 0.05.
+CONCLUSION
+Taken together, ethyl acetate and ethanol were the best choice of solvents
+for betel extraction for weed control. These solvents obtained high recovery yields
+from betel leaf. The extracts had selective action only to weeds without crops
+interference. Interestingly, the extracts affected the narrowleaf weed which is the
+main trouble in paddy more than to the broadleaf one.
+ACKNOWLEDGEMENTS
+This work was financially supported by Naresuan University Research
+Fund. Thank Associated Professor Dr. Kornkanok Inkaninun for technical support
+and Dr. Pranee Nangngam for plant identification and collection in plant specimen
+collection room.
