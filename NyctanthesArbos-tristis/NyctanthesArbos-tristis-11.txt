@@ -1,0 +1,126 @@
+Sedative Effects of Hot Flower Infusion of Nyctanthes arbo-tristis. on Rats
+
+ABSTRACT
+
+Hot infusion of Nyctanthes arbo-tristis. Linn. (Oleaceae) flowers are used often by some elderly Sri Lankan Buddhist monks as a potential sedative. However, in Ayurvedic, traditional and folkloric medicine of Sri Lanka, no such implication has been made regarding therapeutic activity of these flowers. The aim of this study was to investigate the sedative potential of N. arbo-tristis. flowers in rats using the hole-board technique. A hot flower infusion was made as used by the monks in different concentrations (3.7, 7.5, 12.5, or 18.7 mg/kg) and was orally administered. Sedative potential was assessed 2 h post-treatment. The infusion had a moderate dose-dependent conscious sedative activity in male but, surprisingly, not in female rats. The infusion was well tolerated (in terms of overt toxic signs, liver or kidney functions) even following subchronic treatments and also did not show any overt signs of dependence (classical signs of withdrawal reactions). Sedation appears to result mainly by antioxidant, membrane stabilizing, and by yet undiscovered mechanisms of sedative actions of anthocyanin, a flavonoid, in the flower.
+
+Introduction
+
+Nyctanthes arbor-tristis. Linn. (Oleaceae), night-flowering Jasmine in English, sepalika. in Sinhala, and manjatpu. in Tamil, is a small tree that is alien to Sri Lanka (Jayaweera, 1981). It is now commonly found in Buddhist temples and home gardens almost throughout the country. The tree flowers at night all the year round, and these start to fall from midnight. The flowers are fragrant and bear six white petals and a characteristic orange-colored glabrous corolla. These flowers are esteemed as votive offerings to Buddha statues and sacred Bo trees (Ficus religiosa.) in the morning. By evening, these offered flowers are removed and some Buddhist priests shade-dry them and make an herbal tea (infusion). They believe that it reduces nervousness, excitability or irritability, and agitation. This may possibly be inducing a calming or soothing effect. Herbal medicines are commonly used in many developing countries as nervines for mild neurological disorders (Walter & Rey, 1999).
+
+Phytochemically, N. arbo-tristis. flowers are reported to contain an essential oil similar to that of jasmine and a modified diterpenoid nyctanthin (Sastvi, 1962). Herbal drugs are commonly used as sedatives in traditional medicines of several countries, and they contain appreciable amounts of flavonoids to which their potential sedative activities have been attributed (Soulimani et al., 1997; Ratnasooriya et al., 1999; Ratnasooriya & Dharmasiri, 2001; Rakotonirina et al., 2001; Akah et al., 2002). More recently, anthocyanins from Papaver rhoeas. (Soulimani et al., 2001) and an essential oil from Lippia. spp. (Pascual et al., 2001) have shown to possess potent sedative actions. Collectively, these observations suggest that N. arbor-tristis. flowers may also possess sedative activity, although this perceived benefit has not been claimed in Ayurvedic, traditional or folkloric medicine in Sri Lanka (Jayasinghe, 1979; Jayaweera, 1981). If efficacious sedative action is present in these flowers without undesirable side-effects typical of classical Western sedative drugs (Anonymous, 2000; Mckenry & Salerno, 1992) which are also generally expensive in developing countries, then it would be of clinical relevance as a cost-effective herbal sedative: after all, these flowers are obtained freely all the year round and many people in Sri Lanka still rely on herbal medicine for their primary heath care (Mahindapala, 2000). Interestingly, several new studies have already been started to investigate the potential role between phytochemical and neurological functions (Youdim & Joseph, 2001).
+
+In this study, we sought to explore the putative sedative and toxicological effects of an infusion of N. arbor-tristis. flowers in rats, prepared as generally used by some Buddhist monks, with the highest dose tested being seven times higher than normally used but within acceptable the range for rat models (Dhawn & Srimal, 2000).
+Materials and Methods
+Animals
+
+Healthy adult cross-bread albino rats (males weighing 200–250 g and female weighing 200–225 g) from our colony were used. They were housed in standard environmental conditions (temperature, 28–31°C; photoperiod, approximately 12 h natural light per day; relative humidity, 50–55%) with free access to pelleted food (Master Feed Ltd., Colombo, Sri Lanka) and water.
+Collection of flowers
+
+Fresh flowers from a mature Nyctanthes arbor-tristis. tree that fell to the ground were collected early morning (5.00–6.00 h) from a home garden at Hunupitiya, Colombo 2, Sri Lanka, between September and December 2002. Prof. R.N. de Fonseka, Department of Botany, University of Colombo, did the identification and authentication. A voucher specimen (WDR/Sepalika 1) is deposited at the museum of the Department of Zoology, University of Colombo.
+Preparation of infusion
+
+The fresh flowers were oven-dried (60°C) for 24 h and powdered. This material (4.5 g) was soaked in 24 ml of boiling distilled water (DW) for 30 min. Dark brown infusion (I) was then filtered using a muslin cloth (yield 25.7% v/w) and used directly for experimental work at doses of 3.7, 7.5, 12.5, and 18.7 mg/kg in 1 ml.
+Phytochemical screening
+
+The infusion was subjected to qualitative testing for phenols, coumarins, triterpenoids, steroids, saponins, tannins, sugars, amino acids, alkaloids, flavonoids, and anthocyanins as described by Farnsworth (1966).
+Evaluation of sedative activity
+
+Sedative activity was evaluated using both males and females. Males were divided into 8 groups and treated in the following manner: 1 (n = 8), 1 ml of DW; 2 (n = 8), 3.7 mg/kg of I; 3 (n = 8), 7.5 mg/kg of I; 4 (n = 8), 12.5 mg/kg of I: 5 (n = 6), 1 ml of DW; 6 (n = 6), 12.5 mg/kg of I; 7 (n = 6), 1 ml DW; and 8 (n = 6), 12.5 mg/kg of I. Females were divided into 2 groups and treated as follows: 1 (n = 6), 1 ml of DW; 2 (n = 6), 12.5 mg/kg of I.
+
+After 2 h post-treatment, male rats in groups 1–4 and female rats in groups 1 and 2, after 4 h male rats in groups 5 and 6, and after 6 h male rats in groups 7 and 8 were tested for sedative activity in the rat hole-board test (File & Wardill, 1975). Briefly, each of these rats were individually placed at the center of the standard rat hole-board apparatus and observed for 7.5 min. During this period, the number of rears, number of head dips, cumulative time spent on head dips, and locomotory activity was monitored. The time spent per head dip was then computed.
+Evaluation of the effects on muscle strength and coordination
+
+All male rats used to determine the sedative potential of the infusion were individually subjected to the bar holding test to evaluate muscle strength (Plaznik et al., 1993) and to Bridge (Plaznik et al., 1993) and righting reflex tests (Mortin et al., 1993) to evaluate muscle coordination, and their respective latencies (in seconds) were recorded.
+Evaluation of adverse effects
+
+Twelve male rats were randomly assigned in to equal groups. The rats in group I were orally treated with 18.7 mg/kg of I for 17 consecutive days (9.00–10.00 h), and group 2 was similarly treated with 1 ml of DW. These rats were closely observed, at least once daily, for any overt signs of toxicity [diarrhea, jumping, restlessness, salivation, rhinorrrhea, lachrymation, chewing jaw movements, ptosis, squinted eyes, writhing, convulsions, tremors, yellowing of fur, loss of hair, ataxia, rapid rotational movements of head, neck, and/or entire body around the spinal axis, pallor of lips, flat body posture (“serotonin behavior syndrome”), marked impairments of food and water intake and body weight, lethargy and sleepiness], stress (fur erection and exopthalmia), or aversive behaviors (biting and scratching behavior, licking at tail, paw, and penis, intense grooming behavior or vocalization). The rectal temperature of all these rats were also determined daily using a clinical thermometer (Oson Duopris Company Ltd, Munich, Germany). On day 10 post-treatment, these rats were individually paired overnight with a proestrous female (at 17.00–18.00 h). Precoital sexual behavior (chasing, nosing, anogenital sniffing, genital grooming, attempted clasping and mounting) of the paired rats was observed 1–2 h right after pairing. Vaginal smears of the females were taken the following morning (at 8.00–9.00 h) and examined microscopically (× 100). If spermatozoa were present, their gross morphology was noted and considered as day 1 pregnancy. On day 14 of pregnancy, the rats were laparotomized under mild ether anesthesia using aseptic precautions, and the numbers of uterine implants were recorded. The index of libido was then calculated using the formula: number mated/number paired × 100. On day 17, the oral treatment of I was stopped, and the rats were observed for typical major withdrawal symptoms (such as diarrhea, tremor, jumping, restlessness, profuse salivation).
+Evaluation of dopamine receptor mechanism
+
+Twelve male rats were fasted overnight (with free access to water) and randomly divided into two equal groups. The rats in group 1 were orally treated with 0.2 mg/kg of bromocriptine (Sigma Chemical Company, St. Louis, MO, USA), a dopamine receptor antagonist, in 1 ml and those in group 2 with 1 ml of isotonic saline. After 45 min, rats in both groups were orally treated with 12.5 mg/kg of I and subjected to the rat hole-board test 2 h later.
+Investigation of hypoglycemic effect in normal rats
+
+Twenty-four male rats were fasted for 16 h and divided equally into 4 random groups. Blood samples were drawn from the tail under mild ether anesthesia using aseptic precautions: 1 h before treatment and 2 h and 4 h post-treatment from rats in groups 1 (7.5 mg/kg of I), 2 (12.5 mg/kg of I), 3 (18.7 mg/kg of I), and 4 (1 ml DW). Blood was allowed to clot and serum separated and glucose level estimated spectrophotometrically (JASCO V500, Jasco Corporation, Tokyo, Japan) at 500 nm using Randox kits (Randox laboratories Ltd., Antrium, UK).
+Effect of glucose absorption from intestine
+
+Eighteen male rats were fasted for 16 h and divided equally in to 2 random groups. I was orally administered to group 1 (12.5 mg/kg) and 1 ml of DW to the other group. Thirty minutes later, 10 ml/kg of 50% glucose solution was given orally. After 2 h, post-treatment, these animals were sacrificed and their small intestines were exposed. DW (50 ml) was then infused from one cut end of the intestine and the content was collected at the other end (Dharmasiri, 2001). This was centrifuged at 3000 × g. for 5 min and supernatant removed. Glucose level in the supernatant was then estimated using Randox kits and a spectrophotometer.
+Evaluation of antihistamine activity
+
+Twenty-four male rats were selected and the posterior lateral side of their skin was clearly shaved. Twenty-four hours later, they were divided into 3 groups. The rats in group 1 (n = 12) were orally treated with 12.5 mg/kg of I, 2 (n = 6) with 1 ml of DW orally (control), and 3 (n = 6) with 0.67 mg/kg of chlorpheniramine (SPC, Colombo, Sri Lanka), a histamine receptor antagonist, intraperitoneally. After 2 h, 50 µl of 200 µg/ml histamine (Fluka Chemicals, Buchs, Switzerland) in normal saline was subcutaneously injected to the shaved area of the skin and the area of the wheal formed was determined (Spector, 1956).
+Evaluation of membrane stabilization
+
+To investigate the neuronal membrane stabilizing activity of I, the effect of I on heat-induced hemolysis of rat erythrocyte model was tested (Ratnasooriya & Dharmasiri, 1999). Briefly, 20 µl of uncoagulated fresh rat blood was added to vials containing 1 ml of 0.15 M phosphate-buffered saline (PBS, pH 7.4) and to this either 5 µl of I (625 µg/ml) (n = 6) or PBS (n = 6) was added. Thereafter, the vials were mixed thoroughly and incubated at 37°C for 15 min followed by 25 min at 54°C. The vials were centrifuged at 3200 × g. for 5 min. The absorbance of the supernatant was measured at 540 nm using a spectrophotometer. The percentage inhibition of hemolysis with respect to control was calculated.
+Evaluation of food intake in novel environment
+
+Food intake in an unfamiliar situation was determined (as a measure of anxiety) using the modified method of Perrault et al. (1990). Fourteen rats were deprived of food for 14 h and assigned to two groups. The first group (n = 8) was then orally treated with 12.5 mg/kg of I and the other group (n = 6) with 1 ml of DW. The rats were then put back to their respective original cages for 1 h and then individually placed in a wooden box (35 × 60 × 60 cm) containing a weighed amount of a novel food. After 30 min exposure to the novel environment, the rats were removed and the amount of food consumed was measured.
+Evaluation of serum parameters
+
+Blood was collected from the tails of rats used in the evaluation of adverse effects of I on day 14 of treatment (18.7 mg kg−1day−1) under mild ether anesthesia with aseptic precautions and allowed to clot at room temperature (28–30°C) and centrifuged at 3200 × g. for 5 min. The serum was collected and the GOT (EC 2.6.1.1), GPT (2.6.1.2), alkaline phosphatase (EC 3.1.3.1), creatinine, urea, triglycerides, or total protein levels were determined using Randox kits and a spectrophotometer.
+Evaluation of antioxidant activity
+
+Antioxidant activity of the infusion was determined using thiobarbituric acid reactive substances (TBARS) assay based on fowl egg yolk (Dorman et al., 1995). Briefly, 5, 10, 15, or 20 µl of I (corresponding to 625, 1250, 1875, or 2500 µg/ml) was added to vials containing appropriate reagents, mixed well and incubated at 95°C for 60 min, and allowed to cool. Butanol (5 ml) was then added, mixed well and centrifuged at 1500 × g. for 2 min. The absorbance of the butanol layer was determined spectroscopically in triplicate at 532 nm and the antioxidant index was calculated. One hundred µg/ml of butylated hydroxy toluene (BHT) (100 µg/ml) was used as the positive control and DW as the control. Antioxidant index = (1 − T./C.) × 100 where T. is absorbance of test and C. absorbance of control.
+Statistical analysis
+
+The results are reported as mean ± SEM. Statistical comparisons were made using Mann-Whitney U.-test and G.-test (modified χ2 test), and one-way ANOVA followed by Tukey's family error rate test as appropriate. p values of 0.05 or less were considered significant.
+Results
+Phytochemical screening
+
+Phytochemical analysis showed the presence of flavonoids and anthocyanins.
+Sedative activity
+
+With the lowest dose, none of the parameters were significantly (p > 0.05) altered in the male rats at 2 h post treatment (
+). The mid dose, at 2 h, significantly impaired (p < 0.05) number of rearing (by 16%) and locomotory activity (by 18%). In contrast, the highest dose significantly (p < 0.05) and markedly reduced 3 of the parameters monitored: rearings (by 44%), locomotory activity (by 43%), and cumulative time spent on head dippings (by 54%). Polynomial regression analysis revealed a curvilinear dose-response relationship between the number of rears (r2 = 0.92;p < 0.05), locomotory activity (r2 = 0.99;p < 0.05), and cumulative time spent on head dipping (r2 = 0.88;p < 0.05). On the other hand, with the highest dose, none of the parameters monitored were significantly inhibited in male rats at 4 and 6 h post-treatment (data not shown). Surprisingly, with the females at 2 h, the high dose tested failed to impair significantly (p < 0.05) any of the sedative parameters investigated (data not shown). 
+
+Muscle strength and coordination
+
+None of the latencies of these three tests were significantly (p > 0.05) altered by any of the doses of the infusion (data not shown).
+Adverse effects
+
+There were no treatment-related fatalities or morbidities. Further, there were no marked signs of overt toxicity, stress, or aversive behaviors or obvious signs of serotonin behavior syndrome. There was also no apparent suppression of food and water intake or loss of body weight. Abrupt cessation of treatment did not display any obvious typical signs of dependence.
+
+Precoital sexual behavior of treated rats was essentially similar to those of control. The gross sperm morphology, index of libido (control vs.. treatment, 100% vs.. 100%), or fertility (number of uterine implants: control vs.. treatment, 10.2 ± 0.7vs..9.5 ± 0.4) was not significantly (p > 0.05) altered.
+Dopamine receptor involvement
+
+Bromocriptine pretreatment failed to significantly (p > 0.05) restore any of the sedative parameters impaired by the 12.5 mg/kg dose of I (data not shown).
+Hypoglycemic effect
+
+None of the infusion treatments significantly (p > 0.05) reduced the blood glucose levels (data not shown).
+Glucose absorption from small intestine
+
+At 12.5 mg/kg, the infusion profoundly (96%) and significantly (p < 0.001) decreased the glucose absorption from the small intestine: (control vs.. treatment, 26.0 ± 2.5vs..51.6 ± 4.1 mg/dl.).
+Antihistamine activity
+
+In the histamine-induced vascular permeability test, the infusion failed to significantly (p > 0.05) reduce the area of the wheal (control vs.. treatment, 72.5 ± 5.1vs.. 72.8 ± 0.6 mm2). In contrast, chlopheniramine significantly (p < 0.05) impaired the area of wheal by 33% (control vs.. chlopheniramine, 72.5 ± 5.1vs..49.3 ± 2.0).
+Plasma membrane stabilizing activity
+
+The tested concentration of the infusion significantly (p < 0.001) and markedly (60%) impaired the heat-induced hemolysis in terms of the absorbance values (absorbance: control vs.. treatment, 0.40 ± 0.01vs..0.19 ± 0.01).
+Food intake in novel environment
+
+In the food intake experiment, 12.5 mg/kg of the infusion did not significantly (p > 0.05) alter the food intake (control vs.. treatment, 1.5 ± 0.6vs..1.1 ± 1.4 g).
+Serum parameters
+
+Subchronic treatment did not significantly (p > 0.05) alter any of the serum enzymes (SGOT: control vs.. treatment, 39.5 ± 2.2vs..44.0 ± 2.6 U/L; SGPT: 22.6 ± 0.8vs.. 24.0 ± 0.7 U/L; alkaline phosphatase: 33.0 ± 3.0vs.. 36.0 ± 0.2 U/L; creatinine: 0.79 ± 0.11vs..0.98 ± 0.14; urea: 32.9 ± 3.1vs..32.1 ± 2.6 mg/dl.; triglycerides: (58.5 ±11.5vs..62.6 ± 12.8 mg/dl.; total protein: 9.3 ± 0.3vs.. 8.4 ± 0.4 g/ml..
+Antioxidant activity
+
+The flower infusion displayed a linear dose-dependent (r2 = 0.92, p < 0.05) antioxidant activity as shown in
+. The EC 50 was 3582 µg/ml. 
+
+Discussion
+
+We examined the sedative potential of a total hot infusion of N. arbor-tristis. flowers using the rat hole-board technique. This is a widely used and an acceptable method for the evaluation of potential sedative agents (File & Wardill, 1975). There is evidence that several factors such as stress, time of the day, duration of the test, or test experience influence the results of this experimental model (File, 1985; File & Wardill, 1975). However, in this study, these factors were controlled, and we believe that the results obtained are realistic and reassuring. These results show for the first time that N. arbor-tristis. flowers possess sedative activity even following a single oral treatment (in terms of rearings, head dippings, cumulative time spent on head dippings, and locomotory activity) in male rats but not in female rats with a remarkable safety profile. Perhaps this may possibly explain why Buddhist monks use the infusion. Why this infusion is sex-specific remains unexplained. Gender differences in the synthesis of neurotransmitters in the central nervous system have been reported, albeit inconsistently (Talley, 2001). Interestingly, sexual dimorphisms in drug action with herbal sedatives (Ratnasooriya & Dharmasiri, 2001), analgesics (Fuentes et al., 1999), or the 5-HT antagonist alosteron (Talley, 2001) have already been documented.
+
+The sedative effect showed a curvilinear dose-response relationship. The infusion appears to be rapidly absorbed, as onset of action was seen within 2 h with a short duration of action (lasting 4 h), indicating that accumulation is not a problem. Cessation of subchronic administration neither induced typical withdrawal reactions (such as diarrhea, tremors, jumping, restlessness, salivation, reduced food intake and body weight, and irritability) nor aversive behaviors or paradoxical reactions (such as increased aggression) as are usually evident with several clinically used sedatives, anxiolytics, or hypnotics (Anonymous, 2000; Mckenry & Salerno, 1992). Further, N. arbor-tristis. flowers were not fatal and had an encouraging safety profile even with subchronic administration (as judged by overt clinical signs of toxicity, serum GOT, GPT, alkaline phosphatase, creatinine, urea, triglyceride, total protein levels, elevated rectal temperature). There were no obvious signs of extrapyramidal effects like chewing jaw movements. Further, unlike several clinically used sedatives, which disrupt male libido (Mckenry & Salerno, 1992; Slater et al., 1999; Anonymous, 2000), the flower infusion had no impairment on male libido or fertility.
+
+Sedation of flower infusion was not accompanied with ptosis, impairment of righting reflex, or decreased spontaneous motor activities (such as movements in cage, autogrooming, cleaning of face). This is indicative of conscious sedation with no marked central nervous system depressant effects inducing sleep as typically seen with barbiturates or chloralhydrate (Mckenry & Salerno, 1992). Further, there was neither skeletal muscle relaxant activity nor rigidity (as judged by bar holding test) nor motor incoordination (as evident with Bridge and righting reflex tests). The infusion did not inhibit any of the four parameters in the hole-board test concomitantly to a similar degree except at the highest dose tested, nor did it increase the food intake of rats in a novel environment. Collectively, these observations indicate that the N. arbor-tristis. flower extract lacks benzodiazepine type and/or GABAergic activity (Perrault, 1990; Anonymous, 2000; Mckenry & Salerno, 1992). Sedation is the most common side-effect of most of the first-generation antihistamines (Slater et al., 1999). However, the flower infusion had no antihistamine activity as judged by the response in histamine-induced rat in wheal and flare test, indicating that sedation is not mediated via an antihistamine activity.
+
+Sudden drastic drop in blood glucose level can induce sedation (Laurence & Bennett, 1992). The infusion had no effect on fasting blood glucose level or in glucose tolerance test, although it impaired glucose absorption from the gut. However, this effect on glucose absorption cannot by itself be the causal factor of the sedative action but may explain the effect in part. Some Chinese herbal remedies induce sedation, at least partly, by this mode of action (Ang-Lee et al., 2001). Because the infusion does not affect fasting blood glucose level, it may be used in patients even with diabetes mellitus.
+
+Increases in serotonergic activity can produce sedation (Anonymous, 2000; Laurence & Bennett, 1992; Mckenry & Salerno; 1992, Talley, 2001). Currently, we have no direct evidence regarding serotonergic agonist activity of the infusion. However, the flower infusion did not induce a flat body posture in rats, which is known as serotonin behavior syndrome (Shimizu et al., 1992), possibly suggesting a lack of involvement of serotonergic mechanisms.
+
+Decrease in dopaminergic activity is yet another mechanism to induce sedation (Anonymous 2000; Laurence & Bennett, 1992; Mckenry & Salerno, 1992). Because the infusion-induced sedation was not blocked by the dopamine receptor agonist bromocriptine, this mechanism also seems unlikely to be operative here.
+
+Membrane stabilizers are known to induce sedation (Mckenry & Salerno, 1992; Laurence & Bennett, 1992), perhaps by elevating the threshold of arousal centers in the brain stem as claimed for methprylon (Mckenry & Salerno, 1992). In our experimental conditions, the flower infusion impaired the heat-induced hemolysis of rat erythrocytes in vitro., suggesting a similar mode of sedative action. In addition, the N. arbor-tristis. flowers exhibited dose-dependent antioxidant activity when tested in thiobarbituric acid reactive substance assay (Dorman et al., 1995).
+
+N. arbor-tristis. flowers contained anthocyanins, a common colored natural flavanoid: it is well recognized that flavonoids from many plants possess sedative properties (Farnsworth, 1966; Soulimani et al., 1997; Ratnasooriya et al., 1999; Ratnasooriya & Dharmasiri, 2001; Akah et al., 2002). More interestingly, anthocyanins from Papaver rhoecs. petals (Soulimani et al., 2001) were recently found to have potent sedative effect. Thus, it may be possible that the flower infusion of N. arbor-tristis. induces sedative activity via. its anthocyanins, too.
+
+In conclusion, this study shows for the first time that N. arbo-tristis. flowers possess moderate sedative activity with a low risk-benefit profile and may be used as a surrogate herbal therapy sedative.

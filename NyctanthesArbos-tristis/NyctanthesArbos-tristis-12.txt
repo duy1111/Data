@@ -1,0 +1,61 @@
+Flower extract of Nyctanthes arbor-tristis modulates glutathione level in hydrogen peroxide treated lymphocytes
+
+Abstract
+Background:
+
+Nyctanthes arbor-tristis Linn (Oleaceae) is a well-known traditional medicinal plant used throughout the India as an herbal remedy for treating various infectious and non-infectious diseases.
+Objective:
+
+To evaluate the antioxidative activity of hydro-alcoholic extract of flower in the lymphocytes exposed to oxidative stress induced by H2O2 .
+Materials and Methods:
+
+Isolated lymphocytes were treated in vitro with extract or extract+H2O2, and the level of reduced glutathione (GSH) as well as the activity of glutathione-S-transferase (GST) and lactate dehydrogenase (LDH) were measured.
+Results:
+
+Treatment of lymphocyte with flower extract (50, 100, and 200 μg/ ml) significantly increased the level of GSH and decreased the activity of GST. The LDH activity measured in the cell-free medium decreased significantly. Pre-treatment of lymphocyte with flower extract protects the lymphocyte from the H2O2 induced oxidative stress by significantly increasing the levels of GSH as compared to the cells treated only with H2O2. Pre-treatment also reduced the activity of LDH significantly as compared to the cells treated only with H2O2. The LDH activity in cell-free medium is associated with membrane damage, the decreased levels of LDH activity reflects the reduced level of membrane damage due to H2O2.
+Conclusion:
+
+The present findings suggest the protective role of the hydro-alcoholic extracts of the flower of Nyctanthes arbor-tristis against membrane damage induced by H2O2. The results also suggest that the extract might be rich in phytochemicals with antioxidant/radical scavenging potentials, which might find application in antioxidant therapy.
+Keywords: Nyctanthes arbor-tristis, oxidative stress, reduced glutathione
+INTRODUCTION
+
+Reactive oxygen species (ROS) are generated as a metabolic by product in biological system during normal metabolism of oxygen and plays vital role in cell signaling homeostasis for maintaining normal functioning of cells. In the stress conditions, either intrinsic or extrinsic, ROS levels increase dramatically, resulting imbalance in between oxidants and antioxidants that leads to various forms of damage of micro and macromolecules and finally contributes into the manifestation of disease such as sickle cell anemia, atherosclerosis, Parkinson's disease, heart failure, myocardial infarction, Alzheimer's disease, schizophrenia, cancer etc.[–]
+
+Biological systems inherently have antioxidant system to scavenge and/or neutralize ROS generated under oxidative stress. Cellular antioxidant system (AOEs) consisting of mainly superoxide dismutase (SOD), catalase, reduced glutathione (GSH), glutathione peroxidase (GPx), reduced glutathione (GSH) etc. These biological AOEs function as cascade manner to neutralize or eliminate the ROS and failure of which contributes the diseases manifestation. For effective management of reactive species, antioxidants have been supplemented, and several botanicals and synthetic compounds such as BHT, BHA have been studied for potent source of antioxidants. However, in real, biological state of radical scavenging and subsequent reduction of disease manifestation is still challenging area.
+
+Nyctanthes arbor-tristis Linn (commonly known as Night-flowering Jasmine), belonging to the family Oleaceae, is known for its extensive traditional medicinal use by the rural, mainly tribal people of India along with its use in Ayurveda, Sidha, and Unani systems of medicines. Traditionally, whole plants and different parts have used as an herbal remedy for treating sciatica, arthritis, malaria, enlargement of spleen and as blood purifier. The beautiful white flowers are bitter in taste and are used as stomachic, carminative, astringent to bowel, anti-bilious, expectorant, hair tonic and in the treatment of piles and various skin diseases. Recent pharmacological studies showed anti-spasmodic, antioxidant, anthelmintic, cytoprotective, anti-diabetic, anti-leishmanial, CNS depressant activity of the flower extract. However, very few reports are available regarding antistress or stress scavenging activity or antioxidant activity of the flower extract of this plant. Therefore, the present study was aimed to assess the modulatory response of flower extract of Nyctanthes arbortristis on the cellular antioxidant status in lymphocytes exposed to oxidative stress induced by hydrogen peroxide (H2O2) and tried to correlate with oxidative stress induced membrane damage.
+MATERIALS AND METHODS
+Preparation of Modulator
+
+The flowers of Nyctanthes arbor-tristis were collected from healthy plants, cleaned properly, and dried at shade at room temperature. The dried plant materials were ﬁnely powdered and macerated thrice with 80% (v/v) ethanol in shaking condition for 7 days at room temperature. The extract thus obtained were filtered and concentrated by air drying and stored at 4°C. The resulting extract was dissolved in Dimethyl sulfoxide (DMSO) with final concentration of 2.5 mg/ml.
+Lymphocytes Isolation, culture, and treatment
+
+Anti-coagulated chicken blood, collected from source, was diluted with PBS (1:1, v/v), layered 6 ml into 6 ml Histopaque (1.077 gm/ml), centrifuged at 400 g for 30 minutes, and lymphocytes were isolated from the buffy layer. Isolated lymphocytes were then washed with 2 ml PBS and 2 ml RPMI media separately through centrifugation for 10 minutes at 250 g.[,] Pelleted lymphocytes were then suspended in RPMI, and viability was checked by Trypan blue exclusion method using hemocytometer. Lymphocytes with viability more than 90% were used for subsequent study.
+
+Isolated lymphocytes (200 μl) were seeded in 96 well culture plate in RPMI supplemented with 10% heat inactivated fetal bovine serum (FBS). Lymphocytes were treated with extract (for 4 hr), and extract+H2O2 (1 hr+4 hr) as per experimental requirements and maintained at 37° C and 5% CO2 in CO2 incubator. After incubation, lymphocytes were centrifuged and washed with PBS and homogenized in PBS. The cell homogenates were used for assaying level of GSH, GST activity, and total protein content while cell free media were used for assaying LDH activity.
+Reduced glutathione (GSH) Estimation
+
+Level of reduced glutathione was estimated as total non-protein sulphydryl group in the cell homogenates after precipitating the proteins by 5% tricholoroacetic acid (TCA). The supernatant was mixed with 0.2 M phosphate buffer (pH 8) and 0.6 M 5, 5′-dithio-bis (2-nitrobenzoic acid) and allowed to stand for 8-10 min at room temperature. The absorbance was recorded at 412 nm using a spectrophotometer (Thermo Scientific, UV 10), and level was calculated as nMole of -SH content/mg protein from standard curve made with reduced glutathione (GSH) and finally expressed as percentage change of GSH level.
+Glutathione- S -transferase (GST) activity
+
+The speciﬁc activity of cytosolic GST was determined spectrophotometricaly (Cecil Aquarius, 7000 series) by measuring the CDNB-GSH conjugates formation at 340 nm for 3 min. The reaction mixture (1 ml) was prepared by mixing 0.1 M phosphate buffer (pH 6.5), 1 mM CDNB in 95% ethanol, and 1 mM GSH followed by incubation at 37°C for 5 min prior to measuring OD. The specific activity of GST was calculated using the extinction coefficient 9.6 mM-1 cm-1 at 340 nm and expressed in terms of percentage change of μ mole of CDNB-GSH conjugates formed/ min/mg proteins.
+Lactate Dehydrogenase (LDH) activity
+
+The speciﬁc activity of lactate dehydrogenase (LDH) released into the medium was assayed by measuring the rate of oxidation of NADH at 340 nm using a spectrophometer (Cecil Aquarius, 7000 series). Briefly, assay mixture consists of 50 mM potassium phosphate buffer (pH 7.5), 0.5 mM sodium pyruvate, 0.1 mM NADH, and enzyme sample. The enzyme activity was calculated using extinction coefficient 6.22 mM-1 Cm-1 and finally expressed as percentage change of LDH activity.
+Protein Estimation
+
+The amounts of protein present in the sample were estimated using bovine serum albumin (BSA) as standard by using Folin reagent.
+Statistical Analysis
+
+All the results are expressed as means±SD. Results were statistically analyzed by student's t test for significance difference between group mean using GraphPad software.
+RESULTS AND DISCUSSION
+
+The use of natural products in the form of crude preparation and active principle as a therapeutic regime has been widely established. Several medicinal plants have been studied for their potentials to modulate cellular antioxidants and free radicals, and a numbers of active principles have also isolated from plants with anti-oxidative efficacy.[,] But, there is still lack of magic principle with maximum efficacy and least toxicity. The present study explores the anti-oxidative activity of flower extract of Nyctanthes arbor-tristis, a traditional medicinal plant of India against H2O2 -treated lymphocytes.
+
+H2O2 is weak oxidizing agent and can easily cross cell membranes and inside the cell, H2O2 probably reacts with Fe 2+ and Cu 2+ ions to forms hydroxyl radicals. Increased level of hydroxyl radicals in the cell subsequently cause damage to the cells by interacting with micro and macro molecules. It also inactivate enzymes directly, usually by oxidation of essential thiol (-SH) groups. Our previous study established the detrimental effects of H2O2. Treatment of lymphocyte with H2O2 decreases the viability of cells by lowering cellular antioxidant, reduced glutathione (GSH).
+
+In the present study, the level of GSH increased significantly when lymphocytes were treated with flower extract of Nyctanthes arbor-tristis for 4 hours, and at 200 μg/ml of treatment, 1.22-fold increase was observed in comparison to untreated lymphocytes [Table 1]. In contrast to GSH, the specific activity of glutathione-S-transferase, an important constituent of phase II drug metabolizing enzymes declined; however, the decline was non-significant [Table 1]. For the similar treatment condition, the specific activity of lactate dehydrogenase (LDH), marker of membrane damage was significantly declined in comparison to untreated lymphocytes [Table 1]. This decrease in the activity of LDH suggests non-toxic effect of the extract on the cellular system; rather it might have decreased the endogenous cellular injury (as a part of normal cellular metabolism).[,] These data clearly showed the anti-oxidative property of the crude extract used for the current study.
+
+Increased level of cellular antioxidants is known to provide protection against oxidative stress. Here, in our study, pre-treatment of lymphocytes with the flower extract (50, 100, and 200 μg/ml) for 1 h significantly restored the depleted GSH level in the 1% H2O2 -treated lymphocytes (4 h) [Table 2]. The restoration of GSH level at 200 μg/ ml treatment condition [Table 2] was above the untreated lymphocyte (P<0.001). As expected, the specific activity of GST decreased significantly as compared to the cells treated with H2O2 [Table 2]. GSH is co-factor of GST and is responsible for the redox status of cell. The rise in the levels of GSH is due to decreased GST activity.[,] The significant decrease in the activity of LDH was observed in the lymphocytes pre-treated with flower extract followed by H2O2 treatment. The significant decline in the activity of LDH suggests protective function of the extract against membrane damage induced by the H2O2.
+
+In conclusion, the results of the present study clearly indicate the anti-oxidative and protective role of hydro-alcoholic extract of Nyctanthes arbor-tristis against the oxidative stress induced by H2O2. The encouraging results shown by the hydro-alcoholic extract might be due to the presence of high content of phytochemicals and merits detail pharmacological investigation in suitable model to identify and characterize the active principle responsible for the observed activity.
