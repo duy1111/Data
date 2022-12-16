@@ -1,0 +1,136 @@
+Nerium Oleander
+
+Scientific Name(s): Nerium oleander L.
+Common Name(s): Adelfa, Gandeera, Kaner, Karabi, Laurier rose, Oleander, Rosa francesa, Rosa laurel, Rose bay
+
+Clinical Overview
+Use
+
+Oleander has traditionally been used in the treatment of cardiac illness, asthma, diabetes mellitus, corns, scabies, cancer, and epilepsy, and in wound healing as an antibacterial/antimicrobial. However, limited quality clinical trials are available to support these uses.
+Dosing
+
+There is no clinical evidence to support specific doses of oleander. Extreme caution should be used because of its acute cardiotoxicity, hepatotoxicity, and nephrotoxicity.
+Contraindications
+
+Oleander is no longer considered safe due to extreme toxicity.
+Pregnancy/Lactation
+
+Avoid use. Information regarding safety and efficacy in pregnancy and lactation is lacking.
+Interactions
+
+None well documented.
+Adverse Reactions
+
+Phytodermatitis caused by contact with oleander has been reported frequently. Oleander ingestion can lead to headache, nausea, vomiting, bradycardia, lethargy, and hyperkalemia. Most symptoms appear 4 hours postingestion.
+Toxicology
+
+Oleander is extremely toxic and potentially fatal. Major toxicity reports include disturbances in heart rhythm and death. Signs of toxicity include severe nausea, emesis, abdominal pain, cramping, diarrhea, hyperkalemia, hypertension, lethargy, hepatotoxicity, and nephrotoxicity. Oleander intoxication can negatively impact the lungs, kidneys, spleen, and muscle tissue. Intoxication can occur from ingestion, or from inhalation of smoke from burned plants.
+Scientific Family
+
+    Apocynaceae (dogbane)
+
+Botany
+
+Oleander is a large, glabrous, ornamental evergreen shrub with a milky juice. It grows to between 2 and 5 m in height and has long, narrow leaves almost 13 to 30 cm in length and typically grouped in threes around the stem. The red, pink, or white fluffy flowers form in small clusters. Cultivated plants rarely produce fruits. Oleander is native to Africa, Europe, North America, and the Mediterranean.Butler 2016 Oleander should not be confused with yellow oleander (Thevetia neriifolia), a related toxic plant.Jamal 2012, Lampe 1985, USDA 2018
+History
+
+Oleander was used by primitive people as arrow and dart poisons.Radford 1986 Despite its well-recognized toxic potential, oleander has been used for centuries in traditional medicine for diverse ailments such as cardiac illnesses, asthma, corns, cancer, and epilepsy; in ethnobotanical literature, N. oleander has been described as effective for these indications.Duke 2003, Jamal 2012 A number of other oleander uses have been reported, although in most cases, evidence supporting use is lacking. N. oleander leaves have been ground and mixed with honey to form a poultice and applied topically to treat scabies.Leporatti 1985 In certain regions of Morocco, phytotherapy represents an integral part of health care and has included N. oleander; diabetes mellitus, hypertension, indigestion, malaria, leprosy, mental or venereal diseases, and cardiac disorders are conditions treated with oleander.Bavunoglu 2016, Eddouks 2002 In folk medicine, oleander flowers and leaves have been used to treat congestive heart failure, leprosy, pain, malaria, ring worm, inflammation, and indigestion.Ayaz 2015, Cao 2018 In Arab folk medicine, oleander has been used as a powder and decoction for treating solid tumors and skin ailments.Cao 2018 Patented Anvirzel is used in Africa as a treatment for HIV/AIDS.Jamal 2012 The fresh leaves are bitter and rarely consumed.Butler 2016
+Chemistry
+
+The oleander plant contains a number of related cardiac glycosides similar in activity to digitalis. The main glycosides are oleandrin and neriine.Ayaz 2015, Radford 1986 Additional main active ingredients include polysaccharides, cardenolides, and triterpenes.Kars 2013 Four cardenolides (neridiginoside, neitaloside, nerizoside, and odoroside-H) exhibit CNS-depressant activity.Khordadmehr 2018 In addition, a variety of other pharmacologically active compounds, including folinerin, rosagenin, rutin, and oleandomycin, have been identified.Duke 2003
+Uses and Pharmacology
+Antimicrobial/antibacterial effects
+Animal and in vitro data
+
+One study showed that N. oleander chloroform and petroleum ether leaf extracts inhibited Bacillus subtilis, Sarcina lutea, Escherichia coli, and Klebsiella pneumoniae, with the highest activity against E. coli.Jamal 2012 In another study, varying concentrations (10%, 25%, 50%, and 100%) of the ethanol extract of N. oleander showed a strong and broad spectrum of antimicrobial activity.Bidarigh 2012 The study demonstrated that N. oleander can be used for biocontrol of the early blight disease in yams, as indicated by antifungal activity against various plant pathogenic fungi and bacterial phytopathogens.
+
+Crude methanolic extracts and fractions of the N. oleander plant were studied against gram-negative and -positive bacteria, as well as fungus. Results showed moderate to high antimicrobial activity against all Staphylococcus aureus, gram-positive B. subtilis, E. coli, and gram-negative Pseudomonas aeruginosa. Wounds treated with N. oleander formulations showed an increase in tensile strength; the increase is indicative of improved collagenation, which significantly contributes to better and effective wound healing.Rout 2014
+
+An aloe vera gel–based extract of N. oleander (NAE-8) showed strong antioxidant capacity and provided better cellular antioxidant protection compared to treatment with an aqueous extract of N. oleander or an extract of aloe vera gel alone. NAE-8 protected cells from apoptosis and oxidation of intracellular glutathione following hydrogen peroxide exposure.Benson 2015 In another study, an oleandrin-free version of NAE-8 combined with a water-soluble egg membrane potentially supported reparative functions in skin based on increased cytokine production, activation of natural killer (NK) cells, increased chemokine production, and antiviral protection.Benson 2016
+
+In another study, NAE-8 reduced elevated malondialdehyde (MDA) levels and reduced tumor necrosis factor (TNF)-alpha and IL-1beta levels in rats with second-degree burns covering 30% of total body surface area. Topical treatment with NAE-8 twice daily (2 mL/kg/day) for 14 days showed promising results in wound treatment. Myeloperoxidase (MPO) activity increased in the NAE-8 treatment group, indicating inflammation was abolished. Treatment with NAE-8 also significantly reduced the increase in mean percentage of DNA in the tail triggered by burn injury, which may point to DNA repair capacity. The study revealed clearly developed epithelization, reductions in necrosis and inflammation, and regular collagen levels with NAE-8 treatment, all indications of wound healing properties.Akgun 2017
+Anti-inflammatory activity
+
+Extracts of oleander flowers have demonstrated anti-inflammatory activity via inhibition of nitric oxide production, possibly due to kaempferol content.Balkin 2018
+Cancer
+Animal and in vitro data
+
+In one study, N. oleander extract displayed a dose-dependent inhibitory effect against the growth of lung carcinoma cells in female rats.Gayathri 2013
+
+A modified extract of N. oleander (protein-bound iodine [PBI]-05204) administered daily via oral gavage strongly inhibited growth of human pancreatic cancer in an orthotopic mouse model. After 6 weeks of treatment at the highest dose (40 mg/kg), PBI-05204 nearly eradicated tumor growth.Pan 2015
+
+Screening studies of cardenolide compounds extracted from oleander plants suggest anticancer activity.Wen 2016 Oleandrin inhibits certain kinases, transcription factors, and inflammatory mediators, including tumor necrosis factor. This may provide a molecular basis for the ability of oleandrin to suppress inflammation and perhaps tumorigenesis.Manna 2000 The cardenolides from a crude ethanol extract of the aerial parts of N. oleander exhibited inhibitory activity against proliferation of human cancer cell lines in vitro. These included gastric, colon, and cervical cancer cells.Cao 2018 Anvirzel, consisting of mainly oleandrin and oleandrigenin, showed a time-dependent efficacy in decreasing viability of human cancer cells in lung, colon, uterine, and breast cancer cell lines.Apostolou 2011 Though some effects on cancer cell lines have been promising, one study found that N. oleander leaf distillate was not an effective drug resistance reversal agent in cancer cells resistant to paclitaxel and vincristine.Kars 2013
+Clinical data
+
+An aqueous extract containing the cardiac glycosides oleandrin, odorside, and neritaloside, and the aglycone oleandrigenin (Anvirzel) has been studied in a phase 1 clinical trial in 18 patients with advanced, refractory solid tumors. However, no objective antitumor responses were observed.Mekhail 2006 An oral N. oleander extract was studied in a phase 1 clinical trial of 46 patients with advanced solid tumors over the course of 21 days. The extract was well tolerated in heavily pretreated patients with advanced solid tumors. No objective responses were observed in the phase 1 trial.Hong 2014
+Diabetes
+Animal data
+
+Rats that received N. oleander plant extract 250 mg/kg of body weight orally for 28 days had improved insulin and glucose levels, and improved alkaline phosphatase and liver enzyme activities.Mwafy 2011
+
+N. oleanderdistillate concentrations (7.5 mcg/mL, 75 mcg/mL, and 750 mcg/mL in distilled water) administered to rats daily via gavage for 12 weeks resulted in decreased glycosylated hemoglobin A1c (HbA1c) levels, insulin concentration, and fasting blood glucose levels. Insulin sensitivity also improved. Oleander administration may be beneficial in reducing microvascular and macrovascular risk of type 2 diabetes mellitus.Bas 2012
+
+Rats with type 2 diabetes given N. oleander distillate at a dose of 375 mcg per 0.5 mL of distilled water by gavage once daily prevented type 2 diabetes–induced altered lipid profile and cardiomyocytes dysfunction. The focus of the study was to determine the therapeutic or protective potential of N. oleander distillate in diabetic cardiomyopathy, a secondary complication of diabetes. Results showed decreased contractile force and AST levels. Promising results in the relaxation periods of the contractions and positive effects in kinetic data were observed, indicating that N. oleander distillate reverses the calcium-induced calcium release mechanism altered by diabetes.Ayaz 2015
+
+N. oleander leaf extract (NOLE) administered to mice orally at a dose of 200 mg/kg of body weight for 20 days had glucose-lowering effects. After NOLE treatment, additional promising results included normalization of HbA1c and insulin levels, increased glucose tolerance, and lowering of hepatic glycogen. Dose-dependent alpha-amylase inhibitory activity of NOLE also points to the potential of lowering postprandial blood glucose levels.Dey 2015
+Hyperlipidemia
+Animal data
+
+N. oleanderdistillate concentrations (7.5 mcg/mL, 75 mcg/mL, and 750 mcg/mL in distilled water) administered to rats daily via gavage for 12 weeks resulted in decreased total cholesterol, low-density lipoprotein (LDL), and triglyceride (TG) levels, as well as increased high-density lipoprotein (HDL) levels. The reduced TG-HDL ratio indicates that N. oleander treatment may prevent extensive coronary artery disease by decreasing atherogenic particles.Bas 2012
+
+An extract of N. oleander administered to rats via intragastric route resulted in dose-dependent reductions in total cholesterol, TG, LDL, and very low–density lipoprotein levels. There was also an increase in HDL levels at doses of 10, 30, and 100 mg/kg.Gayathri 2013
+
+In a study in rats, N. oleander distillate supplementation (375 mcg per 0.5 mL of distilled water by gavage daily for 90 days) decreased the high blood cholesterol levels in the group that consumed a high-fat diet. Pla2g2d gene expression level increased in high fat diet–fed rats, which can be a sign of atherosclerosis due to accumulated lipid; however, in N. oleander–treated rats in the high-fat diet group, this effect was decreased. Up-regulation of the BAAT gene with N. oleander supplementation decreased blood cholesterol levels and increased bile acid synthesis.Demirel Kars 2014
+
+NOLE administered to mice orally for 20 days resulted in substantial decreases in liver marker enzymes, as well as in cholesterol and TG levels. N. oleander also resulted in decreased serum MDA levels, which signifies lowering of lipid peroxidation.Dey 2015
+Dosing
+
+There is no clinical evidence to support specific doses of oleander. Extreme caution is warranted because of oleander's toxicity potential (eg, acute cardiotoxicity, hepatotoxicity, and nephrotoxicity).
+Pregnancy / Lactation
+
+Avoid use. Information regarding safety and efficacy in pregnancy and lactation is lacking. Oleander has been used as an abortifacient.Bavunoglu 2016
+Interactions
+
+None well documented.
+Adverse Reactions
+
+Phytodermatitis caused by contact with oleander has been frequently reported. Dermatitis may result when crushed leaves of the shrub come into contact with the skin of an individual with sensitivity to a prior exposure. The crushed leaves and stems have been reported to be irritating, but the allergenic properties have not been adequately studied. Generally, no positive patch test can be obtained.Apted 1983
+
+A phase 1 clinical study reported GI adverse effects (nausea, vomiting, diarrhea, constipation) but no significant cardiotoxicity at the dosages studied. One patient developed left ventricular hypertrophy.Mekhail 2006
+Toxicology
+
+The entire oleander plant contains toxins, which include steroidal glycosidic cardenolides and pentacyclic terpenoids. However, the highest levels are found in the roots and seeds. The red flowers contain more toxins than the pink, and the pink more than the white. Even smoke from the plant and water in which the plant has been immersed can be toxic. Postingestion, clinical signs of toxicosis can be seen within 2 hours, but might not appear for up to 48 hours depending on the type ingested.Butler 2016, Lampe 1985
+
+In birds, as little as 0.12 to 0.7 g of the plant has caused death.Arai 1992 In horses, 15 to 20 g of fresh leaves can be fatal, and 1 to 5 g can be lethal in sheep.Duke 2003 Death has occurred in children who ingested a handful of flowers and in adults who used the fresh twigs as meat skewers; the nectar makes honey toxic.Duke 2003, Osol 1955 Additionally, oleander was reportedly used in a case of deliberate poisoning by chronic administration of the roots of the plant over an 8-week period.Le Couteur 2002
+
+Common blood chemistry changes associated with oleander toxicosis include azotemia, hyperglycemia, elevated creatine phosphokinase and lactate levels, and hyperkalemia.Butler 2016 Symptoms of oleander toxicity include nausea, emesis, abdominal pain, cramping, and diarrhea. Special attention must be given to cardiac function. The cardiac glycosides may induce conduction defects, most commonly defects affecting the sinus or atrioventricular (AV) nodes with PR interval prolongation and progression to atrioventricular dissociation.Eddleston 2000 In animals, oleander toxicity can readily be confirmed during necropsy by detection of oleandrin presence in tissue.Botelho 2018
+
+Oleander toxicity should be managed aggressively. Gastric lavage or induced emesis should be performed. Treatment should include administration of activated charcoal within 2 hours of exposure, with a second dose given 8 hours later to prevent reabsorption, as oleander toxins undergo enterohepatic recirculation.Butler 2016 Electrocardiogram (ECG) monitoring for cardiac impairment and monitoring of serum potassium levels should be performed frequently.Lampe 1985 Conduction defects can usually be managed with atropine and isoproterenol, which contain similar compounds.Fonseka 2002 Anti-digoxin fabric antigen binding (Fab) fragments have been shown to be a safe and effective treatment for serious cardiac arrhythmias induced by yellow oleander. Administration of anti-digoxin antibodies can restore sinus rhythm and rapidly correct bradycardia and hyperkalemia. However, the lower affinity of digoxin-specific Fab for non-digoxin cardiac glycosides in oleander results in a larger dose requirement than for usual digoxin toxicity.Bandara 2010, Eddleston 2000
+
+In a patient who ingested oleander, the serum digoxin levels were high (4.4 ng/mL) and were associated with bradyarrhythmias and tachyarrhythmias, which decreased as the serum concentration of the toxin decreased.Mesa 1991 Another patient who ingested 7 oleander leaves in a suicide attempt had digoxin serum levels of 5.69 nmol/L, according to a digoxin radioimmunoassay; this assay confirmed toxicity, but did not predict the severity of the toxicity.Romano 1990 A healthy 30-year-old man prepared and drank a syrup made from boiled N. oleander leaves for hemorrhoids; he was admitted to the hospital 8 hours later with complete atrioventricular block and bradycardic episodes that reverted to normal sinus rhythm 30 hours after treatment with charcoal, sodium sulfate, and electrolytes. Discharge was delayed as a result of atrial extrasystoles that gradually resolved.Küçükdurmaz 2012 An 18-year-old woman presented with Mobitz type II atrioventricular block with right bundle branch block, left anterior hemiblock, and T-wave inversions in leads V4 through V6 eight hours after drinking a cup of oleander tea as part of a weight loss regime. The patient was treated successfully with 200 mg of digoxin-specific Fab antibody fragments intravenously over 30 minutes. Sinus rhythm with right bundle branch block was noted by the end of the 30-minute infusion; she was discharged 72 hours later without further symptoms.Tatlısu 2015
+
+A case of fatal hepatotoxicity probably associated with daily IM administration of N. oleander extract for 2 months was reported in a 43-year-old woman with a history of synovial sarcoma of the knee with pulmonary and bone metastasis, originally diagnosed 3 years prior. Two years after her original 3 cycles of chemotherapy (ifosfamide, doxorubicin), she experienced progression of pulmonary lesions that led to 6 courses of ifosfamide and etoposide. Pulmonary metastasis subsequently developed and the patient began therapy with N. oleander extract (Anvirzel) at a dosage of 1.2 mL/m2/day IM for 2 months without the knowledge of her medical team. She was also taking tramadol 50 mg 3 times daily. She was admitted with ascites and elevated liver enzymes that worsened over the following 2 weeks and required frequent paracentesis. She developed disseminated intravascular coagulation during week 3 and developed fatal cardiopulmonary arrest.Altan 2009
+
+A 60-year-old female was admitted to the emergency department with complaints of diarrhea, vomiting, and abdominal pain after drinking water containing oleander leaves. Examination also showed sinus bradycardia, increased blood pressure, and hyperkalemia. Oleander was detected in the urine at a concentration of 3.2 ng/mL and in the serum at a concentration of 8.4 ng/mL.Bavunoglu 2016
+
+A 33-year-old woman who ingested 25 g of N. oleander leaves boiled in 350 mL of water for 20 minutes developed headache, vomiting, bradycardia, and hyperkalemia. She was treated with 160 mg of digoxin immune Fab, followed 4 hours later with a second dose in addition to 50 g of activated charcoal. Serum oleandrin concentrations were 19.6 mcg/L and 7.5 mcg/L at 15.5 and 44 hours postingestion, respectively.Bataille 2018
+
+A 44-year-old man who deliberately ingested flowers and leaves of 40 pink N. oleander plants developed vomiting, blurred vision, and diarrhea within 1 hour. Upon arrival to the emergency department, he was drowsy with fluctuating heart rate and elevated blood pressure. He complained of severe central chest pain; an ECG showed sinus bradycardia and tachycardia with PR prolongation and rapid atrial fibrillation with variable block. Two vials of DigiFab were administered 30 minutes after arrival, which led to improvement in cardiac symptoms. Potassium concentration rose from 4.3 mmol/L to 5.5 mmol/L within 1 hour of arrival, prompting administration of 2 additional vials of DigiFab. ECG readings began to normalize, symptoms resolved, and potassium returned to normal. The patient was also given four 25 g doses of activated charcoal.Wong 2018
+
+In a retrospective review of calls to one poison control center over 7 years related to human exposure to plants, one of the most common reasons for calls was oleander poisoning.Enfield 2018
+
+A dog presented to a clinic 24 hours postingestion of an unknown amount of oleander leaves with detectable levels of digoxin (0.7 ng/mL); with no history of cardiac glycoside administration, the measured level was determined to be a result of oleander ingestion, confirming a diagnosis of oleander toxicosis. Upon presentation, he was weakly ambulatory, displayed depressed mentation, ataxia, bradyarrhythmia, second-degree heart block, painful abdominal palpation, nausea, vomiting, and subcutaneous emphysema. Further findings showed leukocytosis, hyperphosphatemia, elevated serum area nitrogen (BUN), hypoglycemia, and a potassium level at the upper limit of normal. After treatment, GI symptoms and arrhythmias improved, but hypoglycemia remained. Euglycemia was achieved after dextrose bolus.Page 2015
+
+In a retrospective study with 8 camelids, 3 were treated for oleander toxicity, one resulting in death. Upon discharge from treatment, one developed persistent atrial fibrillation.Bozogmanesh 2016
+
+In a case report, a 1-year-old miniature horse experiencing lethargy and inappetence for 12 hours was taken to a veterinarian and treated for symptoms and arrhythmias, with no improvement after 24 hours. Approximately 72 hours after symptom onset, the horse was found deceased. A second horse from the same farm experienced lethargy and anorexia for 6 hours, with further deterioration 12 hours later. In addition, the horse was experiencing cardiac arrhythmias. Oleander was found on the farm; oleander toxicosis was confirmed by the presence of oleandrin in GI contents and by the presence of cardiac glycosides in the serum.Butler 2016
+
+Rats receiving 10 mL/kg of an N. oleander decoction administered IM displayed damage to the lungs, kidneys, spleen, liver, and muscle tissue as evidenced by histological cellular changes in tissue integrity at 24 hours, alveolar tissue dilation and collapse, massive infiltration with hemorrhage, and extravasation of blood cells, which might have been due to edema and infiltration of macrophages. Glomeruli shrinkage with enlarged Bowman's space and substantial necrosis were found in the renal tubular cells of the kidneys, possibly due to toxin interference with structural integrity of the glomeruli and renal tubules. Cellular disruption and degeneration of white pulp was noted in the spleen, possibly due to immunotoxic effects of xenobiotics of their metabolites in the extract of the leaves. Extensive iron accumulation was found in the liver. Necrosis to muscle fibers may have been due to inflammation or disturbance in calcium ion transporting systems.Abbasi 2018
+
+In one study, NOLE administered orally to mice at doses up to 2,000 mg/kg of body weight for 20 days resulted in no mortality.Dey 2015
+
+In mice and rats, clinical signs of toxicity appeared within 12 hours after exposure to N. oleander extract administered orally by stomach gavage needle at doses of 10 mg/kg, 12.5 mg/kg, 15 mg/kg, and 20 mg/kg of body weight. Symptoms included depression, restlessness, lacrimation, incoordination, pawing of the ground, convulsions, head circling, and anorexia. No mortality was observed. Furthermore, subjects had pathological lesions that included hyperemia, hemorrhage, and coagulative necrosis without inflammatory cell infiltration or signs of pericarditis, myocarditis, or endocarditis.Khordadmehr 2018
+
+A mixed-breed dog presented to emergency veterinary care services for vomiting and severe lethargy that quickly progressed to collapse. The owner reported oleander ingestion; on presentation, the dog was depressed, weakly ambulatory, and ataxic. Examination revealed severe tachyarrhythmia, tense abdomen with discomfort upon palpation, respiratory alkalosis, hyperlactatemia, and hypophosphatemia. Digoxin immune Fab (ovine) injection (DigiFab) was administered 22 hours postingestion, with improvement observed 3 hours after treatment.Pao-Franco 2017
+
+Mice and rats administered aqueous leaf and flower extracts of N. oleander via oral gavage at doses of 10 mg/kg, 12.5 mg/kg, 15 mg/kg, and 20 mg/kg displayed signs of toxicity, including anorexia, nervousness, depression, restlessness, crying, ataxia, pawing of the ground, convulsions, falling, and turning of the head backwards. Signs presented 12 hours postingestion and were more severe at higher doses. No cases of mortality occurred. Pathological changes in the kidney were more severe at higher doses and included hyperemia and hemorrhage, coagulative necrosis, and interstitial nephritis associated with mononuclear inflammatory cell infiltration. In the liver of mice, pathological changes were also more severe at higher doses. Biochemical findings showed significant increase in AST and ALT, as well as differences in BUN and creatinine levels. Based on results, N. oleander was found to be both nephrotoxic and hepatotoxic.Khordadmehr 2017

@@ -1,0 +1,98 @@
+Nerium Oleander related books and journals
+
+Nerium oleander L. (Apocynaceae), the only species currently classified in the genus Nerium, is an evergreen shrub or small with all parts of the plant being toxic.
+
+Plants, Poisonous
+
+Teresa Dodd-Butera, Molly Broderick, in Encyclopedia of Toxicology (Second Edition), 2005
+Oleander (Nerium oleander)
+Description
+
+Oleander is a flowering tree in the summer, which grows to a height of 25 ft, with green leaves and thick sap. Oleander is native to the Mediterranean, but found in the southern United States and elsewhere in the world. In addition to oleander, other toxic cardiac glycosides with similar effects are lily of the valley (Convallaria majalis), and yellow oleander (Thevetia peruviana).
+Uses
+
+The oleander is cultivated as a flowering shrub in gardens. Also, Digitalis purpurea and Digitalis lantana have been used medicinally.
+Exposure Routes and Pathways
+
+Poisoning may occur through ingestion and dermal exposure. All parts of the plant contain varying amounts of cardiac glycosides. Concentrations of toxins peak during flowering season, and are found in seeds, stems, roots, and red flowers, in particular. Leaves contain oleandrin.
+Mechanism of Toxicity
+
+Toxins similar to digoxin inhibit sodium–potassium ATPase and include oleandrin, digitoxigenin, nerium folinerium, and rosagenin.
+Symptoms of Toxicity
+
+Toxicity from the cardiac glycosides includes gastrointestinal and cardiovascular symptoms. Nausea, vomiting, and irregular heartbeat may occur.
+Clinical Management
+
+Symptomatic and supportive treatment, in addition to digoxin-specific antibody fragments, can be effective for oleander toxicity.
+
+Physical, Hematological, and Histopathological Signs of Toxicity Induced by African Medicinal Plants
+
+Victor Kuete, in Toxicological Survey of African Medicinal Plants, 2014
+22.5.7 Nerium oleander
+
+Nerium oleander L. (Apocynaceae), the only species currently classified in the genus Nerium, is an evergreen shrub or small with all parts of the plant being toxic [24]. It is cultivated worldwide and is one of the most poisonous of commonly grown garden plants. In traditional medicine, the inhalation of the vapors arising from a heated decoction of the roots is used to treat headaches and colds [48]. Decoctions of the leaves are used for skin diseases and against paralysis and pain in extremities [48]. In the Sinai desert (Egypt), the plant is widely used in traditional Bedouin medicine to treat cancers [48]. Nerium oleander contains several lethal toxins, neroside, and oleandroside, the cardiac glycosides oleandrin (5) and oleandrigenin (6) [24]. It was reported that the toxins of this plant, upon ingestion, shut down the cardiovascular and nervous systems, after causing severe nausea and projectile vomiting [24]. Toxicity studies of animals administered Nerium oleander extract showed that rodents and birds were relatively insensitive to the cardiac glycosides of this plant [49]. Nerium oleander leaves have been found toxic to cattle, causing death within 36 h [49]. Toxic symptoms involved arrhythmia and auriculo-ventricular block, subendocardial and abomasal hemorrhages [49]. It was demonstrated that other mammals including dogs and humans, are relatively sensitive to the effects of cardiac glycosides and the clinical manifestations of glycoside intoxication [50,51]. The sap of this plant can cause skin irritations, severe eye inflammation and irritation, and allergic reactions characterized by dermatitis [52]. In general, the reactions to ingestion of this plant can include both gastrointestinal and cardiac effects. The reported gastrointestinal effects were nausea and vomiting, excess salivation, abdominal pain, and diarrhea [53] while cardiac reactions consist of irregular heart rate. It was also reported that poisoning and reactions to oleander plants are evident quickly, requiring immediate medical care [52] that can include induced vomiting and gastric lavage to reduce absorption of the toxic compounds. Charcoal has also been suggested to be administered to help absorb any remaining toxins [53].
+
+
+Emergency Diseases Outside the Continental United States
+
+Alexandre Secorun Borges, ... Andrew W. van Eps, in Equine Emergencies (Fourth Edition), 2014
+Cardiac Glycosides
+
+- Plants such as Nerium oleander (oleander) and Thevetia peruviana are ornamental shrubs that often are planted close to stables and paddocks.
+- These plants are highly toxic and contain cardenolides.
+- Bufadienolide cardiac glycosides are found in Homeria (Fig. 40-15) and Moraea species of “tulp.”
+- These plants are also contaminants of Eragrostis hay and lucerne (Fig. 40-16).
+
+Clinical Signs
+
+- Severe colic
+- Weakness, depression, and icterus
+- Inhibition of Na+/K+-ATPase, increased intracellular Ca2+ causing bradycardia, paroxysmal tachycardia, and arrhythmias (AV block, ectopic beats, and gallop rhythm with dropped beats)
+- Yellow-green diarrhea
+
+Diagnosis
+
+- Analysis of gastrointestinal tract (GIT) content or urine
+- Postmortem: histopathology of the heart may reveal myocardial necrosis and fibrosis.
+
+ What to Do
+Cardiac Glycosides
+
+- Activated charcoal, 1 g/kg PO immediately
+- Atropine and propranolol
+
+
+Toxicology
+
+Robert H. Poppenga, Birgit Puschner, in Equine Emergencies (Fourth Edition), 2014
+Oleander (Nerium oleander)
+
+- Oleander was introduced into the United States and grows mostly in the southern states from California to Florida (Figs. 34-33 and 34-34).
+- Oleander can be a potted houseplant in northern climates.
+- Affected individuals become exposed from browsing on plants around buildings or eating dried leaves in the hay or discarded plant clippings.
+- Practice Tip: All parts of the plant are toxic, and as little as 1 oz (28 g or approximately 8 to 10 mid-sized leaves) of leaves can be lethal to a 450-kg adult.
+- Toxic principle is oleandrin, which remains toxic when the plant is dried.
+
+Mechanism of Toxic Action
+
+See Foxglove, p. 601.
+Clinical Signs
+
+- Signs include colic, muscle tremors, hemorrhagic diarrhea, recumbency, arrhythmias, weak pulse, and signs of cardiac failure.
+- Renal failure may develop in horses that survive for several days.
+- Onset of clinical signs may be delayed several hours after ingestion.
+- Signs may persist for several days after last ingestion.
+
+Diagnosis
+
+- Evidence of consumption, compatible clinical signs
+- Identification of leaf fragments in the stomach or GI contents: Some laboratories (California Animal Health and Food Safety Laboratory, Davis) test for oleandrin in the GI contents, urine, serum, liver, and heart.
+- Histologic evidence of cardiac necrosis and possibly renal lesions
+
+ What to Do
+Oleander Toxicosis
+
+- Administer AC, 1 to 2 g/kg PO.
+- Administer magnesium sulfate by mouth.
+- Provide supportive care and confinement in a quiet area.
+- Evaluate cardiac irregularities, and treat with appropriate antiarrhythmic drugs, if arrhythmia is life-threatening.
